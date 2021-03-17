@@ -2,7 +2,7 @@
 
 site_name: Documentação
 site_description: Repositório da disciplina EPS/MDS
-repo_url: https://github.com/fga-eps-mds/2020.2-Parlamentaqui
+repo_url: https://github.com/parlamentaqui/documentation
 site_dir: site
 dev_addr: ‘0.0.0.0:8000
 theme:

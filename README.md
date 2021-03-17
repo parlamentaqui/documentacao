@@ -7,12 +7,14 @@ Este é um repositório voltado para a documentação do projeto Parlamentaqui, 
 Este projeto é desenvolvido por: 
 
 ### Equipe de gerência, composta por alunos de Engenharia do Produto de Software
+
 | Nome           | Função                |
 |----------------|-----------------------|
 | Felipe Campos  | Devops                |
 | Gabriel Albino | Product Owner         |
 | Helena Bretas  | Scrum master          |
 | Lucas Machado  | Arquiteto de software |
+
 ### Equipe de desenvolvimento, composta por alunos de Métodos de Desenvolvimento de Software
 
 | Nome              | Função         |
