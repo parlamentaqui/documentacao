@@ -1,0 +1,1374 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Repositório da disciplina EPS/MDS">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Documeto de Arquitetura - Documentação</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#757575">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="grey" data-md-color-accent="black">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#documeto-de-arquitetura" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="Documentação" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Documentação
+              </span>
+              <span class="md-header-nav__topic">
+                Documeto de Arquitetura
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/parlamentaqui/documentation/" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href=".." title="Documentação" class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </a>
+    Documentação
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/parlamentaqui/documentation/" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Documentação" class="md-nav__link">
+      Documentação
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Documeto de Arquitetura
+      </label>
+    
+    <a href="./" title="Documeto de Arquitetura" class="md-nav__link md-nav__link--active">
+      Documeto de Arquitetura
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" title="1. Introdução" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo" title="1.1 Objetivo" class="md-nav__link">
+    1.1 Objetivo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-escopo" title="1.2 Escopo" class="md-nav__link">
+    1.2 Escopo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-definicoes-acronimos-e-abreviacoes" title="1.3 Definições, Acrônimos e Abreviações" class="md-nav__link">
+    1.3 Definições, Acrônimos e Abreviações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-representacao-de-arquitetura" title="2. Representação de Arquitetura" class="md-nav__link">
+    2. Representação de Arquitetura
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-arquitetura-de-microservicos" title="2.1 Arquitetura de Microserviços" class="md-nav__link">
+    2.1 Arquitetura de Microserviços
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-processo-de-etl" title="2.2 Processo de ETL" class="md-nav__link">
+    2.2 Processo de ETL
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-tecnologias" title="2.3 Tecnologias" class="md-nav__link">
+    2.3 Tecnologias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-metas-e-restricoes-da-arquitetura" title="3. Metas e Restrições da Arquitetura" class="md-nav__link">
+    3. Metas e Restrições da Arquitetura
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-metas-do-software-parlamentaqui" title="3.1 Metas do Software Parlamentaqui" class="md-nav__link">
+    3.1 Metas do Software Parlamentaqui
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-restricoes-da-arquitetura" title="3.2 Restrições da Arquitetura" class="md-nav__link">
+    3.2 Restrições da Arquitetura
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-pacotes" title="Diagrama de pacotes" class="md-nav__link">
+    Diagrama de pacotes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-arquitetura-dos-servicos-e-visao-de-implementacao" title="4. Arquitetura dos Serviços e visão de Implementação" class="md-nav__link">
+    4. Arquitetura dos Serviços e visão de Implementação
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-visao-geral" title="4.1 Visão Geral" class="md-nav__link">
+    4.1 Visão Geral
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-microservicos-e-camadas" title="4.2 Microserviços e camadas" class="md-nav__link">
+    4.2 Microserviços e camadas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-visao-de-dados" title="5 Visão de dados" class="md-nav__link">
+    5 Visão de dados
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-dados-abertos-camara" title="5.1 Dados abertos camara" class="md-nav__link">
+    5.1 Dados abertos camara
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-twitter" title="5.2 Twitter" class="md-nav__link">
+    5.2 Twitter
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-noticias" title="5.3 Noticias" class="md-nav__link">
+    5.3 Noticias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-dicionario-de-dados-cross-data" title="5.4 Dicionário de dados Cross Data" class="md-nav__link">
+    5.4 Dicionário de dados Cross Data
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#referencias" title="Referências" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../backlog/" title="Backlog do produto" class="md-nav__link">
+      Backlog do produto
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../doc_visao/" title="Documento de visão" class="md-nav__link">
+      Documento de visão
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../guia_estilo/" title="Guia de Estilo" class="md-nav__link">
+      Guia de Estilo
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../lean_inceptio/" title="Lean Inception" class="md-nav__link">
+      Lean Inception
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" title="1. Introdução" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo" title="1.1 Objetivo" class="md-nav__link">
+    1.1 Objetivo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-escopo" title="1.2 Escopo" class="md-nav__link">
+    1.2 Escopo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-definicoes-acronimos-e-abreviacoes" title="1.3 Definições, Acrônimos e Abreviações" class="md-nav__link">
+    1.3 Definições, Acrônimos e Abreviações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-representacao-de-arquitetura" title="2. Representação de Arquitetura" class="md-nav__link">
+    2. Representação de Arquitetura
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-arquitetura-de-microservicos" title="2.1 Arquitetura de Microserviços" class="md-nav__link">
+    2.1 Arquitetura de Microserviços
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-processo-de-etl" title="2.2 Processo de ETL" class="md-nav__link">
+    2.2 Processo de ETL
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-tecnologias" title="2.3 Tecnologias" class="md-nav__link">
+    2.3 Tecnologias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-metas-e-restricoes-da-arquitetura" title="3. Metas e Restrições da Arquitetura" class="md-nav__link">
+    3. Metas e Restrições da Arquitetura
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-metas-do-software-parlamentaqui" title="3.1 Metas do Software Parlamentaqui" class="md-nav__link">
+    3.1 Metas do Software Parlamentaqui
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-restricoes-da-arquitetura" title="3.2 Restrições da Arquitetura" class="md-nav__link">
+    3.2 Restrições da Arquitetura
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-pacotes" title="Diagrama de pacotes" class="md-nav__link">
+    Diagrama de pacotes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-arquitetura-dos-servicos-e-visao-de-implementacao" title="4. Arquitetura dos Serviços e visão de Implementação" class="md-nav__link">
+    4. Arquitetura dos Serviços e visão de Implementação
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-visao-geral" title="4.1 Visão Geral" class="md-nav__link">
+    4.1 Visão Geral
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-microservicos-e-camadas" title="4.2 Microserviços e camadas" class="md-nav__link">
+    4.2 Microserviços e camadas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-visao-de-dados" title="5 Visão de dados" class="md-nav__link">
+    5 Visão de dados
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-dados-abertos-camara" title="5.1 Dados abertos camara" class="md-nav__link">
+    5.1 Dados abertos camara
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-twitter" title="5.2 Twitter" class="md-nav__link">
+    5.2 Twitter
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-noticias" title="5.3 Noticias" class="md-nav__link">
+    5.3 Noticias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-dicionario-de-dados-cross-data" title="5.4 Dicionário de dados Cross Data" class="md-nav__link">
+    5.4 Dicionário de dados Cross Data
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#referencias" title="Referências" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/parlamentaqui/documentation/edit/master/docs/arquitetura.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="documeto-de-arquitetura">Documeto de Arquitetura</h1>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01/03/2021</td>
+<td>1.0</td>
+<td>Criação do documento de arquitetura</td>
+<td>Lucas Machado</td>
+</tr>
+<tr>
+<td>13/03/2021</td>
+<td>1.1</td>
+<td>Adicionando dicionário de dados</td>
+<td>Lucas Machado</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-introducao">1. Introdução</h2>
+<h3 id="11-objetivo">1.1 Objetivo</h3>
+<p>Este documento tem como finalidade mostrar uma visão geral sobre a arquitetura e ferramentas utilizadas no projeto Parlamentaqui.</p>
+<h3 id="12-escopo">1.2 Escopo</h3>
+<p>O Parlamentaqui tem como objetivo ser uma plataforma web responsiva que possibilite visualizar perfis de deputados contendo noticias, dados dos mesmos e coisas relevantes a um deputado, além de mostrar twittes recentes desses deputados caso possuam a rede social. </p>
+<h3 id="13-definicoes-acronimos-e-abreviacoes">1.3 Definições, Acrônimos e Abreviações</h3>
+<ul>
+<li>API: Application Programming Interface.</li>
+<li>Framework: Conjuntos de funções e componentes pré definidos.</li>
+<li>ETL: Extract, Transform and Load</li>
+</ul>
+<h2 id="2-representacao-de-arquitetura">2. Representação de Arquitetura</h2>
+<p>O projeto foi modelado seguindo a arquitetura de microserviços utilizando API's para realizar a conexão entre os serviços e o frontend da aplicação. </p>
+<p>A arquitetura de microserviços foi escolhida por ser altamente escalável, pela acessibilidade para os desenvolvedores sendo mais fácil entender os serviços individualmente e por consequentcia os ciclos de desenvolvimentos poderem ser mais rapidos. Estes fatores já poderiam ser suficientes para a escolha desta arquitetura no projeto mas ainda resta a maior resiliencia do projeto, ou seja o projeto fica mais tolerante a falhas, um exemplo disso é caso ocorra alguma falha em um dos serviços isso não afeta os outros pois cada um deles funciona independente do outro.</p>
+<p>Com todos os ambientes e coordenando-os, construimos uma arquitetura de Microserviços integrada realizando o processo de ETL de forma correta e assim ao fim do projeto sejam apresentados dados relevantes para o nosso usuário final.</p>
+<h3 id="21-arquitetura-de-microservicos">2.1 Arquitetura de Microserviços</h3>
+<p>A arquitetura orientada a micro serviços foi escolhida para este projeto por motivo das suas vantagens levando em relação a estrutura monolítica, dentre elas estão:</p>
+<ul>
+<li>Resiliencia ou seja o projeto fica mais tolerante a falhas.</li>
+<li>Altamente escalável</li>
+<li>Otimização da utilização da infraestrutura.</li>
+<li>Diminuição da complexidade de manutenção.</li>
+</ul>
+<h3 id="22-processo-de-etl">2.2 Processo de ETL</h3>
+<p>O processo de etl (Extract, Transform and Load) em si é um processo de extração de dados, e após essa extração há um tratamento destes dados e por fim o carregamento deles em uma base de dados.</p>
+<p><img alt="2.2 Processo de ETL" src="../img/etl.png" /></p>
+<p>Na fase de extração os dados podem vir das mais diversas formas além de ocorrer casos onde existem mais de uma fonte de dados. Por esses motivos é necessário na fase seguinte que é transformar esses dados, pegando apenas a parte que é interessante para o nosso produto deizando livre de inconsistencias e assim deixando os dados compativeis com as regras de negócio que foram definidadas para o nosso projeto.</p>
+<p>Com esse procedimento realizado corretamente somente deverá ocorrer o carregamento destes dados no banco de dados escolhido para a nossa aplicação.</p>
+<h3 id="23-tecnologias">2.3 Tecnologias</h3>
+<ul>
+<li>React</li>
+<li>Python Flask</li>
+<li>Docker</li>
+<li>PostgreSQL</li>
+<li>Travis CI</li>
+<li>Git</li>
+</ul>
+<h2 id="3-metas-e-restricoes-da-arquitetura">3. Metas e Restrições da Arquitetura</h2>
+<h3 id="31-metas-do-software-parlamentaqui">3.1 Metas do Software Parlamentaqui</h3>
+<ul>
+<li>Dar acesso a uma home com as últimas interações de políticos no twiter / perfis de politicos e atividades relacionadas (ordenação de acordo com atividades recentes);</li>
+<li>Mostrar projetos votados recentemente, com informações sobre os projetos em seu perfil.</li>
+<li>Possibilitar o compartilhamento inteligente.</li>
+</ul>
+<p>Para mais informações vá no documento redigido a partir do <a href="../lean_inceptio/">lean inception</a> que contém detalhadamente as metas do projeto.</p>
+<h3 id="32-restricoes-da-arquitetura">3.2 Restrições da Arquitetura</h3>
+<ul>
+<li>O deputado possuir a rede social do twiter.</li>
+<li>As noticias com o deputado citarem seu nome em algum trecho da noticia.</li>
+</ul>
+<h2 id="diagrama-de-pacotes">Diagrama de pacotes</h2>
+<p><img alt="Noticias" src="../img/dados/diagrama_pacote.png" /></p>
+<p>Acima é demonstrada a implementação geral dos pacotes do projeto Parlamentaqui.</p>
+<h2 id="4-arquitetura-dos-servicos-e-visao-de-implementacao">4. Arquitetura dos Serviços e visão de Implementação</h2>
+<h3 id="41-visao-geral">4.1 Visão Geral</h3>
+<p><img alt="4.1 Visão Geral" src="../img/arquitetura2.png" /></p>
+<h3 id="42-microservicos-e-camadas">4.2 Microserviços e camadas</h3>
+<p>A arquitetura e sua versão atual está particionada em:</p>
+<ul>
+<li><strong>Front-End</strong></li>
+</ul>
+<p>O front-end é a fronteira é responsável por incorporar os dados armazenados fornecidos pelo Gateway apresentando  os mesmos para o usuário final.</p>
+<ul>
+<li><strong>Gateway</strong></li>
+</ul>
+<p>Fronteira responsável pela  junção de todos os endpoints em somente um local,   é o local responsavel por persistir e manter os dados relevantes para o produto. Através de uma API, disponibiliza os dados para o Front-End.</p>
+<ul>
+<li><strong>Dados abertura camara</strong></li>
+</ul>
+<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>dados abertos da camaras</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<ul>
+<li><strong>Twitter</strong></li>
+</ul>
+<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>Twitter</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<ul>
+<li><strong>Noticias</strong></li>
+</ul>
+<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>Google News (Brasil) API</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<ul>
+<li><strong>TSE</strong></li>
+</ul>
+<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>TSE</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<h2 id="5-visao-de-dados">5 Visão de dados</h2>
+<h3 id="51-dados-abertos-camara">5.1 Dados abertos camara</h3>
+<p><img alt="Representação de Arquitetura" src="../img/dados/dados_abertos.png" /></p>
+<h3 id="52-twitter">5.2 Twitter</h3>
+<p><img alt="Twitter" src="../img/dados/twitter.png" /></p>
+<h3 id="53-noticias">5.3 Noticias</h3>
+<p><img alt="Noticias" src="../img/dados/noticias.png" /></p>
+<h3 id="54-dicionario-de-dados-cross-data">5.4 Dicionário de dados Cross Data</h3>
+<p><strong>Entidade:</strong> Deputado</p>
+<table>
+<thead>
+<tr>
+<th><strong>Atributo</strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>idDeputado</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>nome</td>
+<td>string</td>
+<td>Nome do deputado</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>urlFoto</td>
+<td>string</td>
+<td>Url da foto do deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>idLegislaturaInicial</td>
+<td>int</td>
+<td>Id da legislatura do deputado inicial</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>idLegislaturaFinal"</td>
+<td>int</td>
+<td>Id da legislatura do deputado final</td>
+<td></td>
+</tr>
+<tr>
+<td>anoLegislaturaInicial</td>
+<td>int</td>
+<td>Ano da legislatura do deputado inicial</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>anoLegislaturaFinal</td>
+<td>int</td>
+<td>Ano da legislatura do deputado final</td>
+<td></td>
+</tr>
+<tr>
+<td>dataUltimaAtivdade</td>
+<td>date</td>
+<td>Data da ultima</td>
+<td></td>
+</tr>
+<tr>
+<td>nomeCompleto</td>
+<td>string</td>
+<td>Nome completo deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>siglaSexo</td>
+<td>string</td>
+<td>Sexo</td>
+<td></td>
+</tr>
+<tr>
+<td>email</td>
+<td>string</td>
+<td>Email</td>
+<td></td>
+</tr>
+<tr>
+<td>dataNascimento</td>
+<td>date</td>
+<td>Data de nascimento</td>
+<td></td>
+</tr>
+<tr>
+<td>dataFalecimento</td>
+<td>date</td>
+<td>Data de Falecimento</td>
+<td></td>
+</tr>
+<tr>
+<td>UF</td>
+<td>string</td>
+<td>UF</td>
+<td></td>
+</tr>
+<tr>
+<td>partido</td>
+<td>string</td>
+<td>Sigla do partido</td>
+<td></td>
+</tr>
+<tr>
+<td>instagram</td>
+<td>string</td>
+<td>User do instagram</td>
+<td></td>
+</tr>
+<tr>
+<td>twitter</td>
+<td>string</td>
+<td>User do twitter</td>
+<td></td>
+</tr>
+<tr>
+<td>facebook</td>
+<td>string</td>
+<td>User do facebook</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Entidade:</strong> GastosDeputado</p>
+<table>
+<thead>
+<tr>
+<th><strong>Atributo</strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>idDeputado</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>ano</td>
+<td>int</td>
+<td>Ano</td>
+<td></td>
+</tr>
+<tr>
+<td>mes</td>
+<td>int</td>
+<td>Mes</td>
+<td></td>
+</tr>
+<tr>
+<td>tipoDespesa</td>
+<td>string</td>
+<td>Descrição da despesa</td>
+<td></td>
+</tr>
+<tr>
+<td>tipoDocumento</td>
+<td>date</td>
+<td>Tipo do documento</td>
+<td></td>
+</tr>
+<tr>
+<td>dataDocumento</td>
+<td>date</td>
+<td>Data do documento</td>
+<td></td>
+</tr>
+<tr>
+<td>numDocumento</td>
+<td>string</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>valorDocumento</td>
+<td>int</td>
+<td>Valor do documento</td>
+<td></td>
+</tr>
+<tr>
+<td>urlDocumento</td>
+<td>string</td>
+<td>Link para o documento</td>
+<td></td>
+</tr>
+<tr>
+<td>nomeFornecedor</td>
+<td>string</td>
+<td>Nome do fornecedor</td>
+<td></td>
+</tr>
+<tr>
+<td>cnpjCpfFornecedor</td>
+<td>string</td>
+<td>Cpf ou CNPJ do fonecedor</td>
+<td></td>
+</tr>
+<tr>
+<td>valorLiquido</td>
+<td>int</td>
+<td>Valor</td>
+<td></td>
+</tr>
+<tr>
+<td>valorGlosa</td>
+<td>int</td>
+<td>Multa de contrato</td>
+<td></td>
+</tr>
+<tr>
+<td>numRessarcimento</td>
+<td>string</td>
+<td>Numero do resarcimento</td>
+<td></td>
+</tr>
+<tr>
+<td>codLote</td>
+<td>int</td>
+<td>Codigo do lote</td>
+<td></td>
+</tr>
+<tr>
+<td>parcela</td>
+<td>string</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Entidade:</strong> VotoParlamentar</p>
+<table>
+<thead>
+<tr>
+<th><strong>Atributo</strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>idDeputado</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>idVotacao</td>
+<td>string</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>deputado_nome</td>
+<td>string</td>
+<td>Nome do deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>deputado_siglaPartido</td>
+<td>string</td>
+<td>Sigla partido</td>
+<td></td>
+</tr>
+<tr>
+<td>deputado_siglaUf</td>
+<td>string</td>
+<td>Uf partido</td>
+<td></td>
+</tr>
+<tr>
+<td>deputado_idLegislatura</td>
+<td>string</td>
+<td>Id da legislatura</td>
+<td></td>
+</tr>
+<tr>
+<td>dataHoraVoto</td>
+<td>date</td>
+<td>Data do voto</td>
+<td></td>
+</tr>
+<tr>
+<td>voto</td>
+<td>string</td>
+<td>Voto</td>
+<td></td>
+</tr>
+<tr>
+<td>votouDeAcordo</td>
+<td>string</td>
+<td>Votou de acordo com o partido</td>
+<td></td>
+</tr>
+<tr>
+<td>proposicao_id</td>
+<td>string</td>
+<td>Id da proposição</td>
+<td></td>
+</tr>
+<tr>
+<td>proposicao_ementa</td>
+<td>string</td>
+<td>Texto da proposição</td>
+<td></td>
+</tr>
+<tr>
+<td>proposicao_titulo</td>
+<td>string</td>
+<td>Titulo da praposição</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Entidade:</strong> Noticias</p>
+<table>
+<thead>
+<tr>
+<th><strong>Atributo</strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“idDeputado”: “123123”</td>
+<td>int</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>“iNoticia”</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>“link”</td>
+<td>string</td>
+<td>Link da notica</td>
+<td></td>
+</tr>
+<tr>
+<td>“foto”</td>
+<td>string</td>
+<td>Url da imagem</td>
+<td></td>
+</tr>
+<tr>
+<td>“titulo”</td>
+<td>string</td>
+<td>Titulo da noticia</td>
+<td></td>
+</tr>
+<tr>
+<td>“Resumo”</td>
+<td>string</td>
+<td>Resumo da noticia</td>
+<td></td>
+</tr>
+<tr>
+<td>“NomeDeputado”</td>
+<td>string</td>
+<td>Nome deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>“dataAlteração”</td>
+<td>date</td>
+<td>Data da alteração</td>
+<td></td>
+</tr>
+<tr>
+<td>“source”</td>
+<td>string</td>
+<td>Source</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Entidade:</strong> Twitter</p>
+<table>
+<thead>
+<tr>
+<th><strong><em>Atributo</em></strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“tweetid”</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>“idDeputado”</td>
+<td>int</td>
+<td>Id do deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>“name”</td>
+<td>string</td>
+<td>Nome do deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>“username”</td>
+<td>string</td>
+<td>Username do deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>“data”,”12/1212”</td>
+<td>date</td>
+<td>data do tweet</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="referencias">Referências</h3>
+<p>Silva Gomes da Gama e Abreu, Fábio. DESMISTIFICANDO O CONCEITO DE ETL</p>
+<ul>
+<li>http://www.fsma.edu.br/si/Artigos/V2_Artigo1.pdf</li>
+</ul>
+<p>Newman, Sam. Building Microservices.</p>
+<ul>
+<li>https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf</li>
+</ul>
+<p>ETL (extrair, transformar e carregar)</p>
+<ul>
+<li>https://docs.microsoft.com/pt-br/azure/architecture/data-guide/relational-data/etl</li>
+</ul>
+<p>Símbolos e notação de diagramas entidade-relacionamento:</p>
+<ul>
+<li>https://www.lucidchart.com/pages/pt/simbolos-de-diagramas-entidade-relacionamento</li>
+</ul>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href=".." title="Documentação" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Documentação
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../backlog/" title="Backlog do produto" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Backlog do produto
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.9e1f3b71.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
