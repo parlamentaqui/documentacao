@@ -87,28 +87,25 @@ Para quem é interessado em saber o que está acontecendo com diversos parlament
 
 ### 3. Perfil dos Usuários e Envolvidos
 
-<br><p align="justify"> Os envolvidos na utilização da plataforma podem ser definidos como mostra a tabela abaixo:
+Os envolvidos na utilização da plataforma podem ser definidos como mostra a tabela abaixo:
 
-|             Representantes             |                                                  Descrição                                                   |                         Tipo                         |          Responsabilidades           | Envolvimento |
-| :------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------: | :----------: |
+| Representantes |   Descrição   |   Tipo   |  Responsabilidades  | Envolvimento |
+| :------------: | :-----------: | :------: | :-----------------: | :----------: |
 | Intusiastas interessados por política. |           Pessoas que buscam por assuntos relacionados a política no geral e possíveis candidatos.           |  Usuário que não atua diretamente no ramo político.  | Consultar dados disponíveis no site. |     Alto     |
-|          Políticos atuantes.           | Políticos regulares que buscam por assuntos referentes a situação de seus concorrentes e sua imagem pessoal. | Usuário que atua frequentemente no cenário político. |  Acessar dados disponíveis no site.  |    Médio     |
+|          Políticos atuantes.           | Políticos regulares que buscam por assuntos referentes a situação de seus concorrentes e sua imagem pessoal. | Usuário que atua frequentemente no cenário político. |  Acessar dados disponíveis no site.  |    Médio     | |
 
-<br>
 
 ### 3.1. Definição dos Stakeholders
 
-<p align="justify">Os stakeholders são todos os interessados na criação e utilização da plataforma. Nesse sentido, podemos defini-los como descritos abaixo:
-<br><br>
+Os stakeholders são todos os interessados na criação e utilização da plataforma. Nesse sentido, podemos defini-los como descritos abaixo:
 
 #### 3.1.1. Usuários finais da aplicação
 
-<p align="justify">Estes usuários podem ser pessoas que buscam por assuntos relacionados a política no geral e possíveis candidatos, bem como políticos regulares que buscam por assuntos referentes a situação de seus concorrentes e sua imagem pessoal.
-<br><br>
+Estes usuários podem ser pessoas que buscam por assuntos relacionados a política no geral e possíveis candidatos, bem como políticos regulares que buscam por assuntos referentes a situação de seus concorrentes e sua imagem pessoal.
 
 #### 3.1.2. Desenvolvedores
 
-<p align="justify">Os desenvolvedores do projeto consiste em um grupo de seis alunos do curso de Engenharia de Software da Universidade de Brasília que cursam a disciplina de Métodos de Desenvolvimento de Software do segundo semestre do ano de 2020. Estes são os responsáveis pela documentação, desenvolvimento da aplicação e manutenção da plataforma.
+Os desenvolvedores do projeto consiste em um grupo de seis alunos do curso de Engenharia de Software da Universidade de Brasília que cursam a disciplina de Métodos de Desenvolvimento de Software do segundo semestre do ano de 2020. Estes são os responsáveis pela documentação, desenvolvimento da aplicação e manutenção da plataforma.
 <br><br>
 
 ## 4. Definição do produto
