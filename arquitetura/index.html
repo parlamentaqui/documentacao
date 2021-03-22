@@ -757,6 +757,12 @@
 <td>Adicionando dicionário de dados</td>
 <td>Lucas Machado</td>
 </tr>
+<tr>
+<td>22/03/2021</td>
+<td>1.1</td>
+<td>Atualiizando atributos</td>
+<td>Lucas Machado</td>
+</tr>
 </tbody>
 </table>
 <h2 id="1-introducao">1. Introdução</h2>
@@ -845,9 +851,9 @@
 <h3 id="51-dados-abertos-camara">5.1 Dados abertos camara</h3>
 <p><img alt="Representação de Arquitetura" src="../img/dados/dados_abertos.png" /></p>
 <h3 id="52-twitter">5.2 Twitter</h3>
-<p><img alt="Twitter" src="../img/dados/twitter.png" /></p>
+<p><img alt="Twitter" src="../img/dados/twitter_v2.png" /></p>
 <h3 id="53-noticias">5.3 Noticias</h3>
-<p><img alt="Noticias" src="../img/dados/noticias.png" /></p>
+<p><img alt="Noticias" src="../img/dados/noticias_v2.png" /></p>
 <h3 id="54-dicionario-de-dados-cross-data">5.4 Dicionário de dados Cross Data</h3>
 <p><strong>Entidade:</strong> Deputado</p>
 <table>
@@ -1176,55 +1182,55 @@
 </thead>
 <tbody>
 <tr>
-<td>“idDeputado”: “123123”</td>
+<td>idDeputado</td>
 <td>int</td>
-<td></td>
+<td>Id do deputado</td>
 <td></td>
 </tr>
 <tr>
-<td>“iNoticia”</td>
-<td>int</td>
+<td>iNoticia</td>
+<td>string</td>
 <td>Primary key</td>
 <td>Not null</td>
 </tr>
 <tr>
-<td>“link”</td>
+<td>link</td>
 <td>string</td>
 <td>Link da notica</td>
 <td></td>
 </tr>
 <tr>
-<td>“foto”</td>
+<td>foto</td>
 <td>string</td>
 <td>Url da imagem</td>
 <td></td>
 </tr>
 <tr>
-<td>“titulo”</td>
+<td>titulo</td>
 <td>string</td>
 <td>Titulo da noticia</td>
 <td></td>
 </tr>
 <tr>
-<td>“Resumo”</td>
+<td>Resumo</td>
 <td>string</td>
 <td>Resumo da noticia</td>
 <td></td>
 </tr>
 <tr>
-<td>“NomeDeputado”</td>
+<td>NomeDeputado</td>
 <td>string</td>
 <td>Nome deputado</td>
 <td></td>
 </tr>
 <tr>
-<td>“dataAlteração”</td>
+<td>dataAlteração</td>
 <td>date</td>
 <td>Data da alteração</td>
 <td></td>
 </tr>
 <tr>
-<td>“source”</td>
+<td>source</td>
 <td>string</td>
 <td>Source</td>
 <td></td>
@@ -1243,31 +1249,31 @@
 </thead>
 <tbody>
 <tr>
-<td>“tweetid”</td>
-<td>int</td>
+<td>idTweet</td>
+<td>string</td>
 <td>Primary key</td>
 <td>Not null</td>
 </tr>
 <tr>
-<td>“idDeputado”</td>
+<td>idDeputado</td>
 <td>int</td>
 <td>Id do deputado</td>
 <td></td>
 </tr>
 <tr>
-<td>“name”</td>
+<td>name</td>
 <td>string</td>
 <td>Nome do deputado</td>
 <td></td>
 </tr>
 <tr>
-<td>“username”</td>
+<td>username</td>
 <td>string</td>
 <td>Username do deputado</td>
 <td></td>
 </tr>
 <tr>
-<td>“data”,”12/1212”</td>
+<td>data</td>
 <td>date</td>
 <td>data do tweet</td>
 <td></td>
