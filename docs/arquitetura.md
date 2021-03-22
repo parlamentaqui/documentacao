@@ -5,6 +5,7 @@
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 01/03/2021 | 1.0    | Criação do documento de arquitetura                 |    Lucas Machado   |
 | 13/03/2021 | 1.1    | Adicionando dicionário de dados                     |    Lucas Machado   |
+| 22/03/2021 | 1.1    | Atualiizando atributos                              |    Lucas Machado   |
 
 ## 1. Introdução
 
@@ -123,12 +124,12 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 ### 5.2 Twitter
 
-![Twitter](./img/dados/twitter.png)
+![Twitter](./img/dados/twitter_v2.png)
 
 
 ### 5.3 Noticias
 
-![Noticias](./img/dados/noticias.png)
+![Noticias](./img/dados/noticias_v2.png)
 
 ### 5.4 Dicionário de dados Cross Data
 
@@ -197,25 +198,25 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 | **Atributo** | **Dominio** | **Descrição** | **Restrição** |
 |-|-|-|-|
-| “idDeputado”: “123123” | int |  |  |
-| “iNoticia” | int | Primary key | Not null |
-| “link” | string | Link da notica |  |
-| “foto” | string | Url da imagem |  |
-| “titulo” | string | Titulo da noticia |  |
-| “Resumo” | string | Resumo da noticia |  |
-| “NomeDeputado” | string | Nome deputado |  |
-| “dataAlteração” | date | Data da alteração |  |
-| “source” | string | Source |  |
+| idDeputado | int | Id do deputado |  |
+| iNoticia | string | Primary key | Not null |
+| link | string | Link da notica |  |
+| foto | string | Url da imagem |  |
+| titulo | string | Titulo da noticia |  |
+| Resumo | string | Resumo da noticia |  |
+| NomeDeputado | string | Nome deputado |  |
+| dataAlteração | date | Data da alteração |  |
+| source | string | Source |  |
 
 **Entidade:** Twitter
 
 | ***Atributo*** | **Dominio** | **Descrição** | **Restrição** |
 |-|-|-|-|
-| “tweetid” | int | Primary key | Not null |
-| “idDeputado” | int | Id do deputado |  |
-| “name” | string | Nome do deputado |  |
-| “username” | string | Username do deputado |  |
-| “data”,”12/1212” | date | data do tweet |  |
+| idTweet | string | Primary key | Not null |
+| idDeputado | int | Id do deputado |  |
+| name | string | Nome do deputado |  |
+| username | string | Username do deputado |  |
+| data | date | data do tweet |  |
 
 ### Referências
 
