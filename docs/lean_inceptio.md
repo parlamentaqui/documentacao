@@ -1,5 +1,10 @@
 # Lean Inception
 
+| Data       | Versão | Descrição                                           | Autor              |
+| ---------- | ------ | --------------------------------------------------- | ------------------ |
+| 08/03/2021 | 1.0    | Criação do documento                                |    Lucas Machado   |
+| 13/03/2021 | 1.1    | Transcrever lean inception                          |    Lucas Machado   |
+
 Todo procedimento do lean inception foi realizado seguindo conforme é explicado no livro **Lean inception: como alinhar pessoas e construir o produto certo** e feito em grupo com os todos os seus integrantes.
 
 ### Ideia
