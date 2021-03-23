@@ -1,10 +1,12 @@
-# Earned Value Management
+# **EVM**
+
+## Earned Value Management
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 22/03/2021 | 0.1    | Adicionado template               | Gabriel Albino |
-| 22/03/2021 | 0.2    | Adicionado parâmetros iniciais da release| Gabriel Albino |
-| 23/03/2021 | 0.3    | Adicionado dados das sprints 1 e 2| Gabriel Albino |
+| 22/03/2021 | 0.1    | Adicionado template                                 | Gabriel Albino     |
+| 22/03/2021 | 0.2    | Adicionado parâmetros iniciais da release           | Gabriel Albino     |
+| 23/03/2021 | 0.3    | Adicionado dados das sprints 1 e 2                  | Gabriel Albino     |
 
 ## Descrição
 Esse documento tem como objetivo gerenciar e rastrear o retorno do investimento do produto Parlamentaqui
@@ -46,12 +48,15 @@ comprimento do sprint.
 
 
 ## Release 1 (MVP)
+
 A release 1, composta pelas ondas 1 e 2 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), contem os seguintes parâmetros: 
 
 ### BAC - Budget at Complete
+
 Para o calculo do BAC foi levado em conta 3 fatores, descritos abaixo:
 
 **1. Preço da mão de obra de cada aluno da UnB envolvido no projeto**
+
 Para realizar esse calculo, foi utilizado o valor médio de custo por aluno de 15 mil reais/ano, conforme publicado em [matéria do correio braziliense](https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_ensinosuperior/2015/03/05/ensino_ensinosuperior_interna,474102/portas-abertas-ao-cidadao). A matéria não cita fontes porém não foram encontrados outros locais com a informação.
 
 Considerando que o ano possui 2 semestres letivos, e considerando uma média de 360 horas/aula realizada por aluno a cada semestre, chegamos ao valor aproximado de 20 reais/hora.
@@ -62,12 +67,12 @@ Levando em conta as 5 sprints com histórias de usuário estimadas, chegamos ao 
 
 **2. Custos de serviços de energia e internet**
 
-a) Energia
+- Energia
 
 Considerando o consumo de 60 Watts/hora por notebook e levando em conta as mesmas 10 horas de desenvolvimento/sprint, chegamos ao valor de 600 Watts/sprint por membro, totalizando 6000 Watts/sprint para toda a equipe.
 Considerando o valor de R$0,52/Watt divulgado pela [DME Energética](http://www.dme-pc.com.br/atendimento/tarifas), chegamos ao custo de energia de R$ 312,00/sprint.
 
-b) Internet
+- Internet
 
 Para o custo de serviço de internet, será considerado o valor de R$100/mes para cada membro, totalizando uma média de R$250/sprint para todos os membros do projeto.
 
@@ -76,6 +81,7 @@ Para o custo de serviço de internet, será considerado o valor de R$100/mes par
 Com esses valores definidos, chegamos ao valor de R$562,00/sprint, totalizando um custo total de R$2248,00 para a release 1.
 
 **3. Custos de servidores e acessos de APIs.**
+
 Não utilizaremos nenhum serviço pago para o projeto, teremos apenas um custo inicial de DNS, consideraremos 50 reais para todo a release.
 
 
@@ -84,18 +90,23 @@ Não utilizaremos nenhum serviço pago para o projeto, teremos apenas um custo i
 Somando todos os critérios estabelecidos acima, chegamos ao Budget at Complete de **R$10298**.
 
 ### L - Sprint Length
+
 A duração da sprint definida para todo o produto foi de 7 dias.
 
 ### PS - Planned Sprints
+
 Para a release 1 foram planejadas 5 sprints com pontos no total, o detalhamento pode ser visto no [cronograma do produto](./cronograma_do_produto.md)
 
 ### SD - Starting Date
+
 A data de inicio da release 01 foi definida como dia 01/03/2020.
 
 ### PRP - Planned Release Points
+
 De acordo com o [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), a release 1 conta com 125 story points.
 
 ### Parâmetros iniciais da release
+
 |BAC|L|PS|SD|PRP_0|
 |-|-|-|-|-|
 |R$10298|7|5|07/03/2020|125|
@@ -111,11 +122,12 @@ De acordo com o [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento
 |5||X|X|X|X|X|X|1.0|X|X|X|X|X|X|X|X|
 
 ### Detalhamento das sprints
+
 Abaixo encontra-se o detalhamento de como os números utilizados na tabela acima foram calculados.
 
 Veja mais detalhes sobre as estórias de usuário no [backlog](./backlog.md). Perceba que, para o EVM foi utilizado um offset de 5 sprints, portanto a sprint 1 do EVM corresponde a sprint 6 do backlog.
 
-**Sprint 1**
+#### **Sprint 1**
 
 |US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
 |-|-|-|-|-|-|
@@ -125,7 +137,7 @@ Veja mais detalhes sobre as estórias de usuário no [backlog](./backlog.md). Pe
 |US46|5|8|+3|8|[issue #8](https://github.com/parlamentaqui/frontend/issues/8)
 |TOTAL|39|39|0|26|-|
 
-**Sprint 2**
+#### **Sprint 2**
 
 (Diversas histórias novas devido á quebra de histórias em funcionalidades menores.)
 
@@ -141,7 +153,7 @@ Veja mais detalhes sobre as estórias de usuário no [backlog](./backlog.md). Pe
 |US53|0|5|5|5|[issue #4](https://github.com/parlamentaqui/gateway/issues/4)|
 |total|8|32|26|34|-|
 
-**Sprint 3**
+#### **Sprint 3**
 
 |US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
 |-|-|-|-|-|-|
