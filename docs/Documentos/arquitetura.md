@@ -5,7 +5,8 @@
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 01/03/2021 | 1.0    | Criação do documento de arquitetura                 |    Lucas Machado   |
 | 13/03/2021 | 1.1    | Adicionando dicionário de dados                     |    Lucas Machado   |
-| 22/03/2021 | 1.1    | Atualiizando atributos                              |    Lucas Machado   |
+| 22/03/2021 | 1.2    | Atualiizando atributos                              |    Lucas Machado   |
+| 23/03/2021 | 1.3    | Atualizando arquitetura                              |    Lucas Machado   |
 
 ## 1. Introdução
 
@@ -48,7 +49,7 @@ O processo de etl (Extract, Transform and Load) em si é um processo de extraç�
 
 Na fase de extração os dados podem vir das mais diversas formas além de ocorrer casos onde existem mais de uma fonte de dados. Por esses motivos é necessário na fase seguinte que é transformar esses dados, pegando apenas a parte que é interessante para o nosso produto deizando livre de inconsistencias e assim deixando os dados compativeis com as regras de negócio que foram definidadas para o nosso projeto.
 
-Com esse procedimento realizado corretamente somente deverá ocorrer o carregamento destes dados no banco de dados escolhido para a nossa aplicação.
+Com esse procedimento realizado corretamente somente deverá ocorrer o carregamento destes dados no banco de dados.
 
 ### 2.3 Tecnologias 
 
@@ -84,7 +85,7 @@ Acima é demonstrada a implementação geral dos pacotes do projeto Parlamentaqu
 
 ### 4.1 Visão Geral
 
-![4.1 Visão Geral](../img/arquitetura2.png)
+![4.1 Visão Geral](../img/arquitetura/arquitetura3.png)
 
 ### 4.2 Microserviços e camadas
 
