@@ -19,3 +19,4 @@ plugins:
 
 page:
 - Home: 'docs/index.md'
+

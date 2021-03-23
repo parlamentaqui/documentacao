@@ -1,4 +1,4 @@
-# Cronograma do produto
+# Cronograma 
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |

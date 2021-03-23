@@ -1,4 +1,4 @@
-# Metodologias de gerenciamento e desenvolvimento
+# Metodologias
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |

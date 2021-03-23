@@ -1,4 +1,6 @@
-### Política de Branches  
+# Documento de contribuição
+
+### Política de Branches
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
@@ -20,7 +22,7 @@ As branchs de desenvolvimento de features serão criadas a partir da branch *dev
 
 ### Política de Commits
 
-Os commits devem ser feitos usando o parâmetro `-s` para indicar sua assinatura no commit.
+Os commits devem ser feitos em português com aprimeira letra maiuscula usando o parâmetro `-s` para indicar sua assinatura no commit.
 
 ```
 git commit -s
@@ -81,3 +83,4 @@ Exemplo de comentário do commit:
 ```
 HOTFIX #5 Atualizando guia de contribuição do projeto
 ```
+
