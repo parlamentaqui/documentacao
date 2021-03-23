@@ -3,6 +3,8 @@
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 22/03/2021 | 0.1    | Adicionado template               | Gabriel Albino |
+| 22/03/2021 | 0.2    | Adicionado parâmetros iniciais da release| Gabriel Albino |
+| 23/03/2021 | 0.3    | Adicionado dados das sprints 1 e 2| Gabriel Albino |
 
 ## Descrição
 Esse documento tem como objetivo gerenciar e rastrear o retorno do investimento do produto Parlamentaqui
@@ -78,6 +80,7 @@ Não utilizaremos nenhum serviço pago para o projeto, teremos apenas um custo i
 
 
 **Custo total da release**
+
 Somando todos os critérios estabelecidos acima, chegamos ao Budget at Complete de **R$10298**.
 
 ### L - Sprint Length
@@ -90,24 +93,26 @@ Para a release 1 foram planejadas 5 sprints com pontos no total, o detalhamento 
 A data de inicio da release 01 foi definida como dia 01/03/2020.
 
 ### PRP - Planned Release Points
-De acordo com o [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), a release 1 conta com 157 story points.
+De acordo com o [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), a release 1 conta com 125 story points.
 
 ### Parâmetros iniciais da release
 |BAC|L|PS|SD|PRP_0|
 |-|-|-|-|-|
-|R$10298|7|5|07/03/2020|157|
+|R$10298|7|5|07/03/2020|125|
 
 ### Sprints (WORK IN PROGRESS)
 
 |n|AC|PC|PA|SC|PRP|RPC|APC|PPC|PV|EV|CV|SV|CPI|SPI|ETC|EAC|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1|X|X|X|X|X|X|X|0.2|X|X|X|X|X|X|X|X|
-|2|X|X|X|X|X|X|X|0.4|X|X|X|X|X|X|X|X|
-|3|X|X|X|X|X|X|X|0.6|X|X|X|X|X|X|X|X|
-|4|X|X|X|X|X|X|X|0.8|X|X|X|X|X|X|X|X|
-|5|X|X|X|X|X|X|X|1.0|X|X|X|X|X|X|X|X|
+|1|R$2059,60|26|0|R$2059,60|125|26|0.208|0.2|R$2059,60|R$2141.98|R$82,38|R$82,38|1.04|1.04|R$7842,33|R$9901,93|
+|2|R$4119,20|34|26|R$2059,60|151|60|0.397|0.4|R$4119,20|R$4091,92|R$-27,28|R$-27,28|0.993|0.993|R$6249,83|R$10369,02|
+|3|R$6178,80|X|X|X|X|X|X|0.6|X|X|X|X|X|X|X|X|
+|4||X|X|X|X|X|X|0.8|X|X|X|X|X|X|X|X|
+|5||X|X|X|X|X|X|1.0|X|X|X|X|X|X|X|X|
 
 ### Detalhamento das sprints
+Abaixo encontra-se o detalhamento de como os números utilizados na tabela acima foram calculados.
+
 Veja mais detalhes sobre as estórias de usuário no [backlog](./backlog.md). Perceba que, para o EVM foi utilizado um offset de 5 sprints, portanto a sprint 1 do EVM corresponde a sprint 6 do backlog.
 
 **Sprint 1**
@@ -118,25 +123,34 @@ Veja mais detalhes sobre as estórias de usuário no [backlog](./backlog.md). Pe
 |US04|13|5|-8|5|[issue #7](https://github.com/parlamentaqui/frontend/issues/7)|
 |US40|5|13|+8|0|[issue #3](https://github.com/parlamentaqui/frontend/issues/3)|
 |US46|5|8|+3|8|[issue #8](https://github.com/parlamentaqui/frontend/issues/8)
-|TOTAL|39|39|0|26||
+|TOTAL|39|39|0|26|-|
 
 **Sprint 2**
+
+(Diversas histórias novas devido á quebra de histórias em funcionalidades menores.)
 
 |US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
 |-|-|-|-|-|-|
 |US40|N/A|N/A|0|0|Dívida técnica não entregue([issue #3](https://github.com/parlamentaqui/frontend/issues/3))|
-|US41|8|||||
-
+|US06 E US08|8|3|-5|3|[issue #15](https://github.com/parlamentaqui/frontend/issues/15)|
+|US41|0|3|3|3|[issue #16](https://github.com/parlamentaqui/frontend/issues/16)|
+|US49|0|5|5|5|[issue #6](https://github.com/parlamentaqui/gateway/issues/6)|
+|US50|0|8|8|8|[issue #8](https://github.com/parlamentaqui/gateway/issues/8)|
+|US51|0|5|5|5|[issue #7](https://github.com/parlamentaqui/gateway/issues/7)|
+|US52|0|5|5|5|[issue #5](https://github.com/parlamentaqui/gateway/issues/5)|
+|US53|0|5|5|5|[issue #4](https://github.com/parlamentaqui/gateway/issues/4)|
+|total|8|32|26|34|-|
 
 **Sprint 3**
 
 |US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
 |-|-|-|-|-|-|
-|US01|8|||||
-|US02|8|||||
-|US09|8|||||
-|US03|8|||||
-|US38|8|||||
-|US37|8|||||
-|US39|8|||||
-|TOTAL|39|39|0|26||
+|US40|N/A|N/A|0|13|Dívida técnica entregue([issue #3](https://github.com/parlamentaqui/frontend/issues/3))|
+|US01|8|5|-3|||
+|US02|8|5|-3|||
+|US09|8|5|-3|||
+|US03|8|5|-3|||
+|US38|8|13|5|||
+|US37|8|8|0|||
+|US39|8|13|5|||
+|TOTAL|-|-|-|-|-|

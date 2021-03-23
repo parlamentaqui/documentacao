@@ -4,6 +4,7 @@
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 22/03/2021 | 0.1    | Adicionado template               | Gabriel Albino |
 | 22/03/2021 | 1.0    | Adicionado cronograma em sprints               | Gabriel Albino |
+| 23/03/2021 | 1.1    | Adicionado estórias estimadas durante a sprint 2 ao planejamento| Gabriel Albino |
 
 ## Descrição
 Esse documento tem como objetivo definir o cronograma inicial a nível de sprints para o produto Parlamentaqui
@@ -79,6 +80,11 @@ Treinamentos e continuação da confecção da visão do produto
 |EP4|FE17|US41|Eu, Eren, desejo que o aplicativo tenha um componente de últimos tweets com informações estáticas para ver o comportamento da funcionalidade.|
 |EP1|FE02|US06|Eu, como Armim, desejo acesso a uma página de resultados de busca para ver os parlamentares relacionados ao que pesquisei.|
 |EP1|FE02|US08|Eu, Eren, desejo acesso a opções de filtros para refinar a busca.|
+|EP4|FE17|US49|Eu, Konan, desejo conseguir ver informações sobre os últimos tweets armazenados para ficar mais próximo da funcionalidade final.|
+|EP1|FE02|US50|Eu, Armim, desejo conseguir ver informações armazenadas sobre os que foi buscado para ficar mais próximo da funcionalidade final.|
+|EP1|FE03|US51|Eu, Eren, desejo conseguir ver informações armazenadas sobre um deputado para ficar mais próximo da funcionalidade final.|
+|EP5|FE18|US52|Eu, Eren, desejo conseguir ver informações armazenadas sobre notícias para ficar mais próximo da funcionalidade final.|
+|EP1|FE01|US53|Eu, Konan, desejo conseguir ver informações sobre os deputados armazenados ordenados por ultima atividade para ficar mais próximo da funcionalidade final.|
 
 
 **Atividades**
