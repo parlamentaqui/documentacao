@@ -33,6 +33,8 @@ Formação do grupo
 Confecção da visão do produto
 
 **Atividades**
+
+
 |Item|Descrição|
 |-|-|
 |Lean Inception|Definição da visão do produto e objetivos do negócio|
@@ -41,6 +43,8 @@ Confecção da visão do produto
 Treinamento GIT e Continuação da confecção da visão do produto
 
 **Atividades**
+
+
 |Item|Descrição|
 |-|-|
 |Lean Inception|Definição de personas, jornadas e brainstorming de funcionalidades|
@@ -50,6 +54,8 @@ Treinamento GIT e Continuação da confecção da visão do produto
 Treinamentos e continuação da confecção da visão do produto
 
 **Atividades**
+
+
 |Item|Descrição|
 |-|-|
 |Lean Inception|Elaboração do sequenciador e definição das ondas|
@@ -58,6 +64,8 @@ Treinamentos e continuação da confecção da visão do produto
 
 ### Sprint 6 (07/03/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP5|FE01|US45|Eu, Konan, desejo que o aplicativo tenha um componente de lista de deputados com informações estáticas para ver o comportamento da funcionalidade.|
@@ -68,6 +76,8 @@ Treinamentos e continuação da confecção da visão do produto
 
 
 **Atividades**
+
+
 |Item|Descrição|
 |-|-|
 |Backlog|Confecção do backlog|
@@ -75,6 +85,8 @@ Treinamentos e continuação da confecção da visão do produto
 
 ### Sprint 7 (14/03/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP4|FE17|US41|Eu, Eren, desejo que o aplicativo tenha um componente de últimos tweets com informações estáticas para ver o comportamento da funcionalidade.|
@@ -88,6 +100,8 @@ Treinamentos e continuação da confecção da visão do produto
 
 
 **Atividades**
+
+
 |Item|Descrição|
 |-|-|
 |Protótipo|Confecção do protótipo|
@@ -96,6 +110,8 @@ Treinamentos e continuação da confecção da visão do produto
 
 ### Sprint 8 (21/03/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP1|FE01|US01|Eu, Konan, desejo ter acesso aos deputados com atividade recente na página inicial para que tenha acesso rápido a conteúdos relevantes.|
@@ -105,16 +121,24 @@ Treinamentos e continuação da confecção da visão do produto
 |EP4|FE17|US38|Eu, Eren, desejo que o aplicativo busque informações de tweets de deputados periodicamente para que o site tenha informações relevantes|
 |EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|
 |EP5|FE18|US39|Eu, Eren, desejo que o aplicativo busque informações de notícias de deputado periodicamente para que o site tenha informações relevantes.|
+
+
 ### Sprint 9 (28/03/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP1|FE02|US05|Eu, como Armim, desejo acesso a uma barra de busca na página inicial do celular para encontrar conteúdos que desejo facilmente|
 |EP5|FE18|US34|Eu, Luiz, desejo acesso a uma lista de notícias relacionadas ao parlamentar em seu perfil para saber no que ele está envolvido.|
 |EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|
 |EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|
+
+
 ### Sprint 10 (04/04/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP3|FE15|US31|Eu, Juliana, desejo ter acesso aos projetos votados recentemente por um parlamentar em seu perfil para saber se ele está de acordo com o que penso ou não.|
@@ -130,13 +154,19 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 
 ### Sprint 11 (11/04/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP4|FE17|US33|Eu, Luiz, desejo ter acesso aos tweets recentes de um deputado em seu perfil para saber o que ele está pensando.|
 |EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|
 |EP1|FE04|US10|Eu, Juliana, desejo acessar uma preposição ou projeto de lei para ver suas informações básicas.|
+
+
 ### Sprint 12 (18/04/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP4|FE17|US43|Eu, Luiz, desejo ter acesso aos tweets de um deputado relacionado a uma proposição em seu perfil para saber o que ele está pensando.|
@@ -145,6 +175,8 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 
 ### Sprint 13 (25/04/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|
@@ -159,12 +191,18 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 
 ### Sprint 14 (02/05/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP2|FE13|US28|Eu, Amadeus, desejo ter acesso á curiosidades de um parlamentar eu seu perfil para facilitar minha analise. |
 |EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
+
+
 ### Sprint 15 (09/05/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
@@ -178,6 +216,8 @@ O Incremento 3, composta pela ondas 5 e 6 do [lean inception](./lean_inception.m
 
 ### Sprint 16 (16/05/2020)
 **Estórias de usuário**
+
+
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP2|FE08|US22|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado declarado no TSE para fazer seu acompanhamento financeiro|
