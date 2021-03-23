@@ -6,8 +6,10 @@
 
 ### Retrospectiva atual
 
+Velocity:
+
 | **Pontos fracos** | **Pontos Fortes** |
-| -------- | -------- |
+| ----------------- | ----------------- |
 | MDS estavam fracos em github Lyra gravou o dojo de Python e ajudou os demais MDS's no desenvolvimento das atividades |
 | Documento de visão não ficou legal | Equipe se integrou e está bastante unida |
 | Tarefas dadas na última reunião não ficaram reunidos no mesmo lugar e MDS's tiveram dificuldade de se organizar por isso<br>Tarefa do documento de visão poderia ter sido melhor explicada		 | Duplas de pareamento funcionaram bem |
@@ -24,16 +26,13 @@
 ### Próxima sprint
 
 | **Action Points** | **Responsáveis** |
-| -------- | -------- |
+| ----------------- | ---------------- |
 | MDS vão repassar no dojo já feito de github para tirar as dúvidas e vão estudar sobre conflitos de commits e guia de abas do github<br>Criar folha de contribuição | Cristian, Mari, Duda, Lyra, Rafa e Cibele<br>Fepas |
 | Ajustar erros do documento de visão<br>Descrever bem o que deve ser feito no documento de visão                  | Cristian, Mari, Duda, Lyra, Rafa e Cibele<br>Helena |
 | Organizar em issues as atividades com seus respectivos critérios de aceitação | Helena e Albino |
 | Evitar reuniões agendadas de última hora | Todos |
 | Procurar outras formas de deployar para ver se facilitar | Machado |
 | Comunicar problemas para a equipe | Helena e Machado |
-| Não há | - |
 | Colocar uma pausa de 10min a cada conclusão de grande tópico da reunião | Helena |
-| Não há | - |
 | MDS's precisam se ajudar mais entre si para diminuir a dependência dos EPS | Cristian, Mari, Duda, Lyra, Rafa e Cibele |
 | Acelerar dojo da equipe no frontend | Helena, Albino, Machado e Fepas |
-| Não há | - |
