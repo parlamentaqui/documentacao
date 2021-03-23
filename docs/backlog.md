@@ -146,7 +146,6 @@ As estórias com "0" na pontuação estimada foram adicionadas durante as sprint
 |EP1|FE03|US51|Eu, Eren, desejo conseguir ver informações armazenadas sobre um deputado para ficar mais próximo da funcionalidade final.|0|
 |EP5|FE18|US52|Eu, Eren, desejo conseguir ver informações armazenadas sobre notícias para ficar mais próximo da funcionalidade final.|0|
 |EP1|FE01|US53|Eu, Konan, desejo conseguir ver informações sobre os deputados armazenados ordenados por ultima atividade para ficar mais próximo da funcionalidade final.|0|
-
 |Total|||20 estórias|157 pontos|
 
 ### Release 2
