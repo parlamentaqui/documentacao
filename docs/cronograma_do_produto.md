@@ -5,62 +5,68 @@
 | 22/03/2021 | 0.1    | Adicionado template               | Gabriel Albino |
 | 22/03/2021 | 1.0    | Adicionado cronograma em sprints               | Gabriel Albino |
 | 23/03/2021 | 1.1    | Adicionado estórias estimadas durante a sprint 2 ao planejamento| Gabriel Albino |
+| 23/03/2021 | 1.2    | Adicionado atividades que ocorreram nas sprints | Lucas Machado |
 
 ## Descrição
+
 Esse documento tem como objetivo definir o cronograma inicial a nível de sprints para o produto Parlamentaqui
 
 ## Resumo
 
 |Item|Sprints|Data
 |-|-|-|
-|MVP|1 a 10|10/04/2020|
-|Incremento 1|11 a 13|01/05/2020|
-|Incremento 2|14 e 15|15/05/2020|
-|Incremento 3|16|22/05/2020|
+| MVP | 1 a 10 | 10/04/2020 |
+| Incremento 1 | 11 a 13|01/05/2020 |
+| Incremento 2 | 14 e 15|15/05/2020 |
+| Incremento 3 | 16|22/05/2020 |
 
 ## Detalhamento MVP
 
 ### Backlog da release
+
 A release 1, composta pela definição da visão do produto e pelas ondas 1 e 2 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
 ### Sprint 1 (01/02/2020)
+
 Introdução á disciplina
 
 ### Sprint 2 (07/02/2020)
+
 Formação do grupo
 
 ### Sprint 3 (14/02/2020)
+
 Confecção da visão do produto
 
 **Atividades**
-
 
 |Item|Descrição|
 |-|-|
 |Lean Inception|Definição da visão do produto e objetivos do negócio|
 
 ### Sprint 4 (21/02/2020)
+
 Treinamento GIT e Continuação da confecção da visão do produto
 
 **Atividades**
 
-
 |Item|Descrição|
 |-|-|
 |Lean Inception|Definição de personas, jornadas e brainstorming de funcionalidades|
-|Treinamento|Treinamento GIT e ferramentas Kanban (zenhub)|
+| Treinamento | Treinamento GIT e ferramentas Kanban (zenhub)|
 
 ### Sprint 5 (28/02/2020)
+
 Treinamentos e continuação da confecção da visão do produto
 
 **Atividades**
-
 
 |Item|Descrição|
 |-|-|
 |Lean Inception|Elaboração do sequenciador e definição das ondas|
 |Treinamento|Dojo flask|
 |Treinamento|Dojo react|
+| Treinamento | Treinamento Docker |
 
 ### Sprint 6 (07/03/2020)
 **Estórias de usuário**
@@ -81,7 +87,8 @@ Treinamentos e continuação da confecção da visão do produto
 |Item|Descrição|
 |-|-|
 |Backlog|Confecção do backlog|
-
+|Gh-pages| colocar ghpages em deploy|
+| Documento de arquitetura | Ciração do documento de arquitetura |
 
 ### Sprint 7 (14/03/2020)
 **Estórias de usuário**
@@ -107,6 +114,8 @@ Treinamentos e continuação da confecção da visão do produto
 |Protótipo|Confecção do protótipo|
 |CI/CD|Adicionando integração continua nos repositórios|
 |EVM|Confecção da EVM|
+| Criação do ambiente back-end | preparar ambientes para desenvolvimento do projeto |
+
 
 ### Sprint 8 (21/03/2020)
 **Estórias de usuário**
@@ -121,6 +130,12 @@ Treinamentos e continuação da confecção da visão do produto
 |EP4|FE17|US38|Eu, Eren, desejo que o aplicativo busque informações de tweets de deputados periodicamente para que o site tenha informações relevantes|
 |EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|
 |EP5|FE18|US39|Eu, Eren, desejo que o aplicativo busque informações de notícias de deputado periodicamente para que o site tenha informações relevantes.|
+
+**Atividades**
+
+|Item|Descrição|
+|-|-|
+| Documentação | Transferir documentos que não estão no repositorio de documentação para ele|
 
 
 ### Sprint 9 (28/03/2020)
@@ -207,6 +222,7 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 |-|-|-|-|
 |EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
 |EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|
+
 ### Entrega do Incremento 2: 15/05/2020
 
 ## Detalhamento Incremento 3

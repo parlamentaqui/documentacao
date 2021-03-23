@@ -1,4 +1,4 @@
-## Restrospectiva sprint 3
+## Restrospectiva sprint 8
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |

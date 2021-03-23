@@ -1,4 +1,4 @@
-## Restrospectiva sprint 2
+## Restrospectiva sprint 7
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
@@ -24,7 +24,7 @@ Documentação da sprint:
 
 ### Retrospectiva atual
 
-Velocity:
+Velocity: 34
 
 | **Pontos fracos** | **Pontos Fortes** |
 | ----------------- | ----------------- |
