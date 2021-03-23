@@ -67,7 +67,7 @@ Com esse procedimento realizado corretamente somente deverá ocorrer o carregame
 - Mostrar projetos votados recentemente, com informações sobre os projetos em seu perfil.
 - Possibilitar o compartilhamento inteligente.
 
-Para mais informações vá no documento redigido a partir do [lean inception](./lean_inceptio.md) que contém detalhadamente as metas do projeto.
+Para mais informações vá no documento redigido a partir do [lean inception](./lean_inception.md) que contém detalhadamente as metas do projeto.
 
 ### 3.2 Restrições da Arquitetura
 
