@@ -1,10 +1,11 @@
-# Documento de contribuição
+# Contribuição
 
 ### Política de Branches
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 13/03/2021 | 1.0    | Criação do documento                                |   Felipe Campos   |
+| 13/03/2021 | 1.0    | Criação do documento                                |    Felipe Campos   |
+| 23/03/2021 | 1.1    | Adicionando politica de pull request                |    Lucas Machado   |
 
 
 #### *main*
@@ -84,3 +85,12 @@ Exemplo de comentário do commit:
 HOTFIX #5 Atualizando guia de contribuição do projeto
 ```
 
+### Política de Pull Request (PR)
+
+- O titulo do pull request deve estar claro.
+
+- O comentario deve estar claro
+
+- O Pull Request deve referenciar a issue que esta relacionada.
+
+- Utilize o [template](../../.github/PULL_REQUEST_TEMPLATE.md) para realizar o Pull Request
