@@ -115,37 +115,38 @@ Abaixo se encontra a divisão do backlog por release conforme as ondas do lean i
 
 A Release 1 será composta pelas ondas 1 e 2 do [lean inception](./lean_inception.md)
 
+A pontuação estimada se refere á pontuação utilizada na [AgileEVM](./evm.md)
 As estórias com "0" na pontuação estimada foram adicionadas durante as sprints.
 
-|Épico|Feature|Estória|Descrição|Pontuação estimada|
-|-|-|-|-|-|
-|EP1|FE01|US01|Eu, Konan, desejo ter acesso aos deputados com atividade recente na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|
-|EP1|FE01|US45|Eu, Konan, desejo que o aplicativo tenha um componente de lista de deputados com informações estáticas para ver o comportamento da funcionalidade.|8|
-|EP1|FE01|US46|Eu, Konan, desejo acesso á um caminho de navegação para me localizar no site.|5|
-|EP1|FE01|US02|Eu, Armim, desejo ter acesso aos tweets recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|
-|EP1|FE01|US03|Eu, Konan, desejo ter acesso ás notícias recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|
-|EP1|FE01|US04|Eu, Eren, desejo ter acesso a uma barra de navegação superior para conseguir navegar no site.|13|
-|EP1|FE02|US05|Eu, Armim, desejo acesso a uma barra de busca na página inicial para encontrar conteúdos que desejo facilmente|2|
-|EP1|FE02|US06|Eu, Armim, desejo acesso a uma página de resultados de busca para ver os parlamentares relacionados ao que pesquisei.|3|
-|EP1|FE02|US08|Eu, Eren, desejo acesso a opções de filtros para refinar a busca.|5|
-|EP1|FE03|US09|Eu, Eren, desejo acessar o perfil de um deputado para ver suas informações pessoais.|8|
-|EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|8|
-|EP1|FE03|US40|Eu, Eren, desejo que o aplicativo tenha um perfil dos deputados com informações estáticas para ver o comportamento da funcionalidade.|0|
-|EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|3|
-|EP1|FE05|US12|Eu, Luiz, desejo conseguir compartilhar a notícia que se encontra no perfil do deputado para envia-las aos meus amigos.|3|
-|EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|3|
-|EP1|FE05|US16|Eu, Armim, desejo conseguir compartilhar o voto de um deputado em uma proposição específica para envia-lo aos meus amigos.|3|
-|EP3|FE15|US31|Eu, Juliana, desejo ter acesso aos projetos votados recentemente por um parlamentar em seu perfil para saber se ele está de acordo com o que penso ou não.|13|
-|EP4|FE17|US38| Eu, Eren, desejo que o aplicativo busque informações de tweets de deputados periodicamente para que o site tenha informações relevantes|8|
-|EP4|FE17|US41|Eu, Eren, desejo que o aplicativo tenha um componente de últimos tweets com informações estáticas para ver o comportamento da funcionalidade.|0|
-|EP5|FE18|US34|Eu, Luiz, desejo acesso a uma lista de notícias relacionadas ao parlamentar em seu perfil para saber no que ele está envolvido.|8|
-|EP5|FE18|US39| Eu, Eren, desejo que o aplicativo busque informações de notícias de deputado periodicamente para que o site tenha informações relevantes.|8|
-|EP5|FE18|US42|Eu, Eren, desejo que o aplicativo tenha um componente de ultimas notícias com informações estáticas para ver o comportamento da funcionalidade.|0|
-|EP4|FE17|US49|Eu, Konan, desejo conseguir ver informações sobre os últimos tweets armazenados para ficar mais próximo da funcionalidade final.|0|
-|EP1|FE02|US50|Eu, Armim, desejo conseguir ver informações armazenadas sobre os que foi buscado para ficar mais próximo da funcionalidade final.|0|
-|EP1|FE03|US51|Eu, Eren, desejo conseguir ver informações armazenadas sobre um deputado para ficar mais próximo da funcionalidade final.|0|
-|EP5|FE18|US52|Eu, Eren, desejo conseguir ver informações armazenadas sobre notícias para ficar mais próximo da funcionalidade final.|0|
-|EP1|FE01|US53|Eu, Konan, desejo conseguir ver informações sobre os deputados armazenados ordenados por ultima atividade para ficar mais próximo da funcionalidade final.|0|
+|Épico|Feature|Estória|Descrição|Pontuação estimada|Issue|
+|-|-|-|-|-|-|
+|EP1|FE01|US01|Eu, Konan, desejo ter acesso aos deputados com atividade recente na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|[frontend #21](https://github.com/parlamentaqui/frontend/issues/21)|
+|EP1|FE01|US45|Eu, Konan, desejo que o aplicativo tenha um componente de lista de deputados com informações estáticas para ver o comportamento da funcionalidade.|8|[frontend #2](https://github.com/parlamentaqui/frontend/issues/2)|
+|EP1|FE01|US46|Eu, Konan, desejo acesso á um caminho de navegação para me localizar no site.|5|[frontend #8](https://github.com/parlamentaqui/frontend/issues/8)|
+|EP1|FE01|US02|Eu, Armim, desejo ter acesso aos tweets recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|[frontend #22](https://github.com/parlamentaqui/frontend/issues/22)|
+|EP1|FE01|US03|Eu, Konan, desejo ter acesso ás notícias recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|[frontend #23](https://github.com/parlamentaqui/frontend/issues/23)|
+|EP1|FE01|US04|Eu, Eren, desejo ter acesso a uma barra de navegação superior para conseguir navegar no site.|13|[frontend #7](https://github.com/parlamentaqui/frontend/issues/7)|
+|EP1|FE02|US05|Eu, Armim, desejo acesso a uma barra de busca na página inicial para encontrar conteúdos que desejo facilmente|2|[frontend #28](https://github.com/parlamentaqui/frontend/issues/28)|
+|EP1|FE02|US06|Eu, Armim, desejo acesso a uma página de resultados de busca para ver os parlamentares relacionados ao que pesquisei.|3|[frontend #15](https://github.com/parlamentaqui/frontend/issues/15)|
+|EP1|FE02|US08|Eu, Eren, desejo acesso a opções de filtros para refinar a busca.|5|[frontend #15](https://github.com/parlamentaqui/frontend/issues/15)|
+|EP1|FE03|US09|Eu, Eren, desejo acessar o perfil de um deputado para ver suas informações pessoais.|8|[frontend #24](https://github.com/parlamentaqui/frontend/issues/24)|
+|EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|8|[gateway #11](https://github.com/parlamentaqui/gateway/issues/11)|
+|EP1|FE03|US40|Eu, Eren, desejo que o aplicativo tenha um perfil dos deputados com informações estáticas para ver o comportamento da funcionalidade.|0|[frontend #3](https://github.com/parlamentaqui/frontend/issues/3)|
+|EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|3|[frontend #29](https://github.com/parlamentaqui/frontend/issues/29)|
+|EP1|FE05|US12|Eu, Luiz, desejo conseguir compartilhar a notícia que se encontra no perfil do deputado para envia-las aos meus amigos.|3|[frontend #30](https://github.com/parlamentaqui/frontend/issues/30)|
+|EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|3|[frontend #31](https://github.com/parlamentaqui/frontend/issues/31)|
+|EP1|FE05|US16|Eu, Armim, desejo conseguir compartilhar o voto de um deputado em uma proposição específica para envia-lo aos meus amigos.|3|[frontend #32](https://github.com/parlamentaqui/frontend/issues/32)|
+|EP3|FE15|US31|Eu, Juliana, desejo ter acesso aos projetos votados recentemente por um parlamentar em seu perfil para saber se ele está de acordo com o que penso ou não.|13|[frontend #33](https://github.com/parlamentaqui/frontend/issues/33)|
+|EP4|FE17|US38| Eu, Eren, desejo que o aplicativo busque informações de tweets de deputados periodicamente para que o site tenha informações relevantes|8|[gateway #12](https://github.com/parlamentaqui/gateway/issues/12)|
+|EP4|FE17|US41|Eu, Eren, desejo que o aplicativo tenha um componente de últimos tweets com informações estáticas para ver o comportamento da funcionalidade.|0|[frontend #16](https://github.com/parlamentaqui/frontend/issues/16)|
+|EP5|FE18|US34|Eu, Luiz, desejo acesso a uma lista de notícias relacionadas ao parlamentar em seu perfil para saber no que ele está envolvido.|8|[frontend #34](https://github.com/parlamentaqui/frontend/issues/34)|
+|EP5|FE18|US39| Eu, Eren, desejo que o aplicativo busque informações de notícias de deputado periodicamente para que o site tenha informações relevantes.|8|[gateway #13](https://github.com/parlamentaqui/gateway/issues/13)|
+|EP5|FE18|US42|Eu, Eren, desejo que o aplicativo tenha um componente de ultimas notícias com informações estáticas para ver o comportamento da funcionalidade.|0|[frontend #2](https://github.com/parlamentaqui/frontend/issues/2)|
+|EP4|FE17|US49|Eu, Konan, desejo conseguir ver informações sobre os últimos tweets armazenados para ficar mais próximo da funcionalidade final.|0|[gateway #6](https://github.com/parlamentaqui/gateway/issues/6)|
+|EP1|FE02|US50|Eu, Armim, desejo conseguir ver informações armazenadas sobre os que foi buscado para ficar mais próximo da funcionalidade final.|0|[gateway #8](https://github.com/parlamentaqui/gateway/issues/8)|
+|EP1|FE03|US51|Eu, Eren, desejo conseguir ver informações armazenadas sobre um deputado para ficar mais próximo da funcionalidade final.|0|[gateway #7](https://github.com/parlamentaqui/gateway/issues/7)|
+|EP5|FE18|US52|Eu, Eren, desejo conseguir ver informações armazenadas sobre notícias para ficar mais próximo da funcionalidade final.|0|[gateway #5](https://github.com/parlamentaqui/gateway/issues/5)|
+|EP1|FE01|US53|Eu, Konan, desejo conseguir ver informações sobre os deputados armazenados ordenados por ultima atividade para ficar mais próximo da funcionalidade final.|0|[gateway #4](https://github.com/parlamentaqui/gateway/issues/4)|
 |Total|||20 estórias|157 pontos|
 
 ### Release 2
@@ -177,6 +178,8 @@ A Release 3 será composta pela onda 4 do [lean inception](./lean_inception.md)
 ### Release 4
 
 A release 4 será composta pelas ondas 5 e 6 do [lean inception](./lean_inception.md)
+
+
 |Épico|Feature|Estória|Descrição|Pontuação estimada|
 |-|-|-|-|-|
 |EP2|FE08|US22|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado declarado no TSE para fazer seu acompanhamento financeiro|-|
