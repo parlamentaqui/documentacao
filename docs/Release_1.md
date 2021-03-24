@@ -77,6 +77,12 @@ Este artefato foi desenvolvido na ferramenta Figma, que possibilita criar telas 
 
 Para executar e navegar no fluxo do site, não se esqueça de clicar no ícone **Present**, no canto superior direito da página ao lado do icone **Share**.
 
+## Cumulative flow do projeto
+
+Este tópico trata-se de um gráfico que mostra a maneira como as tarefas são montadas e sua distribuição ao longo dos diferentes estágios do processo. O gráfico é construído a partir de diferentes faixas coloridas, que dividem as tarefas em quatro grupos: fila, execução, testes/validação, completas.
+
+![Cumulative flow do projeto](./img/graphs/overflowr1.png)
+
 # Visão do produto
 
 Você pode encontrar o projeto no site: www.parlamentaqui.com

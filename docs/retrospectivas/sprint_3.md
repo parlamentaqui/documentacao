@@ -67,5 +67,5 @@
 
 ## Velocity
 
-
+Sprint em desenvolvimento, ainda não possui o velocity finalizado.
 
