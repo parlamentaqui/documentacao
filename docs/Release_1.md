@@ -85,5 +85,5 @@ Este tópico trata-se de um gráfico que mostra a maneira como as tarefas são m
 
 # Visão do produto
 
-Você pode encontrar o projeto no site: www.parlamentaqui.com
+Você pode encontrar o projeto no site: [www.parlamentaqui.com](www.parlamentaqui.com)
 
