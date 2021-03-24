@@ -1,11 +1,12 @@
-# Documeto de Arquitetura
+# Documento de Arquitetura
 
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 01/03/2021 | 1.0    | Criação do documento de arquitetura                 |    Lucas Machado   |
 | 13/03/2021 | 1.1    | Adicionando dicionário de dados                     |    Lucas Machado   |
-| 22/03/2021 | 1.1    | Atualiizando atributos                              |    Lucas Machado   |
+| 22/03/2021 | 1.2    | Atualiizando atributos                              |    Lucas Machado   |
+| 23/03/2021 | 1.3    | Atualizando arquitetura                              |    Lucas Machado   |
 
 ## 1. Introdução
 
@@ -44,11 +45,11 @@ A arquitetura orientada a micro serviços foi escolhida para este projeto por mo
 
 O processo de etl (Extract, Transform and Load) em si é um processo de extração de dados, e após essa extração há um tratamento destes dados e por fim o carregamento deles em uma base de dados.
 
-![2.2 Processo de ETL](./img/etl.png)
+![2.2 Processo de ETL](../img/etl.png)
 
 Na fase de extração os dados podem vir das mais diversas formas além de ocorrer casos onde existem mais de uma fonte de dados. Por esses motivos é necessário na fase seguinte que é transformar esses dados, pegando apenas a parte que é interessante para o nosso produto deizando livre de inconsistencias e assim deixando os dados compativeis com as regras de negócio que foram definidadas para o nosso projeto.
 
-Com esse procedimento realizado corretamente somente deverá ocorrer o carregamento destes dados no banco de dados escolhido para a nossa aplicação.
+Com esse procedimento realizado corretamente somente deverá ocorrer o carregamento destes dados no banco de dados.
 
 ### 2.3 Tecnologias 
 
@@ -76,7 +77,7 @@ Para mais informações vá no documento redigido a partir do [lean inception](.
 
 ## Diagrama de pacotes
 
-![Noticias](./img/dados/diagrama_pacote.png)
+![Noticias](../img/dados/diagrama_pacote.png)
 
 Acima é demonstrada a implementação geral dos pacotes do projeto Parlamentaqui.
 
@@ -84,7 +85,7 @@ Acima é demonstrada a implementação geral dos pacotes do projeto Parlamentaqu
 
 ### 4.1 Visão Geral
 
-![4.1 Visão Geral](./img/arquitetura2.png)
+![4.1 Visão Geral](../img/arquitetura/arquitetura3.png)
 
 ### 4.2 Microserviços e camadas
 
@@ -120,16 +121,16 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 ### 5.1 Dados abertos camara
 
-![Representação de Arquitetura](./img/dados/dados_abertos.png)
+![Representação de Arquitetura](../img/dados/dados_abertos.png)
 
 ### 5.2 Twitter
 
-![Twitter](./img/dados/twitter_v2.png)
+![Twitter](../img/dados/twitter_v2.png)
 
 
 ### 5.3 Noticias
 
-![Noticias](./img/dados/noticias_v2.png)
+![Noticias](../img/dados/noticias_v2.png)
 
 ### 5.4 Dicionário de dados Cross Data
 
@@ -218,7 +219,7 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 | username | string | Username do deputado |  |
 | data | date | data do tweet |  |
 
-### Referências
+### Referências Bibliográficas
 
 Silva Gomes da Gama e Abreu, Fábio. DESMISTIFICANDO O CONCEITO DE ETL
 
