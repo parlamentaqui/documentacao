@@ -1,12 +1,15 @@
-## Restrospectiva sprint 6
+## Restrospectiva sprint 1
+
+### De 07/03 a 13/03
+
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 06/03/2021 | 1.0    | Criação do documento                                |    Helena e Lucas Machado   |
+| 06/03/2021 | 1.0    | Inclusão da tabela de estimativa e entrega               |    Helena e Lucas Machado   |
 
-### Retrospectiva atual
 
-Velocity: 26
+## Retrospectiva
 
 | **Pontos fracos** | **Pontos Fortes** |
 | ----------------- | ----------------- |
@@ -23,7 +26,12 @@ Velocity: 26
 | Albino acredita que poderíamos ter ensinado frontend antes do backend na reunião anterior | Equipe está acompromissada como um todo com o projeto |
 | Equipe calculou mal o prazo até a R1 |  |
 
-### Próxima sprint
+
+### Velocity
+A esta altura do projeto, a equipe estava fazendo uso da ferramenta de Projetos, dentro da organização no Github, para seguir com o Kanban. A intenção de usar essa ferramenta era sua integração com o andamento das *issues*: assim que uma *issue* fosse movida para revisão, o quadro atualizava automaticamente. Para conferir esse quadro basta [clicar aqui](https://github.com/orgs/parlamentaqui/projects/1).
+<br> Contudo, infelizmente não havíamos percebido que a ferramenta estava impossibilitando o uso de *labels* importantes como a pontuação e separação de sprints. Sendo assim, não foi possível gerar o gráfico de velocity dessa sprint. É importante reassaltar que o rastreamento, organização e documentação dos gestores permite saber quantos pontos foram planejados e entregues.
+
+## Action points solicitados para próxima semana
 
 | **Action Points** | **Responsáveis** |
 | ----------------- | ---------------- |
@@ -36,3 +44,13 @@ Velocity: 26
 | Colocar uma pausa de 10min a cada conclusão de grande tópico da reunião | Helena |
 | MDS's precisam se ajudar mais entre si para diminuir a dependência dos EPS | Cristian, Mari, Duda, Lyra, Rafa e Cibele |
 | Acelerar dojo da equipe no frontend | Helena, Albino, Machado e Fepas |
+
+## Quadro geral
+
+| US          | Pontuação estimada pela equipe | Pontuação entregue | Rastreamento |
+|-------------|--------------------------------|--------------------|--------------|
+| US45 e US42 | 13                             | 13                 |  [issue #2](https://github.com/parlamentaqui/frontend/issues/2)            | 
+| US04        | 5                              | 5                  |      [issue #7](https://github.com/parlamentaqui/frontend/issues/7)        |
+| US40        | 13                             | 0                  |      [issue #3](https://github.com/parlamentaqui/frontend/issues/3)        |
+| US46        | 8                              | 8                  |     [issue #8](https://github.com/parlamentaqui/frontend/issues/8)         |
+| Total       | 39                             | 26                 |        -      |

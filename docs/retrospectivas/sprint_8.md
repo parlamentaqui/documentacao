@@ -1,15 +1,15 @@
-## Restrospectiva sprint 8
+## Restrospectiva sprint 3
+
+### De 21/03 a 27/03
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 20/03/2021 | 1.0    | Criação do documento                                |    Helena e Gabriel Albino   |
 
-### Retrospectiva anterior
+## Action points solicitados para essa semana
 
-Documentação da sprint:
-
-| **Action Points** | **Responsáveis** |
-| ------------- | ------------ |
+| **Action Points** | **Responsáveis** | **Foi resolvido?** |
+| ------------- | ------------ | ------------ | 
 | Ver o "verify" no github (contribuição nos commits) | EPS |
 | Perguntar para os colegas, interagir mais com a equipe quando houverem dúvidas | Todos |
 | Dojo de docker | Fepas |
@@ -23,9 +23,7 @@ Documentação da sprint:
 | Ler material disponbilizado pelo professor | MDS |
 
 
-### Retrospectiva atual
-
-Velocity:
+## Retrospectiva
 
 | **Pontos fracos** | **Pontos fortes** |
 | ------------- | ------------- |
@@ -40,7 +38,7 @@ Velocity:
 | Duda não avisou que ia faltar a reunião |  |
 
 
-### Próxima sprint
+## Action points solicitados para próxima semana
 
 | **Action Points** | **Responsáveis** |
 | ----------------- | ---------------- |
@@ -51,3 +49,23 @@ Velocity:
 | criar template de PR | Albino |
 | Responder o professor na hora que ele mandar msg | EPS |
 | Melhorar comunicação do time | Duda |
+
+
+## Quadro geral
+
+| US    | Pontuação estimada pela equipe | Pontuação entregue              | 
+|-------|--------------------------------|---------------------------------|
+| US40  | Dívida técnica                 | 0 - dívida técnica não entregue | 
+| US1   | 5                              |                                 |
+| US2   | 5                              |                                 |
+| US9   | 5                              |                                 |
+| US3   | 5                              |                                 |
+| US38  | 13                             |                                 |
+| US37  | 8                              |                                 |
+| US39  | 13                             |                                 |
+| Total | 54                             |                                 |
+
+## Velocity
+
+
+

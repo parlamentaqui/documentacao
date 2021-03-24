@@ -24,19 +24,19 @@ Esse documento tem como objetivo definir o cronograma inicial a nível de sprint
 
 ### Backlog da release
 
-A release 1, composta pela definição da visão do produto e pelas ondas 1 e 2 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
+A release 1, composta pela dfiefinição da visão do produto e pelas ondas 1 e 2 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
 ### Sprint 1 (01/02/2020)
 
-Introdução á disciplina
+Introdução à disciplina: todos os membros tiveram o primeiro contato com o professor, suas respectivas disciplinas e alinhar as expectativas de cada um para o semestre. Além disso, nessa semana consolidou-se a formação da equipe.
 
 ### Sprint 2 (07/02/2020)
 
-Formação do grupo
+Nessa sprint houve um brainstorming a respeito do tema do projeto, assim como apresentação e discussão de ideias com o professor. Nessa sprint ficou decidido que o tema atenderia ao Objetivo de Desenvolvimento Sustentável (ODS16) da Organização das Nações Unidas, que é: Paz, Justiça e Instituições Eficazes.
 
 ### Sprint 3 (14/02/2020)
 
-Confecção da visão do produto
+A terceira sprint foi voltada para o estudo do Lean Inception e confecção da visão do produto.
 
 **Atividades**
 
@@ -46,7 +46,9 @@ Confecção da visão do produto
 
 ### Sprint 4 (21/02/2020)
 
-Treinamento GIT e Continuação da confecção da visão do produto
+A equipe se reuniu para encotrar defasagens e dificuldades com tecnologias, e assim os EPS mapearam e prepararam os treinamentos a serem feitos com os alunos de MDS pertenecntes ao projeto. 
+
+Sendo assim, houve o primeiro treinamento, que foi ensinando a utilizar o Github, assim como a configuração da ferramenta no sistema operacional de cada membro do projeto. Além disso, a equipe deu continuação à confecção da visão do produto.
 
 **Atividades**
 
@@ -57,7 +59,7 @@ Treinamento GIT e Continuação da confecção da visão do produto
 
 ### Sprint 5 (28/02/2020)
 
-Treinamentos e continuação da confecção da visão do produto
+A equipe deu continuidade aos treinamentos para os desenvolvdores e também a continuação da confecção da visão do produto através do Lean Inception.
 
 **Atividades**
 
