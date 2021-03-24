@@ -1,8 +1,8 @@
 # Release 1
 
-| Data       | Versão | Descrição                                           | Autor              |
-| ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 23/03/2021 | 0.1    | Adicionado template               |  Helena Bretas |
+| Data       | Versão | Descrição                          | Autor          |
+| ---------- | ------ | ---------------------------------- | -------------- |
+| 23/03/2021 | 0.1    | Adicionado template                |  Helena Bretas |
 | 23/03/2021 | 1.0    | Direcionando entregas da release 1 | Helena Bretas |
 
 ## Introdução
@@ -69,13 +69,13 @@ Os requisitos do projeto, assim como as estórias de usuário, puderam ser obtid
 
 ## Configuração do repositório de acordo com os padrões de comunidade de software livre (Github)
 
-A licença de software livre escolhida pela equipe foi a MIT. Para entender seu comportamento e suas respectivas permissões, basta acessar ao documento [aqui](./Software_livre.md/).
+A licença de software livre escolhida pela equipe foi a MIT. Para entender seu comportamento e suas respectivas permissões, basta acessar ao documento [aqui](./Software_livre.md).
 
 ## Protótipo de alta fidelidade
 
 Este artefato foi desenvolvido na ferramenta Figma, que possibilita criar telas e fluxos com diversos membros da equipe. Para conhecer o protótipo, basta [clicar aqui](https://www.figma.com/file/UWBRoMSkFlLrO0S0t9yHFc/Parlamentaqui?node-id=0%3A1).
 
-Para executar e navegar no fluxo do site, não se esqueça de clicar no ícone *Present*, no canto superior direito da página.
+Para executar e navegar no fluxo do site, não se esqueça de clicar no ícone **Present**, no canto superior direito da página ao lado do icone **Share**.
 
 # Visão do produto
 

@@ -6,7 +6,8 @@
 | 01/03/2021 | 1.0    | Criação do documento de arquitetura                 |    Lucas Machado   |
 | 13/03/2021 | 1.1    | Adicionando dicionário de dados                     |    Lucas Machado   |
 | 22/03/2021 | 1.2    | Atualiizando atributos                              |    Lucas Machado   |
-| 23/03/2021 | 1.3    | Atualizando arquitetura                              |    Lucas Machado   |
+| 23/03/2021 | 1.3    | Atualizando arquitetura                             |    Lucas Machado   |
+| 23/03/2021 | 1.3    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
 
 ## 1. Introdução
 
@@ -237,3 +238,7 @@ Símbolos e notação de diagramas entidade-relacionamento:
 
 - https://www.lucidchart.com/pages/pt/simbolos-de-diagramas-entidade-relacionamento
 
+
+Padrão: banco de dados compartilhado
+
+- https://microservices.io/patterns/data/shared-database.html
