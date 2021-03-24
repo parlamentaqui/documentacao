@@ -35,19 +35,21 @@ Este projeto corresponde ao grupo 6, e é desenvolvido por:
 
 ## Artefatos
 
-### Documento de Visão do Projeto
+## Documento de Visão do Projeto
 
-O documento de visão pode ser encontrado [aqui](./Documentos/doc_visao.md/).
 
-Apesar de ser uma artefato mais burocrático e que a visão do produto possa ser compreendida pelo desenvolvimento do Lean Inception, a equipe optou por mantê-lo: 
+O documento de visão pode ser encontrado [aqui](./Documentos/doc_visao.md).
+
+Apesar de ser um artefato mais burocrático e que a visão do produto possa ser compreendida pelo desenvolvimento do Lean Inception, a equipe optou por mantê-lo: 
 
 Por ser um software livre, caso futuros contribuintes tenham interesse em compreender o projeto e não estejam familiarizados com o Lean Inception, o documento estará de fácil acesso.
 
-### Planejamento e cronograma
+
+## Planejamento e cronograma
 
 O planejamento foi realizado concomitantemente com o cronograma das disciplinas Engenharia do Produto de Software e Métodos de Desenvolvimento de Software. Para entender como a equipe se adaptou e organizou neste período, é possível conhecer o cronograma do projeto [aqui](./Documentos/cronograma_do_produto.md).
 
-### Comunicação Interna e Externa
+## Comunicação Interna e Externa
 
 A comunicação da equipe se deu através de 2 ferramentas:
 
@@ -55,24 +57,27 @@ A comunicação da equipe se deu através de 2 ferramentas:
 
 - Telegram: usado em discussões mais informais como avisos internos e diálogos cotidianos.
 
-### Documento de Arquitetura do Projeto
+## Documento de Arquitetura do Projeto
 
 Este documento foi desenvolvido pelos gerentes de software e validado pelo docente das disciplinas envolvidas no projeto. Para visualiza-lo, basta clicar [aqui](./Documentos/arquitetura.md).
 
-### Especificação das estorias de usuários (critérios de aceitação)
 
-Os requisitos do projeto, assim como as estórias de usuário, puderam ser obtidas através do Lean Inception. Para conhecer o backlog do produto e as estórias de usuário, basta clicar [aqui](./Documentos/backlog.md/).
+## Especificação das esstorias de usuários (critérios de aceitação)
 
-### Configuração do repositório de acordo com os padrões de comunidade de software livre (Github)
+
+Os requisitos do projeto, assim como as estórias de usuário, puderam ser obtidas através do Lean Inception. Para conhecer o backlog do produto e as estórias de usuário, basta clicar [aqui](./Documentos/backlog.md).
+
+## Configuração do repositório de acordo com os padrões de comunidade de software livre (Github)
 
 A licença de software livre escolhida pela equipe foi a MIT. Para entender seu comportamento e suas respectivas permissões, basta acessar ao documento [aqui](./Software_livre.md/).
 
-### Protótipo de alta fidelidade
+## Protótipo de alta fidelidade
 
 Este artefato foi desenvolvido na ferramenta Figma, que possibilita criar telas e fluxos com diversos membros da equipe. Para conhecer o protótipo, basta [clicar aqui](https://www.figma.com/file/UWBRoMSkFlLrO0S0t9yHFc/Parlamentaqui?node-id=0%3A1).
 
 Para executar e navegar no fluxo do site, não se esqueça de clicar no ícone *Present*, no canto superior direito da página.
 
-## Visão do produto
+# Visão do produto
 
-Você pode encontrar o projeto no site: [www.parlamentaqui.com](www.parlamentaqui.com)
+Você pode encontrar o projeto no site: www.parlamentaqui.com
+

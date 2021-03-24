@@ -1,4 +1,4 @@
-# Documeto de Arquitetura
+# Documento de Arquitetura
 
 
 | Data       | Versão | Descrição                                           | Autor              |
@@ -219,7 +219,7 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 | username | string | Username do deputado |  |
 | data | date | data do tweet |  |
 
-### Referências
+### Referências Bibliográficas
 
 Silva Gomes da Gama e Abreu, Fábio. DESMISTIFICANDO O CONCEITO DE ETL
 
