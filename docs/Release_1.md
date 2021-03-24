@@ -37,8 +37,13 @@ Este projeto corresponde ao grupo 6, e é desenvolvido por:
 
 ## Documento de Visão do Projeto
 
-O documento de visão pode ser encontrado [aqui](./Documentos/doc_visao.md). <br>
-Apesar de ser uma artefato mais burocrático e que a visão do produto possa ser compreendida pelo desenvolvimento do Lean Inception, a equipe optou por mantê-lo: por ser um software livre, caso futuros contribuintes tenham interesse em compreender o projeto e não estejam familiarizados com o Lean Inception, o documento estará de fácil acesso.
+
+O documento de visão pode ser encontrado [aqui](./Documentos/doc_visao.md).
+
+Apesar de ser um artefato mais burocrático e que a visão do produto possa ser compreendida pelo desenvolvimento do Lean Inception, a equipe optou por mantê-lo: 
+
+Por ser um software livre, caso futuros contribuintes tenham interesse em compreender o projeto e não estejam familiarizados com o Lean Inception, o documento estará de fácil acesso.
+
 
 ## Planejamento e cronograma
 
@@ -47,16 +52,20 @@ O planejamento foi realizado concomitantemente com o cronograma das disciplinas 
 ## Comunicação Interna e Externa
 
 A comunicação da equipe se deu através de 2 ferramentas:
+
 - Discord: utilizado em pareamentos, reuniões gerais e envio de dailies; 
+
 - Telegram: usado em discussões mais informais como avisos internos e diálogos cotidianos.
 
 ## Documento de Arquitetura do Projeto
 
 Este documento foi desenvolvido pelos gerentes de software e validado pelo docente das disciplinas envolvidas no projeto. Para visualiza-lo, basta clicar [aqui](./Documentos/arquitetura.md).
 
+
 ## Especificação das esstorias de usuários (critérios de aceitação)
 
-Os requisitos do projeto, assim como as estórias de usuário, puderam ser obtidas através do Lean Inception. Para conhecer o backlog do produto e as estórias de usuário, basta clicar [aqui](./Documentos/backlog.md/).
+
+Os requisitos do projeto, assim como as estórias de usuário, puderam ser obtidas através do Lean Inception. Para conhecer o backlog do produto e as estórias de usuário, basta clicar [aqui](./Documentos/backlog.md).
 
 ## Configuração do repositório de acordo com os padrões de comunidade de software livre (Github)
 
@@ -71,3 +80,4 @@ Para executar e navegar no fluxo do site, não se esqueça de clicar no ícone *
 # Visão do produto
 
 Você pode encontrar o projeto no site: www.parlamentaqui.com
+
