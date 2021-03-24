@@ -2,9 +2,10 @@
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 22/03/2021 | 0.1    | Adicionado template                                 | Helena <br> Lucas Machado<br> Gabriel Albino<br> Felipe Campos  |
+| 22/03/2021 | 0.1    | Adicionado template                                 | Helena Bretas <br> Lucas Machado<br> Gabriel Albino<br> Felipe Campos  |
+| 23/03/2021 | 0.2    | Inclusão de contexto                         | Helena Bretas |
 
-Ocorreram diversos dojos no inicio da disciplina e em outros momentos que o time de EPS julgou necessário.
+Em busca de orientar os alunos de Métodos de Desenvolvimento de Software (MDS), os alunos de Engenharia do Produto de Software (EPS) dialogaram com a equipe para encontrar as defasagens em tecnologias que seriam usadas no projeto. Após o mapeamento de defasagens, ocorreram diversos dojos ministrados pelos alunos de EPS. Confira abaixo:
 
 ### Dojo sobre Github
 
