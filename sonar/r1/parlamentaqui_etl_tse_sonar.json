@@ -1,0 +1,362 @@
+{
+  "paging": { "pageIndex": 1, "pageSize": 100, "total": 1 },
+  "measures": [
+    {
+      "metric": "new_lines",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "comment_lines_density",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1.0" }]
+    },
+    {
+      "metric": "public_documented_api_density",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "alert_status",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "quality_gate_details",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "quality_profiles",
+      "history": [
+        {
+          "date": "2021-03-24T03:43:29+0100",
+          "value": "[{\"key\":\"AXg9IBSw7ASqGT3la9X7\",\"language\":\"py\",\"name\":\"Sonar way\",\"rulesUpdatedAt\":\"2021-03-03T08:12:58+0000\"}]"
+        }
+      ]
+    },
+    {
+      "metric": "complexity",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "6" }]
+    },
+    {
+      "metric": "complexity_in_classes",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "complexity_in_functions",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "function_complexity_distribution",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "file_complexity_distribution",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "minor_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_blocker_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_critical_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_major_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_minor_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_info_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "false_positive_issues",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "reopened_issues",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "confirmed_issues",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "code_smells",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "3" }]
+    },
+    {
+      "metric": "new_code_smells",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "bugs",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_bugs",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "reliability_remediation_effort",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_reliability_remediation_effort",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "reliability_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1.0" }]
+    },
+    {
+      "metric": "new_reliability_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "generated_lines",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "ncloc",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "98" }]
+    },
+    {
+      "metric": "ncloc_language_distribution",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "py=98" }]
+    },
+    {
+      "metric": "generated_ncloc",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "classes",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "2" }]
+    },
+    {
+      "metric": "files",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "5" }]
+    },
+    {
+      "metric": "functions",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "4" }]
+    },
+    {
+      "metric": "statements",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "67" }]
+    },
+    {
+      "metric": "public_api",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "projects",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "comment_lines",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1" }]
+    },
+    {
+      "metric": "open_issues",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "3" }]
+    },
+    {
+      "metric": "security_remediation_effort",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_security_remediation_effort",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_security_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "security_review_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "5.0" }]
+    },
+    {
+      "metric": "new_security_review_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "security_hotspots_reviewed",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0.0" }]
+    },
+    {
+      "metric": "new_security_hotspots_reviewed",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "security_hotspots_reviewed_status",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "security_hotspots_to_review_status",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_security_hotspots_reviewed_status",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_security_hotspots_to_review_status",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "cognitive_complexity",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "2" }]
+    },
+    {
+      "metric": "skipped_tests",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "duplicated_lines",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_duplicated_lines",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "duplicated_blocks",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_duplicated_blocks",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "duplicated_files",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "duplicated_lines_density",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0.0" }]
+    },
+    {
+      "metric": "new_duplicated_lines_density",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "coverage",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0.0" }]
+    },
+    {
+      "metric": "new_coverage",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "lines_to_cover",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "67" }]
+    },
+    {
+      "metric": "new_lines_to_cover",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "line_coverage",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0.0" }]
+    },
+    {
+      "metric": "new_line_coverage",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_conditions_to_cover",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "branch_coverage",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "new_branch_coverage",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "duplications_data",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "3" }]
+    },
+    {
+      "metric": "blocker_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "major_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1" }]
+    },
+    {
+      "metric": "info_violations",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "new_vulnerabilities",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "security_hotspots",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1" }]
+    },
+    {
+      "metric": "new_security_hotspots",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "sqale_index",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "15" }]
+    },
+    {
+      "metric": "new_technical_debt",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "sqale_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1.0" }]
+    },
+    {
+      "metric": "new_maintainability_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "development_cost",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "2940" }]
+    },
+    {
+      "metric": "new_development_cost",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "sqale_debt_ratio",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0.5" }]
+    },
+    {
+      "metric": "new_sqale_debt_ratio",
+      "history": [{ "date": "2021-03-24T03:43:29+0100" }]
+    },
+    {
+      "metric": "effort_to_reach_maintainability_rating_a",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "0" }]
+    },
+    {
+      "metric": "security_rating",
+      "history": [{ "date": "2021-03-24T03:43:29+0100", "value": "1.0" }]
+    }
+  ]
+}
