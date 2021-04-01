@@ -52,11 +52,11 @@ Uso conforme seção 1.3.
 As cores de texto para cada fundo devem ser utilizadas conforme a relação abaixo.
 
 
-![](../img/style_guide/contrast_5.png)
-![](../img/style_guide/contrast_1.png)
-![](../img/style_guide/contrast_2.png)
-![](../img/style_guide/contrast_3.png)
-![](../img/style_guide/contrast_4.png)
+![1.3 Contrastes](../img/style_guide/contrast_5.png)
+![1.3 Contrastes](../img/style_guide/contrast_1.png)
+![1.3 Contrastes](../img/style_guide/contrast_2.png)
+![1.3 Contrastes](../img/style_guide/contrast_3.png)
+![1.3 Contrastes](../img/style_guide/contrast_4.png)
 
 ### 2. Layout
 Foram estabelecidas algumas diretrizes para garantir um bom comportamento do **Parlamentaqui** em todos os dispositivos.
@@ -70,7 +70,7 @@ O sistema de grid utilizado no projeto é o do Bootstrap, que usa uma série de 
 |-|-|
 |24px|24px|
 
-![grid](../img/style_guide/grid.png)
+![2.1 Grids](../img/style_guide/grid.png)
 
 #### 2.2 Grids em dispositívos
 
@@ -85,27 +85,31 @@ Todas as páginas do portal deve seguir a seguinte estrutura
 ![estrutura padrão](../img/style_guide/elementos.png)
 
 ### 3. Tipografia
+
 A Fonte escolhida para o **Parlamentaqui** foi a Open Sans. E é a família de fonte usada em conteúdos de todo o site. Para títulos, foi escolhida a Montserrat. Ambas as fontes encontram-se no Google Fontes, garantindo qualidade e velocidade no carregamento.
 A proporção de fontes utilizadas foi definida utilizando a escala "Minor Third"
-![](../img/style_guide/fonts.png)
+
+![3. Tipografia](../img/style_guide/fonts.png)
+
 Na imagem acima é possível identificar os títulos de h1 a h5 (respectivamente, variando de 2.488rem a 1.2rem na fonte Montserrat).
 
 Para os demais elementos, deve ser utilizada a fonte Open sans tamanho 16px ou 13.33px em caso de texto pequeno, conforme imagem abaixo.
 
-![](../img/style_guide/fonts_text.png)
+![3. Tipografia](../img/style_guide/fonts_text.png)
 
 ### 4. Marca
 A logo do projeto representa as cúpulas do congresso nacional de Brasília, a arte e o processo encontram-se abaixo
 
 #### 4.1 Logo
-![](../img/style_guide/logo_final.png)
+![4.1 Logo](../img/style_guide/logo_final.png)
+
 #### 4.2 Processo
-![](../img/style_guide/logo_1.png)
-![](../img/style_guide/logo_2.png)
-![](../img/style_guide/logo_3.png)
-![](../img/style_guide/logo_4.png)
-![](../img/style_guide/logo_5.png)
-![](../img/style_guide/logo_6.png)
-![](../img/style_guide/logo_7.png)
-![](../img/style_guide/logo_final.png)
+![4.2 Processo](../img/style_guide/logo_1.png)
+![4.2 Processo](../img/style_guide/logo_2.png)
+![4.2 Processo](../img/style_guide/logo_3.png)
+![4.2 Processo](../img/style_guide/logo_4.png)
+![4.2 Processo](../img/style_guide/logo_5.png)
+![4.2 Processo](../img/style_guide/logo_6.png)
+![4.2 Processo](../img/style_guide/logo_7.png)
+![4.2 Processo](../img/style_guide/logo_final.png)
 

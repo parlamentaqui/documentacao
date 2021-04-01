@@ -9,6 +9,7 @@
 | 23/03/2021 | 1.3    | Atualizando arquitetura                             |    Lucas Machado   |
 | 23/03/2021 | 1.3    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
 
+
 ## 1. Introdução
 
 ### 1.1 Objetivo 
@@ -57,9 +58,10 @@ Com esse procedimento realizado corretamente somente deverá ocorrer o carregame
 - React
 - Python Flask
 - Docker
-- PostgreSQL
+- MongoDB
 - Travis CI
-- Git
+- SonarCloud
+- Github
 
 ## 3. Metas e Restrições da Arquitetura
 
@@ -224,7 +226,7 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 Silva Gomes da Gama e Abreu, Fábio. DESMISTIFICANDO O CONCEITO DE ETL
 
- - http://www.fsma.edu.br/si/Artigos/V2_Artigo1.pdf
+ - DESMISTIFICANDO O CONCEITO DE ETL. Fsma: Revista de Sistemas de Informaçã, 2 dez. 2008. Disponível em: http://www.fsma.edu.br/si/Artigos/V2_Artigo1.pdf. Acesso em: 13 mar. 2021.
 
 Newman, Sam. Building Microservices.
 
@@ -242,3 +244,7 @@ Símbolos e notação de diagramas entidade-relacionamento:
 Padrão: banco de dados compartilhado
 
 - https://microservices.io/patterns/data/shared-database.html
+
+Gerenciamento de dados com microserviços
+
+- https://www.infoq.com/br/news/2017/07/managing-data-in-microservices/
