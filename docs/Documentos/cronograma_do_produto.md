@@ -6,6 +6,7 @@
 | 22/03/2021 | 1.0    | Adicionado cronograma em sprints               | Gabriel Albino |
 | 23/03/2021 | 1.1    | Adicionado estórias estimadas durante a sprint 2 ao planejamento| Gabriel Albino |
 | 23/03/2021 | 1.2    | Adicionado atividades que ocorreram nas sprints | Lucas Machado |
+| 02/04/2021 | 1.3   | Adicionando estória 54 | Gabriel Albino |
 
 ## Descrição
 
@@ -150,7 +151,7 @@ A equipe deu continuidade aos treinamentos para os desenvolvdores e também a co
 |EP5|FE18|US34|Eu, Luiz, desejo acesso a uma lista de notícias relacionadas ao parlamentar em seu perfil para saber no que ele está envolvido.|
 |EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|
 |EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|
-
+|EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|
 
 ### Sprint 10 (04/04/2020)
 **Estórias de usuário**

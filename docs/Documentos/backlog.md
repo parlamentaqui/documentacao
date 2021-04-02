@@ -9,6 +9,7 @@
 | 19/03/2021 | 2.1   | Adicionando estórias de usuário levantadas durante a sprint 2| Gabriel Albino |
 | 22/03/2021 | 2.2   | Adicionando previsão da pontuação a nível de estória para a primeira release | Gabriel Albino |
 | 23/03/2021 | 2.3   | Corrigindo previsão de pontuação para estórias adicionadas durante as sprint | Gabriel Albino |
+| 02/04/2021 | 2.4   | Adicionando estória 54 | Gabriel Albino |
 
 
 ## Épicos
@@ -94,6 +95,7 @@ funcionalidades.
 |EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
 |EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
 |EP3|FE15|US31|Eu, Juliana, desejo ter acesso aos projetos votados recentemente por um parlamentar em seu perfil para saber se ele está de acordo com o que penso ou não.|
+|EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|
 |EP4|FE16|US32|Eu, Luiz, desejo ter acesso a uma lista de parlamentares relacionados no perfil de um parlamentar a partir de uma analise em sua rede social.|
 |EP4|FE17|US33|Eu, Luiz, desejo ter acesso aos tweets recentes de um deputado em seu perfil para saber o que ele está pensando.|
 |EP4|FE17|US43|Eu, Luiz, desejo ter acesso aos tweets de um deputado relacionado a uma proposição em seu perfil para saber o que ele está pensando.|
@@ -147,8 +149,8 @@ As estórias com "0" na pontuação estimada foram adicionadas durante as sprint
 |EP1|FE03|US51|Eu, Eren, desejo conseguir ver informações armazenadas sobre um deputado para ficar mais próximo da funcionalidade final.|0|[gateway #7](https://github.com/parlamentaqui/gateway/issues/7)|
 |EP5|FE18|US52|Eu, Eren, desejo conseguir ver informações armazenadas sobre notícias para ficar mais próximo da funcionalidade final.|0|[gateway #5](https://github.com/parlamentaqui/gateway/issues/5)|
 |EP1|FE01|US53|Eu, Konan, desejo conseguir ver informações sobre os deputados armazenados ordenados por ultima atividade para ficar mais próximo da funcionalidade final.|0|[gateway #4](https://github.com/parlamentaqui/gateway/issues/4)|
+|EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|0|[frontend #41](https://github.com/parlamentaqui/frontend/issues/41)|
 |Total|||20 estórias|157 pontos|
-
 ### Release 2
 
 A Release 2 será composta pela onda 3 do [lean inception](./lean_inception.md)
