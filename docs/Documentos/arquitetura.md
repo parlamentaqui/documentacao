@@ -8,7 +8,7 @@
 | 22/03/2021 | 1.2    | Atualiizando atributos                              |    Lucas Machado   |
 | 23/03/2021 | 1.3    | Atualizando arquitetura                             |    Lucas Machado   |
 | 23/03/2021 | 1.4    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
-| 23/03/2021 | 1.5    | Adicionando proposição  |    Lucas Machado   |
+| 12/04/2021 | 1.5    | Adicionando proposição  |    Lucas Machado   |
 
 
 ## 1. Introdução
