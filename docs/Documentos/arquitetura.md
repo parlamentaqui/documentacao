@@ -7,7 +7,8 @@
 | 13/03/2021 | 1.1    | Adicionando dicionário de dados                     |    Lucas Machado   |
 | 22/03/2021 | 1.2    | Atualiizando atributos                              |    Lucas Machado   |
 | 23/03/2021 | 1.3    | Atualizando arquitetura                             |    Lucas Machado   |
-| 23/03/2021 | 1.3    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
+| 23/03/2021 | 1.4    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
+| 23/03/2021 | 1.5    | Adicionando proposição  |    Lucas Machado   |
 
 
 ## 1. Introdução
@@ -135,7 +136,11 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 ![Noticias](../img/dados/noticias_v2.png)
 
-### 5.4 Dicionário de dados Cross Data
+### 5.4 Proposições
+
+![Proposições](../img/dados/proposicao.png)
+
+### 5.5 Dicionário de dados Cross Data
 
 **Entidade:** Deputado
 
@@ -221,6 +226,31 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 | name | string | Nome do deputado |  |
 | username | string | Username do deputado |  |
 | data | date | data do tweet |  |
+
+**Entidade:** Proposição
+
+| ***Atributo*** | **Dominio** | **Descrição** | **Restrição** |
+|-|-|-|-|
+| proposicao_id | integer | Primary key | Not null |
+| idDeputadoAutor | integer | Chave do deputado | |
+| uri | string | url da proposição | |
+| descricaoTipo   | string    | Descrição  do tipo de proposição  | |
+| ementa  | string    | Texto da ementa  | |
+| ementaDetalhada | string    | Texto detalhado da ementa  | |
+| keywords    | string    | Palavras chaves da proposição | |
+| dataApresentacao    | date  | data da proposição  | |
+| urlAutor    | string    | Url do autor | |
+| tipoAutor   | string    | Deputado  | |
+| nomeAutor   | string    | Nome do autor  | |
+| siglaUFAutor    | string    | Estado do autor | |
+| temaProposicao  | string    | Tema da proposição | |
+| status  | object | Objeto que contém dados detalhados da proposição | |
+|     siglaOrgao  | string    | Sigla do orgão  | |
+|     data_proposicao | date  | data da ultima alteração da proposição | |
+|     descricaoSituacao   | string    | Descrição da situação  | |
+|     despacho    | string    | Despacho | |
+|     uriRelator  | string    | Url para o relator | |
+
 
 ### Referências Bibliográficas
 
