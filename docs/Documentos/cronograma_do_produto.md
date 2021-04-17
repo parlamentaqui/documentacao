@@ -7,6 +7,7 @@
 | 23/03/2021 | 1.1    | Adicionado estórias estimadas durante a sprint 2 ao planejamento| Gabriel Albino |
 | 23/03/2021 | 1.2    | Adicionado atividades que ocorreram nas sprints | Lucas Machado |
 | 02/04/2021 | 1.3   | Adicionando estória 54 | Gabriel Albino |
+| 17/04/2021 | 1.4   | Repriorizando tarefas de acordo com o contexto do projeto | Gabriel Albino |
 
 ## Descrição
 
@@ -177,8 +178,8 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP4|FE17|US33|Eu, Luiz, desejo ter acesso aos tweets recentes de um deputado em seu perfil para saber o que ele está pensando.|
-|EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|
-|EP1|FE04|US10|Eu, Juliana, desejo acessar uma preposição ou projeto de lei para ver suas informações básicas.|
+|EP1|FE04|US54|Eu, Juliana, desejo recuperar informações sobre proposições ou projetos de lei para salvar suas informações básicas.|-|
+|EP2|FE07|US56|Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|-|
 
 
 ### Sprint 12 (18/04/2020)
@@ -187,9 +188,10 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
-|EP4|FE17|US43|Eu, Luiz, desejo ter acesso aos tweets de um deputado relacionado a uma proposição em seu perfil para saber o que ele está pensando.|
-|EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|
-|EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
+|EP1|FE04|US10|Eu, Juliana, desejo acessar uma preposição ou projeto de lei para ver suas informações básicas.|
+|EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|
+|EP1|FE02|US07|Eu, como usuário, desejo acesso a uma página de resultados de busca para ver os projetos e proposições relacionados ao que pesquisei.|
+
 
 ### Sprint 13 (25/04/2020)
 **Estórias de usuário**
@@ -198,7 +200,9 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
 |EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|
-|EP1|FE02|US07|Eu, como usuário, desejo acesso a uma página de resultados de busca para ver os projetos e proposições relacionados ao que pesquisei.|
+|EP4|FE17|US43|Eu, Luiz, desejo ter acesso aos tweets de um deputado relacionado a uma proposição em seu perfil para saber o que ele está pensando.|
+|EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|
+|EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
 
 ### Entrega do Incremento 1: 01/05/2020
 
