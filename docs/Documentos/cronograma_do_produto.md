@@ -8,6 +8,7 @@
 | 23/03/2021 | 1.2    | Adicionado atividades que ocorreram nas sprints | Lucas Machado |
 | 02/04/2021 | 1.3   | Adicionando estória 54 | Gabriel Albino |
 | 17/04/2021 | 1.4   | Repriorizando tarefas de acordo com o contexto do projeto | Gabriel Albino |
+| 01/05/2021 | 1.5   | Atualizar cronograma | Lucas Machado |
 
 ## Descrição
 
@@ -145,6 +146,16 @@ A equipe deu continuidade aos treinamentos para os desenvolvdores e também a co
 ### Sprint 9 (28/03/2020)
 **Estórias de usuário**
 
+**Nâo foi passada Estórias de usuário para foco nas dividas tecnicas.**
+
+Essa sprint foi destinada a resolver dividas tecnicas pelo fato que estamos atrasados com o cronograma por causa delas.
+
+Dojo de testes para aumentar a cobertura de testes do projeto.
+
+
+### Sprint 10 (28/03/2020)
+**Estórias de usuário**
+
 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
@@ -154,7 +165,7 @@ A equipe deu continuidade aos treinamentos para os desenvolvdores e também a co
 |EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|
 |EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|
 
-### Sprint 10 (04/04/2020)
+### Sprint 11 (04/04/2020)
 **Estórias de usuário**
 
 
@@ -171,7 +182,7 @@ A equipe deu continuidade aos treinamentos para os desenvolvdores e também a co
 ### Backlog da release
 O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 2 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
-### Sprint 11 (11/04/2020)
+### Sprint 12 (11/04/2020)
 **Estórias de usuário**
 
 
@@ -182,7 +193,7 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 |EP2|FE07|US56|Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|-|
 
 
-### Sprint 12 (18/04/2020)
+### Sprint 13 (18/04/2020)
 **Estórias de usuário**
 
 
@@ -193,7 +204,7 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 |EP1|FE02|US07|Eu, como usuário, desejo acesso a uma página de resultados de busca para ver os projetos e proposições relacionados ao que pesquisei.|
 
 
-### Sprint 13 (25/04/2020)
+### Sprint 14 (25/04/2020)
 **Estórias de usuário**
 
 
@@ -211,7 +222,7 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 ### Backlog da release
 O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 3 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
-### Sprint 14 (02/05/2020)
+### Sprint 15 (02/05/2020)
 **Estórias de usuário**
 
 
@@ -221,7 +232,7 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 |EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
 
 
-### Sprint 15 (09/05/2020)
+### Sprint 16 (09/05/2020)
 **Estórias de usuário**
 
 
@@ -237,7 +248,7 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 ### Backlog da release
 O Incremento 3, composta pela ondas 5 e 6 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 4 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
-### Sprint 16 (16/05/2020)
+### Sprint 17 (16/05/2020)
 **Estórias de usuário**
 
 
