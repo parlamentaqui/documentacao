@@ -1,1 +1,717 @@
-{"paging":{"pageIndex":1,"pageSize":500,"total":14},"baseComponent":{"id":"AXg9IJXi6OMeYByot8EF","key":"parlamentaqui_gateway","name":"gateway","qualifier":"TRK","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"21"},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"files","value":"9"},{"metric":"complexity","value":"22"},{"metric":"ncloc","value":"132"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.8","bestValue":false}]},"components":[{"id":"AXg9IUKUzy3fKMUPFvy9","key":"parlamentaqui_gateway:src/twitter/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/twitter/__init__.py","language":"py","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"ncloc","value":"0"},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvyz","key":"parlamentaqui_gateway:src/news/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/news/__init__.py","language":"py","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"ncloc","value":"0"},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvy3","key":"parlamentaqui_gateway:src/tse/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/tse/__init__.py","language":"py","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"ncloc","value":"0"},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvy6","key":"parlamentaqui_gateway:src/camara/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/camara/__init__.py","language":"py","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"ncloc","value":"0"},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvy_","key":"parlamentaqui_gateway:src/app.py","name":"app.py","qualifier":"FIL","path":"src/app.py","language":"py","measures":[{"metric":"complexity","value":"2"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"19"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvy7","key":"parlamentaqui_gateway:src/camara","name":"camara","qualifier":"DIR","path":"src/camara","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"11"},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"files","value":"2"},{"metric":"complexity","value":"11"},{"metric":"ncloc","value":"52"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}]},{"id":"AXg9IUKUzy3fKMUPFvy5","key":"parlamentaqui_gateway:src/camara/camara.py","name":"camara.py","qualifier":"FIL","path":"src/camara/camara.py","language":"py","measures":[{"metric":"complexity","value":"11"},{"metric":"functions","value":"11"},{"metric":"ncloc","value":"52"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvy1","key":"parlamentaqui_gateway:src/news","name":"news","qualifier":"DIR","path":"src/news","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"4"},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"files","value":"2"},{"metric":"complexity","value":"4"},{"metric":"ncloc","value":"25"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"3.8","bestValue":false}]},{"id":"AXg9IUKUzy3fKMUPFvy0","key":"parlamentaqui_gateway:src/news/news.py","name":"news.py","qualifier":"FIL","path":"src/news/news.py","language":"py","measures":[{"metric":"complexity","value":"4"},{"metric":"functions","value":"4"},{"metric":"ncloc","value":"25"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"comment_lines_density","value":"3.8","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvzA","key":"parlamentaqui_gateway:src","name":"src","qualifier":"DIR","path":"src","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"21"},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"files","value":"9"},{"metric":"complexity","value":"22"},{"metric":"ncloc","value":"132"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.8","bestValue":false}]},{"id":"AXg9IUKUzy3fKMUPFvy4","key":"parlamentaqui_gateway:src/tse","name":"tse","qualifier":"DIR","path":"src/tse","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"2"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"complexity","value":"2"},{"metric":"ncloc","value":"16"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}]},{"id":"AXg9IUKUzy3fKMUPFvy2","key":"parlamentaqui_gateway:src/tse/tse.py","name":"tse.py","qualifier":"FIL","path":"src/tse/tse.py","language":"py","measures":[{"metric":"complexity","value":"2"},{"metric":"functions","value":"2"},{"metric":"ncloc","value":"16"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXg9IUKUzy3fKMUPFvy-","key":"parlamentaqui_gateway:src/twitter","name":"twitter","qualifier":"DIR","path":"src/twitter","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"3"},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"files","value":"2"},{"metric":"complexity","value":"3"},{"metric":"ncloc","value":"20"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false}]},{"id":"AXg9IUKUzy3fKMUPFvy8","key":"parlamentaqui_gateway:src/twitter/twitter.py","name":"twitter.py","qualifier":"FIL","path":"src/twitter/twitter.py","language":"py","measures":[{"metric":"complexity","value":"3"},{"metric":"functions","value":"3"},{"metric":"ncloc","value":"20"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"3.0","bestValue":false},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]}]}
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 500,
+        "total": 14
+    },
+    "baseComponent": {
+        "id": "AXg9IJXi6OMeYByot8EF",
+        "key": "parlamentaqui_gateway",
+        "name": "gateway",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "duplicated_lines_density",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "21"
+            },
+            {
+                "metric": "security_rating",
+                "value": "3.0",
+                "bestValue": false
+            },
+            {
+                "metric": "files",
+                "value": "9"
+            },
+            {
+                "metric": "complexity",
+                "value": "22"
+            },
+            {
+                "metric": "ncloc",
+                "value": "132"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "comment_lines_density",
+                "value": "0.8",
+                "bestValue": false
+            }
+        ]
+    },
+    "components": [
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy9",
+            "key": "parlamentaqui_gateway:src/twitter/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/twitter/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvyz",
+            "key": "parlamentaqui_gateway:src/news/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/news/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy3",
+            "key": "parlamentaqui_gateway:src/tse/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/tse/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy6",
+            "key": "parlamentaqui_gateway:src/camara/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/camara/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy_",
+            "key": "parlamentaqui_gateway:src/app.py",
+            "name": "app.py",
+            "qualifier": "FIL",
+            "path": "src/app.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "19"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy7",
+            "key": "parlamentaqui_gateway:src/camara",
+            "name": "camara",
+            "qualifier": "DIR",
+            "path": "src/camara",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "11"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "11"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "52"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy5",
+            "key": "parlamentaqui_gateway:src/camara/camara.py",
+            "name": "camara.py",
+            "qualifier": "FIL",
+            "path": "src/camara/camara.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "11"
+                },
+                {
+                    "metric": "functions",
+                    "value": "11"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "52"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy1",
+            "key": "parlamentaqui_gateway:src/news",
+            "name": "news",
+            "qualifier": "DIR",
+            "path": "src/news",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "4"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "25"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "3.8",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy0",
+            "key": "parlamentaqui_gateway:src/news/news.py",
+            "name": "news.py",
+            "qualifier": "FIL",
+            "path": "src/news/news.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "4"
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "25"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "3.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvzA",
+            "key": "parlamentaqui_gateway:src",
+            "name": "src",
+            "qualifier": "DIR",
+            "path": "src",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "21"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "9"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "22"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "132"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.8",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy4",
+            "key": "parlamentaqui_gateway:src/tse",
+            "name": "tse",
+            "qualifier": "DIR",
+            "path": "src/tse",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "16"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy2",
+            "key": "parlamentaqui_gateway:src/tse/tse.py",
+            "name": "tse.py",
+            "qualifier": "FIL",
+            "path": "src/tse/tse.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "16"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy-",
+            "key": "parlamentaqui_gateway:src/twitter",
+            "name": "twitter",
+            "qualifier": "DIR",
+            "path": "src/twitter",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "3"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "3"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "20"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXg9IUKUzy3fKMUPFvy8",
+            "key": "parlamentaqui_gateway:src/twitter/twitter.py",
+            "name": "twitter.py",
+            "qualifier": "FIL",
+            "path": "src/twitter/twitter.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "3"
+                },
+                {
+                    "metric": "functions",
+                    "value": "3"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "20"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "3.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        }
+    ]
+}

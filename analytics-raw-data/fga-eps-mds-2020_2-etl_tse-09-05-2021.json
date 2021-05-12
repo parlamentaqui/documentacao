@@ -1,1 +1,458 @@
-{"paging":{"pageIndex":1,"pageSize":500,"total":8},"baseComponent":{"id":"AXg9IJsS6OMeYByot8Ea","key":"parlamentaqui_etl_tse","name":"etl_tse","qualifier":"TRK","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"4"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"5"},{"metric":"complexity","value":"6"},{"metric":"ncloc","value":"98"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"1.0","bestValue":false}]},"components":[{"id":"AXhiHc2omKesKvU8wgbg","key":"parlamentaqui_etl_tse:src/api/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/api/__init__.py","language":"py","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"ncloc","value":"0"},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXhiHc2omKesKvU8wgbk","key":"parlamentaqui_etl_tse:src/etl/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/etl/__init__.py","language":"py","measures":[{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"functions","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"ncloc","value":"0"},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXhiHc2omKesKvU8wgbh","key":"parlamentaqui_etl_tse:src/api","name":"api","qualifier":"DIR","path":"src/api","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"1"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"complexity","value":"2"},{"metric":"ncloc","value":"15"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"6.3","bestValue":false}]},{"id":"AXhiHc2omKesKvU8wgbf","key":"parlamentaqui_etl_tse:src/api/api.py","name":"api.py","qualifier":"FIL","path":"src/api/api.py","language":"py","measures":[{"metric":"complexity","value":"2"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"15"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"6.3","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXhiHc2omKesKvU8wgbi","key":"parlamentaqui_etl_tse:src/app.py","name":"app.py","qualifier":"FIL","path":"src/app.py","language":"py","measures":[{"metric":"complexity","value":"2"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"20"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXhiHc2omKesKvU8wgbl","key":"parlamentaqui_etl_tse:src/etl","name":"etl","qualifier":"DIR","path":"src/etl","measures":[{"metric":"complexity","value":"0"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"}]},{"id":"AXhiHc2omKesKvU8wgbj","key":"parlamentaqui_etl_tse:src/models.py","name":"models.py","qualifier":"FIL","path":"src/models.py","language":"py","measures":[{"metric":"complexity","value":"2"},{"metric":"functions","value":"2"},{"metric":"ncloc","value":"63"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"files","value":"1"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_success_density","value":"100.0","bestValue":true}]},{"id":"AXhiHc2omKesKvU8wgbm","key":"parlamentaqui_etl_tse:src","name":"src","qualifier":"DIR","path":"src","measures":[{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"functions","value":"4"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"5"},{"metric":"complexity","value":"6"},{"metric":"ncloc","value":"98"},{"metric":"coverage","value":"0.0","bestValue":false},{"metric":"reliability_rating","value":"1.0","bestValue":true},{"metric":"comment_lines_density","value":"1.0","bestValue":false}]}]}
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 500,
+        "total": 8
+    },
+    "baseComponent": {
+        "id": "AXg9IJsS6OMeYByot8Ea",
+        "key": "parlamentaqui_etl_tse",
+        "name": "etl_tse",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "duplicated_lines_density",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "4"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "files",
+                "value": "5"
+            },
+            {
+                "metric": "complexity",
+                "value": "6"
+            },
+            {
+                "metric": "ncloc",
+                "value": "98"
+            },
+            {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "comment_lines_density",
+                "value": "1.0",
+                "bestValue": false
+            }
+        ]
+    },
+    "components": [
+        {
+            "id": "AXhiHc2omKesKvU8wgbg",
+            "key": "parlamentaqui_etl_tse:src/api/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/api/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbk",
+            "key": "parlamentaqui_etl_tse:src/etl/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/etl/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbh",
+            "key": "parlamentaqui_etl_tse:src/api",
+            "name": "api",
+            "qualifier": "DIR",
+            "path": "src/api",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "15"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "6.3",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbf",
+            "key": "parlamentaqui_etl_tse:src/api/api.py",
+            "name": "api.py",
+            "qualifier": "FIL",
+            "path": "src/api/api.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "15"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "6.3",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbi",
+            "key": "parlamentaqui_etl_tse:src/app.py",
+            "name": "app.py",
+            "qualifier": "FIL",
+            "path": "src/app.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "20"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbl",
+            "key": "parlamentaqui_etl_tse:src/etl",
+            "name": "etl",
+            "qualifier": "DIR",
+            "path": "src/etl",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbj",
+            "key": "parlamentaqui_etl_tse:src/models.py",
+            "name": "models.py",
+            "qualifier": "FIL",
+            "path": "src/models.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "63"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiHc2omKesKvU8wgbm",
+            "key": "parlamentaqui_etl_tse:src",
+            "name": "src",
+            "qualifier": "DIR",
+            "path": "src",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "5"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "6"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "98"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "1.0",
+                    "bestValue": false
+                }
+            ]
+        }
+    ]
+}
