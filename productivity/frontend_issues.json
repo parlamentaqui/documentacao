@@ -1,0 +1,692 @@
+[
+    {
+        "number": "2",
+        "title": "US45 | Lista de deputados da home",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T16:14:46Z",
+        "closed_at": "2021-03-13T16:29:19Z"
+    },
+    {
+        "number": "3",
+        "title": "Informa\u00e7\u00f5es do perfil do deputado.",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T16:15:47Z",
+        "closed_at": "2021-04-10T02:18:18Z"
+    },
+    {
+        "number": "4",
+        "title": "Documenta\u00e7\u00e3o: Identidade visual",
+        "labels": [
+            "DOCS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T16:24:03Z",
+        "closed_at": "2021-03-20T18:38:19Z"
+    },
+    {
+        "number": "5",
+        "title": "Migrar lean inception",
+        "labels": [
+            "DOCS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T16:27:49Z",
+        "closed_at": "2021-03-20T18:37:59Z"
+    },
+    {
+        "number": "6",
+        "title": "Documento de vis\u00e3o",
+        "labels": [
+            "DOCS",
+            "FEATURE"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T16:35:14Z",
+        "closed_at": "2021-03-20T18:38:01Z"
+    },
+    {
+        "number": "7",
+        "title": "Navega\u00e7\u00e3o superior",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T20:46:33Z",
+        "closed_at": "2021-03-13T16:13:06Z"
+    },
+    {
+        "number": "8",
+        "title": "Caminho de navega\u00e7\u00e3o",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T20:53:07Z",
+        "closed_at": "2021-03-13T16:27:07Z"
+    },
+    {
+        "number": "15",
+        "title": "Instanciar/Criar componentes da tela de resultados de busca",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T16:41:50Z",
+        "closed_at": "2021-03-20T18:38:17Z"
+    },
+    {
+        "number": "16",
+        "title": "Criar componente de ultimos tweets da p\u00e1gina inicial",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T16:47:38Z",
+        "closed_at": "2021-03-20T18:38:06Z"
+    },
+    {
+        "number": "17",
+        "title": "Fazer breadcrumb ser conectado com o router",
+        "labels": [
+            "HARD",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T16:56:07Z",
+        "closed_at": "2021-03-20T18:38:20Z"
+    },
+    {
+        "number": "21",
+        "title": "US01 | Conectar lista de deputados da home no backend",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T15:00:31Z",
+        "closed_at": "2021-04-16T01:01:04Z"
+    },
+    {
+        "number": "22",
+        "title": "Conectar lista de tweets da home no backend ",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T15:02:04Z",
+        "closed_at": "2021-05-04T19:46:12Z"
+    },
+    {
+        "number": "23",
+        "title": "Conectar not\u00edcias da home no backend ",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T15:03:17Z",
+        "closed_at": "2021-04-11T13:11:12Z"
+    },
+    {
+        "number": "24",
+        "title": "Conectar perfil do deputado no backend",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T15:05:38Z",
+        "closed_at": "2021-04-11T13:10:56Z"
+    },
+    {
+        "number": "25",
+        "title": "Conectar busca no backend",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T15:06:35Z",
+        "closed_at": "2021-03-30T04:08:44Z"
+    },
+    {
+        "number": "26",
+        "title": "Corrigir fluxos do site",
+        "labels": [
+            "EASY",
+            "EPS",
+            "HOTFIX"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T15:36:30Z",
+        "closed_at": "2021-04-16T01:01:07Z"
+    },
+    {
+        "number": "27",
+        "title": "Criar documento explicando a metodologia do projeto e do produto",
+        "labels": [
+            "DOCS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T21:42:59Z",
+        "closed_at": "2021-04-11T14:15:13Z"
+    },
+    {
+        "number": "28",
+        "title": "Criar barra de busca na p\u00e1gina inicial",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T19:37:27Z",
+        "closed_at": "2021-04-16T01:01:11Z"
+    },
+    {
+        "number": "29",
+        "title": "Criar bot\u00e3o de compartilhar as not\u00edcias da home",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T20:25:41Z",
+        "closed_at": "2021-04-14T22:21:58Z"
+    },
+    {
+        "number": "30",
+        "title": "Criar bot\u00e3o de compartilhar as not\u00edcias do perfil do deputado",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T20:26:25Z",
+        "closed_at": "2021-04-24T02:41:16Z"
+    },
+    {
+        "number": "31",
+        "title": "Criar bot\u00e3o de compartilhar perfil do deputado",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T20:28:17Z",
+        "closed_at": "2021-04-14T22:46:33Z"
+    },
+    {
+        "number": "32",
+        "title": "Criar bot\u00e3o de compartilhar o voto de um deputado",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T20:29:13Z",
+        "closed_at": "2021-04-21T22:29:36Z"
+    },
+    {
+        "number": "33",
+        "title": "Criar projetos votados recentemente pelo parlamentar em seu perfil",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T20:33:09Z",
+        "closed_at": "2021-04-24T17:26:13Z"
+    },
+    {
+        "number": "34",
+        "title": "Criar noticias recentes do parlamentar em seu perfil",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T21:44:48Z",
+        "closed_at": "2021-04-20T18:27:32Z"
+    },
+    {
+        "number": "41",
+        "title": "Criar l\u00f3gica para a popular os dados sobre vota\u00e7\u00f5es.",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-27T19:01:06Z",
+        "closed_at": "2021-04-10T17:31:45Z"
+    },
+    {
+        "number": "43",
+        "title": "Fix #29 Bot\u00e3o de compartilhar noticias da home",
+        "labels": [
+            "EASY",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-08T03:26:40Z",
+        "closed_at": "2021-04-14T22:21:57Z"
+    },
+    {
+        "number": "44",
+        "title": "Atualizar campo de ultima atualiza\u00e7\u00e3o dos deputados",
+        "labels": [
+            "EASY",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-10T17:42:52Z",
+        "closed_at": "2021-04-16T01:01:06Z"
+    },
+    {
+        "number": "45",
+        "title": "Criar tweets para a p\u00e1gina do deputado",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T12:59:35Z",
+        "closed_at": "2021-05-10T05:50:52Z"
+    },
+    {
+        "number": "46",
+        "title": "Criar logica para salvar gastos  de deputados",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T13:02:43Z",
+        "closed_at": "2021-04-24T17:27:50Z"
+    },
+    {
+        "number": "47",
+        "title": "Criar testes iniciais do frontend",
+        "labels": [
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T13:17:40Z",
+        "closed_at": "2021-05-01T17:49:00Z"
+    },
+    {
+        "number": "50",
+        "title": "Fix #33 Projetos votados",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-13T00:09:31Z",
+        "closed_at": "2021-04-20T18:27:31Z"
+    },
+    {
+        "number": "53",
+        "title": "34 noticias recentes perfil parlamentar",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T03:37:40Z",
+        "closed_at": "2021-04-20T18:27:32Z"
+    },
+    {
+        "number": "54",
+        "title": "30 compartilhar news deputado",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T04:23:03Z",
+        "closed_at": "2021-04-21T22:33:21Z"
+    },
+    {
+        "number": "59",
+        "title": "Criar componente de proposi\u00e7\u00f5es",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T16:23:21Z",
+        "closed_at": "2021-05-10T01:18:28Z"
+    },
+    {
+        "number": "60",
+        "title": "Criar componente de gastos para o perfil do deputado",
+        "labels": [
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T16:25:36Z",
+        "closed_at": "2021-04-30T00:26:25Z"
+    },
+    {
+        "number": "61",
+        "title": "Criar componente de busca para proposi\u00e7\u00f5es",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-04-17T16:27:03Z",
+        "closed_at": null
+    },
+    {
+        "number": "62",
+        "title": "Corrigir breadcrumb de itens din\u00e2micos",
+        "labels": [
+            "HARD",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T17:08:46Z",
+        "closed_at": "2021-04-30T00:26:53Z"
+    },
+    {
+        "number": "63",
+        "title": "Corrigir comportamentos do site",
+        "labels": [
+            "EPS",
+            "HOTFIX",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T18:14:43Z",
+        "closed_at": "2021-05-10T05:51:48Z"
+    },
+    {
+        "number": "64",
+        "title": "Corrigir bot\u00e3o de compartilhar perfil na pagina de deputados",
+        "labels": [
+            "EASY",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T19:11:36Z",
+        "closed_at": "2021-04-30T00:25:59Z"
+    },
+    {
+        "number": "65",
+        "title": "HOTFIX #62 Breadcrumb das telas atuais consertadas",
+        "labels": [
+            "HARD",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-23T23:48:01Z",
+        "closed_at": "2021-04-27T23:42:21Z"
+    },
+    {
+        "number": "70",
+        "title": "Criar componente de tweets para as proposi\u00e7\u00f5es",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-01T18:01:56Z",
+        "closed_at": "2021-05-10T02:19:56Z"
+    },
+    {
+        "number": "71",
+        "title": "Criar compartilhamento para a proposi\u00e7\u00e3o",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-01T18:06:07Z",
+        "closed_at": "2021-05-10T02:20:12Z"
+    },
+    {
+        "number": "72",
+        "title": "Criar componente de gr\u00e1ficos para a tela dos deputados",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-01T18:09:59Z",
+        "closed_at": "2021-05-10T05:26:09Z"
+    },
+    {
+        "number": "73",
+        "title": "Criar componente de compara\u00e7\u00e3o de gastos para a tela do deputado",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-05-01T18:13:35Z",
+        "closed_at": null
+    },
+    {
+        "number": "74",
+        "title": "[BUG] Criar colaps\u00e1vel no perfil dos deputados",
+        "labels": [
+            "HOTFIX",
+            "MDS",
+            "MEDIUM"
+        ],
+        "state": "open",
+        "created_at": "2021-05-01T18:39:46Z",
+        "closed_at": null
+    },
+    {
+        "number": "84",
+        "title": "Criar componente de curiosidades para a tela de deputados",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-05-08T18:06:55Z",
+        "closed_at": null
+    },
+    {
+        "number": "85",
+        "title": "Criar lista de projetos para a tela de projetos",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-08T18:09:42Z",
+        "closed_at": "2021-05-19T02:58:22Z"
+    },
+    {
+        "number": "86",
+        "title": "Criar lista de deputados para a tela de deputados",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-08T18:10:25Z",
+        "closed_at": "2021-05-19T01:48:31Z"
+    },
+    {
+        "number": "87",
+        "title": "Criar componente de proposi\u00e7\u00f5es propostas para a tela de deputados",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-08T18:13:28Z",
+        "closed_at": "2021-05-19T02:22:23Z"
+    },
+    {
+        "number": "98",
+        "title": "86 tela lista deputados",
+        "labels": [
+            "EASY",
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-14T01:52:50Z",
+        "closed_at": "2021-05-19T01:45:24Z"
+    },
+    {
+        "number": "99",
+        "title": "Fix #87 componente proposicao deputado",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-15T01:02:29Z",
+        "closed_at": "2021-05-19T02:21:03Z"
+    },
+    {
+        "number": "101",
+        "title": "Criar estatisticas de alinhamento ao governo para a funcionalidade de curiosidade",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-05-15T17:53:14Z",
+        "closed_at": null
+    },
+    {
+        "number": "102",
+        "title": "Criar estatisticas de alinhamento ao partido para a funcionalidade de curiosidade",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-05-15T17:55:11Z",
+        "closed_at": null
+    },
+    {
+        "number": "103",
+        "title": "Criar componente de crescimento patrimonial para o perfil do deputado",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-05-15T17:59:13Z",
+        "closed_at": null
+    },
+    {
+        "number": "104",
+        "title": "Criar componente de grafico do crescimento patrimonial para o perfil do deputado",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "open",
+        "created_at": "2021-05-15T17:59:54Z",
+        "closed_at": null
+    }
+]
