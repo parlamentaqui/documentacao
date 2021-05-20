@@ -1,0 +1,10 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+53,34 noticias recentes perfil parlamentar,"['FEATURE', 'HARD', 'MEDIUM', 'US']",closed,2021-04-17 03:37:40+00:00,2021-04-20 18:27:32+00:00,3 days 14:49:52,frontend,7,7
+54,30 compartilhar news deputado,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-04-17 04:23:03+00:00,2021-04-21 22:33:21+00:00,4 days 18:10:18,frontend,7,7
+59,Criar componente de proposições,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-04-17 16:23:21+00:00,2021-05-10 01:18:28+00:00,22 days 08:55:07,frontend,7,10
+60,Criar componente de gastos para o perfil do deputado,"['HARD', 'MDS', 'US']",closed,2021-04-17 16:25:36+00:00,2021-04-30 00:26:25+00:00,12 days 08:00:49,frontend,7,8
+61,Criar componente de busca para proposições,"['FEATURE', 'HARD', 'MDS', 'US']",open,2021-04-17 16:27:03+00:00,,,frontend,7,
+62,Corrigir breadcrumb de itens dinâmicos,"['HARD', 'HOTFIX', 'MDS']",closed,2021-04-17 17:08:46+00:00,2021-04-30 00:26:53+00:00,12 days 07:18:07,frontend,7,8
+63,Corrigir comportamentos do site,"['EPS', 'HOTFIX', 'MEDIUM']",closed,2021-04-17 18:14:43+00:00,2021-05-10 05:51:48+00:00,22 days 11:37:05,frontend,7,10
+64,Corrigir botão de compartilhar perfil na pagina de deputados,"['EASY', 'HOTFIX', 'MDS']",closed,2021-04-17 19:11:36+00:00,2021-04-30 00:25:59+00:00,12 days 05:14:23,frontend,7,8
+65,HOTFIX #62 Breadcrumb das telas atuais consertadas,"['HARD', 'HOTFIX', 'MDS']",closed,2021-04-23 23:48:01+00:00,2021-04-27 23:42:21+00:00,3 days 23:54:20,frontend,7,8

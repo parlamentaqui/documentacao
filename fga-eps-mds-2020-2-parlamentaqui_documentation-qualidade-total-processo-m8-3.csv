@@ -1,0 +1,8 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+2,Colocar projeto de acordo com os padrões de software livre,"['DOCS', 'EASY', 'EPS']",closed,2021-03-21 21:35:08+00:00,2021-03-24 00:48:11+00:00,2 days 03:13:03,documentation,3,3
+3,Vídeo da R1,"['DOCS', 'EASY', 'EPS', 'MDS']",closed,2021-03-21 21:44:54+00:00,2021-03-27 17:49:30+00:00,5 days 20:04:36,documentation,3,3
+4,Criar documento explicando a metodologia do projeto e do produto,"['DOCS', 'EASY', 'EPS']",closed,2021-03-21 21:42:59+00:00,2021-04-11 14:15:13+00:00,20 days 16:32:14,documentation,3,6
+5,Documento de elicitação de requisitos,"['DOCS', 'EPS', 'MEDIUM']",closed,2021-03-21 21:51:18+00:00,2021-03-23 19:24:02+00:00,1 days 21:32:44,documentation,3,3
+6,Documentar cronograma do projeto,"['DOCS', 'EASY', 'EPS']",closed,2021-03-21 21:58:07+00:00,2021-03-23 19:50:12+00:00,1 days 21:52:05,documentation,3,3
+9,Fix #11 finalizando atividade para passar os documentos,['DOCS'],closed,2021-03-23 16:54:51+00:00,2021-03-23 18:17:23+00:00,0 days 01:22:32,documentation,3,3
+11,Passar documentos que não estão na gh-pages,"['DOCS', 'EASY', 'EPS']",closed,2021-03-23 18:10:31+00:00,2021-03-23 18:17:24+00:00,0 days 00:06:53,documentation,3,3

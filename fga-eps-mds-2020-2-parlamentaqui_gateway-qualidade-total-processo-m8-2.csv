@@ -1,0 +1,8 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+4,Criar endpoint para a retornar deputados da home,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-13 17:07:59+00:00,2021-04-11 13:12:47+00:00,28 days 20:04:48,gateway,2,6
+5,Criar endpoint para a ultimas noticias da home,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-13 17:10:08+00:00,2021-03-27 17:26:03+00:00,14 days 00:15:55,gateway,2,3
+6,Criar endpoint para trazer os tweets mais recentes dos deputados para a página inicial,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-13 17:15:45+00:00,2021-04-11 13:12:51+00:00,28 days 19:57:06,gateway,2,6
+7,Criar endpoint para pegar os dados de um deputado especifico,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-13 17:19:01+00:00,2021-04-11 13:12:58+00:00,28 days 19:53:57,gateway,2,6
+8,Criar endpoint para resultados da busca,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-03-13 17:22:15+00:00,2021-03-22 17:22:41+00:00,9 days 00:00:26,gateway,2,3
+9,Fix #5 Finalizando criação de endpoint para notícias na home,"['FEATURE', 'US']",closed,2021-03-18 23:23:14+00:00,2021-03-27 17:26:02+00:00,8 days 18:02:48,gateway,2,3
+10,Fix #8 Resultado de busca concluído,"['FEATURE', 'US']",closed,2021-03-19 23:34:20+00:00,2021-03-22 17:22:40+00:00,2 days 17:48:20,gateway,2,3

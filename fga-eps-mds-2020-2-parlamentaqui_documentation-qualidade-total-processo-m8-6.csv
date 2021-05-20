@@ -1,0 +1,4 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+16,Apagar branches antigas,['MDS'],closed,2021-04-11 13:59:40+00:00,2021-04-24 17:38:20+00:00,13 days 03:38:40,documentation,6,7
+17,Refatorar CI e politica de branches,"['DEVOPS', 'EPS', 'MEDIUM']",closed,2021-04-11 14:03:55+00:00,2021-05-18 17:10:44+00:00,37 days 03:06:49,documentation,6,11
+18,Rever issues do repositório,"['EASY', 'EPS']",closed,2021-04-11 14:19:00+00:00,2021-04-24 18:07:08+00:00,13 days 03:48:08,documentation,6,7

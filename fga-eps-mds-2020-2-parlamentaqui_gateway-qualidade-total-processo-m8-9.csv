@@ -1,0 +1,3 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+34,[BUG] Trazer informações do gabinete,"['EASY', 'HOTFIX', 'MDS']",open,2021-05-06 01:52:09+00:00,,,gateway,9,
+35,[BUG] Tweets da home não são os mais recentes,"['EASY', 'HOTFIX', 'MDS']",closed,2021-05-06 21:45:47+00:00,2021-05-12 18:51:19+00:00,5 days 21:05:32,gateway,9,10

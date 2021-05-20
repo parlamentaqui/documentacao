@@ -1,0 +1,2 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+41,Criar lógica para a popular os dados sobre votações.,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-03-27 19:01:06+00:00,2021-04-10 17:31:45+00:00,13 days 22:30:39,frontend,4,5

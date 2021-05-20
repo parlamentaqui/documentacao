@@ -1,0 +1,5 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+11,Criar logica para agendar atualização de informações de deputados,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-03-20 14:44:03+00:00,2021-04-11 13:13:02+00:00,21 days 22:28:59,gateway,3,6
+12,Criar logica para agendar atualização de tweets,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-03-20 14:48:50+00:00,2021-04-11 13:13:08+00:00,21 days 22:24:18,gateway,3,6
+13,Criar logica para agendar atualização de informações de notícias,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-03-20 14:53:38+00:00,2021-04-11 13:13:12+00:00,21 days 22:19:34,gateway,3,6
+14,Orquestração do pipeline de Devops,"['ANALYTICS', 'DEVOPS', 'EPS', 'MEDIUM']",closed,2021-03-21 23:02:52+00:00,2021-04-11 14:15:11+00:00,20 days 15:12:19,gateway,3,6

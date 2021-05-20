@@ -1,0 +1,4 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+1,Criar documento de arquitetura,"['ARQ', 'DOCS', 'EASY', 'EPS']",closed,2021-03-06 19:28:45+00:00,2021-03-20 18:38:21+00:00,13 days 23:09:36,gateway,1,2
+2,Modelar banco de dados,"['ARQ', 'DOCS', 'EPS', 'MEDIUM']",closed,2021-03-06 19:31:31+00:00,2021-03-17 02:31:09+00:00,10 days 06:59:38,gateway,1,2
+3,Preparar ambiente docker,"['DEVOPS', 'EPS', 'FEATURE', 'MEDIUM']",closed,2021-03-06 19:33:05+00:00,2021-03-20 18:37:58+00:00,13 days 23:04:53,gateway,1,2

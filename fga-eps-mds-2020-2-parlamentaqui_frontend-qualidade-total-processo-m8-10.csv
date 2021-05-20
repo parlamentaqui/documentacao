@@ -1,0 +1,6 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+84,Criar componente de curiosidades para a tela de deputados,"['FEATURE', 'HARD', 'MDS', 'US']",open,2021-05-08 18:06:55+00:00,,,frontend,10,
+85,Criar lista de projetos para a tela de projetos,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-05-08 18:09:42+00:00,2021-05-19 02:58:22+00:00,10 days 08:48:40,frontend,10,11
+86,Criar lista de deputados para a tela de deputados,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-05-08 18:10:25+00:00,2021-05-19 01:48:31+00:00,10 days 07:38:06,frontend,10,11
+87,Criar componente de proposições propostas para a tela de deputados,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-05-08 18:13:28+00:00,2021-05-19 02:22:23+00:00,10 days 08:08:55,frontend,10,11
+98,86 tela lista deputados,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-05-14 01:52:50+00:00,2021-05-19 01:45:24+00:00,4 days 23:52:34,frontend,10,11

@@ -1,0 +1,6 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+70,Criar componente de tweets para as proposições,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-05-01 18:01:56+00:00,2021-05-10 02:19:56+00:00,8 days 08:18:00,frontend,9,10
+71,Criar compartilhamento para a proposição,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-05-01 18:06:07+00:00,2021-05-10 02:20:12+00:00,8 days 08:14:05,frontend,9,10
+72,Criar componente de gráficos para a tela dos deputados,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-05-01 18:09:59+00:00,2021-05-10 05:26:09+00:00,8 days 11:16:10,frontend,9,10
+73,Criar componente de comparação de gastos para a tela do deputado,"['FEATURE', 'HARD', 'MDS', 'US']",open,2021-05-01 18:13:35+00:00,,,frontend,9,
+74,[BUG] Criar colapsável no perfil dos deputados,"['HOTFIX', 'MDS', 'MEDIUM']",open,2021-05-01 18:39:46+00:00,,,frontend,9,
