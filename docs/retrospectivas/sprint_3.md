@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 20/03/2021 | 1.0    | Criação do documento                                |    Helena e Gabriel Albino   |
+| 20/03/2021 | 1.0    | Criação do documento                                |     Gabriel Albino </br> Helena  |
 
 ## Action points solicitados para essa semana
 
