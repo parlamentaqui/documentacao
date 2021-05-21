@@ -62,11 +62,12 @@
 
 | US    | Pontuação estimada pela equipe | Pontuação entregue              | 
 |-------|--------------------------------|---------------------------------|
-| US5   |                               |                                 |
-| US34  |                               |                                 |
-| US11  |                               |                                 |
-| US15  |                               |                                 |
-| US55  |                               |                                 |
+| US5   |5 |[issue #5](https://github.com/parlamentaqui/gateway/issues/5) |
+| US34  |8 |[issue #34](https://github.com/parlamentaqui/frontend/issues/34)|
+| US11  |8 |[issue #8](https://github.com/parlamentaqui/gateway/issues/8) |
+| US15  |5 |[issue #15](https://github.com/parlamentaqui/gateway/issues/15) |
+| US55  |5 |[issue #55](https://github.com/parlamentaqui/frontend/issues/55)|
+| Total |31  | |
 
 ## Velocity
 
