@@ -1,6 +1,6 @@
 ## Restrospectiva sprint 8
 
-### De 24/04 a 3/04
+### De 24/04 a 30/04
 
 
 | Data       | Versão | Descrição                                           | Autor              |
