@@ -1,4 +1,4 @@
-## Restrospectiva sprint 4
+## Restrospectiva sprint 6
 
 ### De 10/04 a 16/04
 
@@ -53,10 +53,10 @@
 
 | US    | Pontuação estimada pela equipe | Pontuação entregue              | 
 |-------|--------------------------------|---------------------------------|
-| U4   |5 |[issue #4](https://github.com/parlamentaqui/gateway/issues/4) |
-| US1  | |[issue #1](https://github.com/parlamentaqui/gateway/issues/1)|
-| US2  | |[issue #2](https://github.com/parlamentaqui/gateway/issues/2) |
-| Total |5  | |
+| US33   |13 |[issue #33](https://github.com/parlamentaqui/frontend/issues/33) |
+| US54  |8 |[issue #54](https://github.com/parlamentaqui/frontend/issues/54)|
+| US56  |8 |[issue #56](https://github.com/parlamentaqui/frontend/issues/56) |
+| Total |26  | |
 
 ## Velocity
 
