@@ -5,7 +5,7 @@
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 13/03/2021 | 1.0    | Criação do documento                                |    Helena e Lucas Machado   |
+| 13/03/2021 | 1.0    | Criação do documento                                |    Helena </br> Lucas Machado   |
 | 23/03/2021 | 1.0    | Inclusão de quadros-resumos                               |    Helena Bretas   |
 
 ## Action points solicitados para essa semana
