@@ -92,4 +92,18 @@ Natanny teve dificuldades em entender onde poderia compartilhar as notícias, ma
 
 ## Conclusão 
 
+As dúvidas a seguir foram feitas aos 10 usuários que testaram as usabilidades solicitadas e nos permitiram uma visão estatística dos testes feitos.
+
+### Considerando as possibilidades fácil, médio e difícil, como nossos usuários definem a dificuldade em encontrar as funcionalidades que lhes foram propostas?
+
+![dificuldade](../img/dificuldadeachar.PNG)
+
+### Você considera que a usabilidade testada contém informações interessantes para usuários?
+
+![considera](../img/utilidade.PNG)
+
+### Você recomendaria este site para um amigo? 
+
+![considera](../img/utilidade.PNG)
+
 Dos 10 usuários que testaram funcionalidades da aplicação, foi unânime que as funcionalidades são importantes e interessantes para usuários. Contudo, a opção de compartilhar o perfil do deputado pode melhorar, assim como a tela de perfil do deputado e de propostas podem ter uma usabilidade melhor.

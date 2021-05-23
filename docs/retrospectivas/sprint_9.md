@@ -1,6 +1,6 @@
 ## Restrospectiva sprint 9
 
-### De 1/04 a 7/05
+### De 02/05 a 08/05
 
 
 | Data       | Versão | Descrição                                           | Autor              |

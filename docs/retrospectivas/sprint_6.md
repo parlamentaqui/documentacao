@@ -1,6 +1,6 @@
 ## Restrospectiva sprint 6
 
-### De 10/04 a 16/04
+### De 11/04 a 17/04
 
 
 | Data       | Versão | Descrição                                           | Autor              |

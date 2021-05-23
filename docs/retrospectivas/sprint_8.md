@@ -1,6 +1,6 @@
 ## Restrospectiva sprint 8
 
-### De 24/04 a 30/04
+### De 25/04 a 01/05
 
 
 | Data       | Versão | Descrição                                           | Autor              |
@@ -20,6 +20,8 @@
 
 
 ## Retrospectiva
+
+Nesta sprint os gerentes optaram por não agendar novas issues para a semana e deixar ela livre para que os MDS entregassem as dívidas técnicas.
 
 | **Pontos fracos** | **Pontos fortes** |
 | ------------- | ------------- |

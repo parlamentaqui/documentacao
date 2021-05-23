@@ -1,11 +1,16 @@
 ## Restrospectiva sprint 7
 
-### De 17/04 a 23/04
+### De 18/04 a 24/04
 
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
 | 21/05/2021 | 1.0    | Transferindo do drive para o gh-pages               |    Helena </br> Lucas Machado   |
+
+
+![equipereunida](../img/printsprint.PNG)
+
+
 
 ## Action points solicitados para essa semana
 
@@ -56,7 +61,5 @@
 | US19  |5 |[issue #19](https://github.com/parlamentaqui/gateway/issues/19)|
 | US07  |5 |[issue #07](https://github.com/parlamentaqui/gateway/issues/07) |
 | Total |18  | |
-
-## Velocity
 
 

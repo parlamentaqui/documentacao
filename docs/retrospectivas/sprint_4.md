@@ -1,6 +1,6 @@
 ## Restrospectiva sprint 4
 
-### De 27/03 a 02/04
+### De 28/03 a 03/04
 
 
 | Data       | Versão | Descrição                                           | Autor              |
