@@ -500,8 +500,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#54-proposicoes" title="5.4 Proposições" class="md-nav__link">
-    5.4 Proposições
+  <a href="#54-tse" title="5.4 TSE" class="md-nav__link">
+    5.4 TSE
   </a>
   
 </li>
@@ -698,18 +698,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../../retrospectivas/sprint_11/" title="Sprint 11" class="md-nav__link">
-      Sprint 11
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
     <a href="../../retrospectivas/sprint_2/" title="Sprint 2" class="md-nav__link">
       Sprint 2
     </a>
@@ -796,6 +784,18 @@
   <li class="md-nav__item">
     <a href="../../retrospectivas/sprint_9/" title="Sprint 9" class="md-nav__link">
       Sprint 9
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../retrospectivas/sprint__11/" title="Sprint  11" class="md-nav__link">
+      Sprint  11
     </a>
   </li>
 
@@ -984,8 +984,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#54-proposicoes" title="5.4 Proposições" class="md-nav__link">
-    5.4 Proposições
+  <a href="#54-tse" title="5.4 TSE" class="md-nav__link">
+    5.4 TSE
   </a>
   
 </li>
@@ -1075,6 +1075,12 @@
 <td>Adicionando proposição</td>
 <td>Lucas Machado</td>
 </tr>
+<tr>
+<td>22/05/2021</td>
+<td>1.6</td>
+<td>Atualizando documento conforme entidades atuais</td>
+<td>Lucas Machado</td>
+</tr>
 </tbody>
 </table>
 <h2 id="1-introducao">1. Introdução</h2>
@@ -1151,24 +1157,24 @@
 <ul>
 <li><strong>Twitter</strong></li>
 </ul>
-<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>Twitter</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<p>O "twitter" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>Twitter</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
 <ul>
 <li><strong>Noticias</strong></li>
 </ul>
-<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>Google News (Brasil) API</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<p>O "noticias" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>Google News (Brasil) API</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
 <ul>
 <li><strong>TSE</strong></li>
 </ul>
-<p>O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>TSE</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
+<p>O "tse" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API <strong>TSE</strong>, tratamento e separação de dados relevantes, e carregamento no DB.</p>
 <h2 id="5-visao-de-dados">5 Visão de dados</h2>
 <h3 id="51-dados-abertos-camara">5.1 Dados abertos camara</h3>
-<p><img alt="Representação de Arquitetura" src="../../img/dados/dados_abertos.png" /></p>
+<p><img alt="Representação de Arquitetura" src="../../img/dados/dados_abertos2.png" /></p>
 <h3 id="52-twitter">5.2 Twitter</h3>
 <p><img alt="Twitter" src="../../img/dados/twitter_v2.png" /></p>
 <h3 id="53-noticias">5.3 Noticias</h3>
 <p><img alt="Noticias" src="../../img/dados/noticias_v2.png" /></p>
-<h3 id="54-proposicoes">5.4 Proposições</h3>
-<p><img alt="Proposições" src="../../img/dados/proposicao.png" /></p>
+<h3 id="54-tse">5.4 TSE</h3>
+<p><img alt="TSE" src="../../img/dados/tse.png" /></p>
 <h3 id="55-dicionario-de-dados-cross-data">5.5 Dicionário de dados Cross Data</h3>
 <p><strong>Entidade:</strong> Deputado</p>
 <table>
@@ -1718,6 +1724,98 @@
 <td>uriRelator</td>
 <td>string</td>
 <td>Url para o relator</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Entidade:</strong> CsvDeputado</p>
+<table>
+<thead>
+<tr>
+<th><strong>Atributo</strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>idDeputado</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>csv_id</td>
+<td>string</td>
+<td>link csv deputado</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>nome_deputado</td>
+<td>string</td>
+<td>Nome do deputado</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Entidade:</strong> CapitalDeputado</p>
+<table>
+<thead>
+<tr>
+<th><strong>Atributo</strong></th>
+<th><strong>Dominio</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Restrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>id</td>
+<td>string</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>idDeputado</td>
+<td>int</td>
+<td>Primary key</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>csv_id</td>
+<td>string</td>
+<td>link csv deputado</td>
+<td>Not null</td>
+</tr>
+<tr>
+<td>nome_deputado</td>
+<td>string</td>
+<td>Nome do deputado</td>
+<td></td>
+</tr>
+<tr>
+<td>valor</td>
+<td>string</td>
+<td>valor gastos</td>
+<td></td>
+</tr>
+<tr>
+<td>descricao</td>
+<td>string</td>
+<td>Descrição dos gastos</td>
+<td></td>
+</tr>
+<tr>
+<td>tipo_documento</td>
+<td>string</td>
+<td>Tipo do documento que mostra o gasto</td>
+<td></td>
+</tr>
+<tr>
+<td>ano</td>
+<td>integer</td>
+<td>Ano do gasto</td>
 <td></td>
 </tr>
 </tbody>
