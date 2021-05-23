@@ -10,6 +10,7 @@
 | 26/04/2021 | 1.4   | Atualizando planejamento para evidenciar atraso de 1 semana | Gabriel Albino |
 | 10/05/2021 | 1.5   | Atualizando planejamento ocorrido até o incremento 01 | Gabriel Albino |
 | 13/05/2021 | 1.6   | Atualizando planejamento ocorrido para adicionar as estorias 56 e 57 | Gabriel Albino |
+| 13/05/2021 | 1.7   | Organizando ordenação | Gabriel Albino |
 
 ## Descrição
 
@@ -126,16 +127,16 @@ A equipe deu continuidade aos treinamentos para os desenvolvedores e também a c
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP1|FE01|US01|Eu, Konan, desejo ter acesso aos deputados com atividade recente na página inicial para que tenha acesso rápido a conteúdos relevantes.|
-|EP1|FE01|US02|Eu, Armim, desejo ter acesso aos tweets recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|
-|EP1|FE03|US09|Eu, Eren, desejo acessar o perfil de um deputado para ver suas informações pessoais.|
-|EP1|FE01|US03|Eu, Konan, desejo ter acesso ás notícias recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|
-|EP4|FE17|US38|Eu, Eren, desejo que o aplicativo busque informações de tweets de deputados periodicamente para que o site tenha informações relevantes|
-|EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|
-|EP5|FE18|US39|Eu, Eren, desejo que o aplicativo busque informações de notícias de deputado periodicamente para que o site tenha informações relevantes.|
-|EP1|FE02|US06|Eu, como Armim, desejo acesso a uma página de resultados de busca para ver os parlamentares relacionados ao que pesquisei.|
+|Épico|Feature|Estória|Descrição|Pontuação Estimada|
+|-|-|-|-|-|
+|EP1|FE01|US01|Eu, Konan, desejo ter acesso aos deputados com atividade recente na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|
+|EP1|FE01|US02|Eu, Armim, desejo ter acesso aos tweets recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|
+|EP1|FE01|US03|Eu, Konan, desejo ter acesso ás notícias recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|8|
+|EP1|FE02|US06|Eu, como Armim, desejo acesso a uma página de resultados de busca para ver os parlamentares relacionados ao que pesquisei.|8|
+|EP1|FE03|US09|Eu, Eren, desejo acessar o perfil de um deputado para ver suas informações pessoais.|8|
+|EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|8|
+|EP4|FE17|US38|Eu, Eren, desejo que o aplicativo busque informações de tweets de deputados periodicamente para que o site tenha informações relevantes|8|
+|EP5|FE18|US39|Eu, Eren, desejo que o aplicativo busque informações de notícias de deputado periodicamente para que o site tenha informações relevantes.|8|
 
 **Atividades**
 
@@ -148,23 +149,23 @@ A equipe deu continuidade aos treinamentos para os desenvolvedores e também a c
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP1|FE02|US05|Eu, como Armim, desejo acesso a uma barra de busca na página inicial do celular para encontrar conteúdos que desejo facilmente|
-|EP5|FE18|US34|Eu, Luiz, desejo acesso a uma lista de notícias relacionadas ao parlamentar em seu perfil para saber no que ele está envolvido.|
-|EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|
-|EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|
-|EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|
+|Épico|Feature|Estória|Descrição|Pontos estimados|
+|-|-|-|-|-|
+|EP1|FE02|US05|Eu, como Armim, desejo acesso a uma barra de busca na página inicial do celular para encontrar conteúdos que desejo facilmente|3|
+|EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|3|
+|EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|3|
+|EP5|FE18|US34|Eu, Luiz, desejo acesso a uma lista de notícias relacionadas ao parlamentar em seu perfil para saber no que ele está envolvido.|8|
+|EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|0|
 
 ### Sprint 10 (04/04/2020)
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP3|FE15|US31|Eu, Juliana, desejo ter acesso aos projetos votados recentemente por um parlamentar em seu perfil para saber se ele está de acordo com o que penso ou não.|
-|EP1|FE05|US16|Eu, Armim, desejo conseguir compartilhar o voto de um deputado em uma proposição específica para envia-lo aos meus amigos.|
-|EP1|FE05|US12|Eu, Luiz, desejo conseguir compartilhar a notícia que se encontra no perfil do deputado para envia-las aos meus amigos.|
+|Épico|Feature|Estória|Descrição|Pontuação estimada|
+|-|-|-|-|-|
+|EP1|FE05|US12|Eu, Luiz, desejo conseguir compartilhar a notícia que se encontra no perfil do deputado para envia-las aos meus amigos.|3|
+|EP1|FE05|US16|Eu, Armim, desejo conseguir compartilhar o voto de um deputado em uma proposição específica para envia-lo aos meus amigos.|3|
+|EP3|FE15|US31|Eu, Juliana, desejo ter acesso aos projetos votados recentemente por um parlamentar em seu perfil para saber se ele está de acordo com o que penso ou não.|13|
 
 ### Entrega do MVP: 10/04/2020
 
@@ -177,21 +178,21 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP2|FE07|US56| Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.
-|EP1|FE04|US54|Eu, Juliana, desejo recuperar informações sobre proposições ou projetos de lei para salvar suas informações básicas.|
-|EP4|FE17|US33|Eu, Luiz, desejo ter acesso aos tweets recentes de um deputado em seu perfil para saber o que ele está pensando.|
+|Épico|Feature|Estória|Descrição|Pontuação estimada|
+|-|-|-|-|-|
+|EP4|FE17|US33|Eu, Luiz, desejo ter acesso aos tweets recentes de um deputado em seu perfil para saber o que ele está pensando.|5|
+|EP1|FE04|US54|Eu, Juliana, desejo recuperar informações sobre proposições ou projetos de lei para salvar suas informações básicas.|5|
+|EP2|FE07|US56| Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|8|
 
 ### Sprint 12 (18/04/2020)
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP1|FE02|US07|Eu, como usuário, desejo acesso a uma página de resultados de busca para ver os projetos e proposições relacionados ao que pesquisei.|
-|EP1|FE04|US10|Eu, Juliana, desejo acessar uma preposição ou projeto de lei para ver suas informações básicas.|
-|EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|
+|Épico|Feature|Estória|Descrição|Pontuação estimada|
+|-|-|-|-|-|
+|EP1|FE02|US07|Eu, como usuário, desejo acesso a uma página de resultados de busca para ver os projetos e proposições relacionados ao que pesquisei.|8|
+|EP1|FE04|US10|Eu, Juliana, desejo acessar uma preposição ou projeto de lei para ver suas informações básicas.|5|
+|EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|8|
 
 ### Sprint 13 (25/04/2020)
 **Sprint sem novas estórias**
@@ -203,13 +204,11 @@ Sprint atrasada em 1 semana para realização de dívidas técnicas.
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|
-|EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
-|EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|
-|EP4|FE17|US43|Eu, Luiz, desejo ter acesso aos tweets de um deputado relacionado a uma proposição em seu perfil para saber o que ele está pensando.|
-
+|Épico|Feature|Estória|Descrição|Pontuação estimada|
+|-|-|-|-|-|
+|EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|2|
+|EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|8|
+|EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|13|
 
 ### Entrega do Incremento 1: 01/05/2020
 
@@ -222,12 +221,12 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP2|FE13|US28|Eu, Amadeus, desejo ter acesso á curiosidades de um parlamentar eu seu perfil para facilitar minha analise. |
-|EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|
-|EP1|FE01|US57|Eu, Juliana, desejo criar uma lista de projetos para a tela de projetos|
-|EP1|FE01|US58|Eu, Juliana, desejo criar uma lista de deputados para a tela de deputados.|
+|Épico|Feature|Estória|Descrição|Pontuação estimada|
+|-|-|-|-|-|
+|EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|8|
+|EP2|FE13|US28|Eu, Amadeus, desejo ter acesso á curiosidades de um parlamentar eu seu perfil para facilitar minha analise. |13|
+|EP1|FE01|US57|Eu, Juliana, desejo criar uma lista de projetos para a tela de projetos|13|
+|EP1|FE01|US58|Eu, Juliana, desejo criar uma lista de deputados para a tela de deputados.|5|
 
 ### Entrega do Incremento 2: 15/05/2020
 
@@ -240,12 +239,11 @@ O Incremento 3, composta pela ondas 5 e 6 do [lean inception](./lean_inception.m
 **Estórias de usuário**
 
 
-|Épico|Feature|Estória|Descrição|
-|-|-|-|-|
-|EP2|FE08|US22|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado declarado no TSE para fazer seu acompanhamento financeiro|
-|EP2|FE08|US23|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado em forma de gráfico para ter uma visualização mais didática.|
-|EP2|FE12|US44|Eu, Juliana, desejo acesso ao campo de interesse do deputado em seu perfil para que eu saiba os seus campos de interesse.|
-|EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
-|EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
+|Épico|Feature|Estória|Descrição|Pontuação estimada|
+|-|-|-|-|-|
+|EP2|FE08|US22|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado declarado no TSE para fazer seu acompanhamento financeiro|13|
+|EP2|FE08|US23|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado em forma de gráfico para ter uma visualização mais didática.|8|
+|EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|8|
+|EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|13|
 
 ### Entrega do Incremento 3: 22/05/2020

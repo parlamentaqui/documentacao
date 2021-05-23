@@ -7,6 +7,7 @@
 | 22/03/2021 | 0.1    | Adicionado template                                 | Gabriel Albino     |
 | 22/03/2021 | 0.2    | Adicionado parâmetros iniciais da release           | Gabriel Albino     |
 | 23/03/2021 | 0.3    | Adicionado dados das sprints 1 e 2                  | Gabriel Albino     |
+| 01/04/2021 | 1.0    | Adicionado dados da release 1              | Gabriel Albino     |
 
 ## Descrição
 Esse documento tem como objetivo gerenciar e rastrear o retorno do investimento do produto Parlamentaqui
@@ -117,9 +118,9 @@ De acordo com o [detalhamento da Release 1 no backlog](./backlog.md#Detalhamento
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1|R$2059,60|26|0|R$2059,60|125|26|0.208|0.2|R$2059,60|R$2141.98|R$82,38|R$82,38|1.04|1.04|R$7842,33|R$9901,93|
 |2|R$4119,20|34|26|R$2059,60|151|60|0.397|0.4|R$4119,20|R$4091,92|R$-27,28|R$-27,28|0.993|0.993|R$6249,83|R$10369,02|
-|3|R$6178,80|X|X|X|X|X|X|0.6|X|X|X|X|X|X|X|X|
-|4||X|X|X|X|X|X|0.8|X|X|X|X|X|X|X|X|
-|5||X|X|X|X|X|X|1.0|X|X|X|X|X|X|X|X|
+|3|R$6178,80|57|-2|R$2059,60|157|130|0.828|0.6|R$6178,80|R$8526,74|R$2347,94|R$2347,94|1.38|1.38|R$1283,52|R$7462,32|
+|4|R$8238,40|26|10|R$2059,60|167|156|0.934|0.8|R$8238,40|R$9618,33|R$1379,93|R$1379,93|1.167|1.167|R$582,41|R$8820,81|
+|5|R$10298,00|19|8|R$2059,60|175|175|1.0|1.0|R$10298,00|$10298,00|R$00,00|R$00,00|1.0|1.0|R$00,00|R$10298,00|
 
 ### Detalhamento das sprints
 
@@ -158,11 +159,32 @@ Veja mais detalhes sobre as estórias de usuário no [backlog](./backlog.md). Pe
 |US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
 |-|-|-|-|-|-|
 |US40|N/A|N/A|0|13|Dívida técnica entregue([issue #3](https://github.com/parlamentaqui/frontend/issues/3))|
-|US01|8|5|-3|||
-|US02|8|5|-3|||
-|US09|8|5|-3|||
-|US03|8|5|-3|||
-|US38|8|13|5|||
-|US37|8|8|0|||
-|US39|8|13|5|||
-|TOTAL|-|-|-|-|-|
+|US01|8|5|-3|5|[frontend #21](https://github.com/parlamentaqui/frontend/issues/21)|
+|US02|8|5|-3|5|[frontend #22](https://github.com/parlamentaqui/frontend/issues/22)|
+|US03|8|5|-3|5|[frontend #23](https://github.com/parlamentaqui/frontend/issues/23)|
+|US06|3|3|0|3|[frontend #15](https://github.com/parlamentaqui/frontend/issues/15)|
+|US09|8|5|-3|5|[frontend #24](https://github.com/parlamentaqui/frontend/issues/24)|
+|US37|8|8|0|8|[gateway #11](https://github.com/parlamentaqui/gateway/issues/11)|
+|US38|8|13|5|13|[gateway #12](https://github.com/parlamentaqui/gateway/issues/12)|
+|US39|8|13|5|13|[gateway #13](https://github.com/parlamentaqui/gateway/issues/13)|
+|TOTAL|59|57|-2|70|-|
+
+#### **Sprint 4**
+
+|US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
+|-|-|-|-|-|-|
+|US05|2|2|0|2|[frontend #28](https://github.com/parlamentaqui/frontend/issues/28)|
+|US11|3|3|0|3|[frontend #29](https://github.com/parlamentaqui/frontend/issues/29)|
+|US15|3|5|2|5|[frontend #31](https://github.com/parlamentaqui/frontend/issues/31)|
+|US34|8|8|0|8|[frontend #34](https://github.com/parlamentaqui/frontend/issues/34)|
+|US55|0|8|8|8|[frontend #41](https://github.com/parlamentaqui/frontend/issues/41)|
+|TOTAL|16|26|10|26|-|
+
+#### **Sprint 5**
+
+|US|Pontos estimados|Pontuação Final|Variação (PA)|Pontuação entregue|Rastreamento|
+|-|-|-|-|-|-|
+|US12|3|3|0|3|[frontend #30](https://github.com/parlamentaqui/frontend/issues/30)|
+|US16|3|3|0|3|[frontend #32](https://github.com/parlamentaqui/frontend/issues/32)|
+|US31|5|13|8|13|[frontend #33](https://github.com/parlamentaqui/frontend/issues/33)|
+|TOTAL|11|19|8|19|-|
