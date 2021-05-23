@@ -12,9 +12,6 @@
 | **Action Points** | **Responsáveis** | **Foi resolvido?** |
 | ------------- | ------------ | ------------ | 
 | EPS terem 15min pra discutir sobre como sera a próxima semana de cada um  | Machado, Fepas, Helena e Albino | sim |
-| Idem | - | sim |
-| Idem | - | sim |
-| Não há | - | sim |
 | Dar o Pull antes de começar a task para evitar conflitos e fadiga | Lyra, Duda, Mari, Rafa, Cristian e Cibele | sim |
 | Avisar no grupo quando tivermos mudanças nos PRs  | Machado, Fepas, Helena e Albino | sim |
 | Finalizar tarefas e rodar elas antes de abrir o PR | Lyra, Duda, Mari, Rafa, Cristian e Cibele | sim |
@@ -27,7 +24,7 @@
 | **Pontos fracos** | **Pontos fortes** |
 | ------------- | ------------- |
 | Não deu pra refatorar o front (mas tentamos) (Albino e Helena) | Melhoria no tempo de resposta para os pull requests |
-| Não deu pra refatorar o back (Fepas e Machado) | As reuniões de equipe não são tão ruins quanto deveriam ser. |
+| Não deu pra refatorar o back (Fepas e Machado) | As reuniões de equipe não são tão ruins quanto poderiam ser (Todos) |
 | Faltam testes sólidos (Albino) | A relação Fepas e Cibele é o gás para o grupo (Helena, Cristian, Lyra)  |
 | EPS não deu a devida importância pras dividas técnicas, e por isso os MDS acumularam muitas dívidas técnicas (EPS) | O Lyra tava ocupadao essa semana, e msm assim ajudou mto na issue, como se nem tivesse ocupado (Cibele) |
 | Acumulamos mais dívidas técnicas essa semana (Furtado) | Todo mundo tá se doando bastante pra matéria <3 (Helena) |
@@ -50,12 +47,7 @@
 | Não planejar novas tasks até terminarmos todas as dívidas técnicas | Todos |
 | Não planejar novas tasks até terminarmos todas as dívidas técnicas | Todos |
 | Atualizar na próxima sprint | Helena, Albino |
-| Não há | - |
-| Não há | - |
-| Não há | - |
 | Colocar essa issue como parâmetro para issue que pontuamos errados, e considerar isso na hora de pontuar as próximas issues | Helena, Albino, Machado e Fepas |
-| Não há | - |
-| Não há | - |
 
 ## Quadro geral
 
@@ -66,7 +58,5 @@
 | US17  |5 |[issue #17](https://github.com/parlamentaqui/gateway/issues/17)|
 | US20  |8 |[issue #20](https://github.com/parlamentaqui/gateway/issues/20) |
 | Total |26  | |
-
-## Velocity
 
 

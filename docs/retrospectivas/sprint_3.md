@@ -65,7 +65,3 @@
 | US39  | 13  |[issue #39](https://github.com/parlamentaqui/frontend/issues/39) |
 | Total | 54  | |
 
-## Velocity
-
-Sprint em desenvolvimento, ainda não possui o velocity finalizado.
-

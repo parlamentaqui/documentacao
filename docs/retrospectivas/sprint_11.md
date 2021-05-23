@@ -11,11 +11,8 @@
 
 | **Action Points** | **Responsáveis** | **Foi resolvido?** |
 | ------------- | ------------ | ------------ | 
-| Nao ha | - | - |
 | Atualizar a planilha de horas | TODOS | Parcialmente |
 | Fazer dailys em dupla, a dupla que fizer menos tem que deixar o time todo decidir um post no instagram | EPS | Sim |
-| Nao ha |  | - |
-| Nao ha (f) |  | - |
 | Reuniao BugFix | TODOS | Sim |
 
 
@@ -40,9 +37,6 @@
 
 | **Action Points** | **Responsáveis** |
 | ----------------- | ---------------- |
-| Não há  | - |
-| Não há  | - |
-| Não há  | - |
 | Reunião para os MDS entenderem sobre o assunto | Todos |
 | Intervenção dos EPS para ajudar no código  | Helena e Albino |
 | Reunião para os MDS entenderem sobre o assunto | Todos |
@@ -60,7 +54,4 @@
 | US23   |8 |[issue #23](https://github.com/parlamentaqui/frontend/issues/23) |
 | US44  |5 |[issue #44](https://github.com/parlamentaqui/frontend/issues/44)|
 | Total |26  | |
-
-## Velocity
-
 

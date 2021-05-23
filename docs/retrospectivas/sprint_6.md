@@ -11,13 +11,13 @@
 
 | **Action Points** | **Responsáveis** | **Foi resolvido?** |
 | ------------- | ------------ | ------------ | 
-| Time incentivar uns aos outros na disciplina | Todos | sim |
-| Time incentivar uns aos outros na disciplina | Todos | sim |
-| Não há | - | sim |
-| Grupo se comprometer a interagir mais, tirar mais dúvidas e responder melhor o professor | Todos | sim |
+| Time incentivar uns aos outros na disciplina | Todos | Sim |
+| Time incentivar uns aos outros na disciplina | Todos | Sim |
+| Não há | - | Sim |
+| Grupo se comprometer a interagir mais, tirar mais dúvidas e responder melhor o professor | Todos | Sim |
 | EPS mexerem com refatoração na próxima sprint | Helena, Albino, Machado e Fepas | Parcialmente |
-| Reunião para revisar os componentes e a estrutura do produto até então | Todos | sim |
-| Refatoração | Helena, Albino | sim |
+| Reunião para revisar os componentes e a estrutura do produto até então | Todos | Sim |
+| Refatoração | Helena, Albino | Sim |
 | Planejar quais testes serão feitos e quando | Helena, Albino, Machado e Fepas | Não |
 
 
@@ -29,9 +29,9 @@
 | Commits não estão padronizados (Fepas) | Cristian leu a documentação do projeto (Helena) |
 | Más práticas de commit - falta acontecer com mais frequência, revezar quem está codando, etc (Fepas) | Componente que a Duda fez (Lyra, Cristian) |
 | Guia de contribuição está incorreto em como colocar o co-authored-by (Helena) | Adaptabilidade da equipe para um novo horário pra reunião é bom (Lyra) |
-| Equipe anunciou em cima da hora a ausência na reunião de sábado (Helena-braba) | Refatoração do front foi muito legallllllll (Helena) |
+| Equipe anunciou em cima da hora a ausência na reunião de sábado (Helena-braba) | Refatoração do front foi muito legal (Helena) |
 | Pareamento em trio não funcionou bem (foi difícil conciliar horários, a lógica de divisão de commits tbm é complicada) (Cristian, Lyra) | Nosso projeto é simples e fácil de rodar. Parabéns demais!! (Helena) |
-| Equipe usa muito o termo de não ter tempo, mas precisamos priorizar a disciplina pra passar nela (Lyra) | Frontend tá bonitão!!! (Helena) |
+| Equipe usa muito o termo de não ter tempo, mas precisamos priorizar a disciplina pra passar nela (Lyra) | Frontend tá bonitão! (Helena) |
 | Issues novas sendo feitas em issues de branches passadas (Cristian) | MVP tá aí, vê quem quer (Fepas, Helena) |
 
 
@@ -57,7 +57,5 @@
 | US54  |8 |[issue #54](https://github.com/parlamentaqui/frontend/issues/54)|
 | US56  |8 |[issue #56](https://github.com/parlamentaqui/frontend/issues/56) |
 | Total |26  | |
-
-## Velocity
 
 

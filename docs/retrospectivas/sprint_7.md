@@ -34,7 +34,7 @@
 | Tem coisas subindo quebradas para produção (Fepas) | O nível dos MDS tá começaaaando a nivelar (Albino) |
 | Esquecemos (Albino e Helena) de reverter uma alteração momentânea de puxar dados só do front e virou um bug pra geral | Os MDS focaram em resolver as dívidas técnicas deles e isso aliviou um pouco o atraso do MVP (Todos) |
 | A release de MVP tá 1 semana atrasada |  |
-| Helena e Albino não conseguiram codar essa semana |  |
+| Helena e Albino não conseguiram codar em conjunto essa semana |  |
 
 
 ## Action points solicitados para próxima semana
@@ -42,15 +42,11 @@
 | **Action Points** | **Responsáveis** |
 | ----------------- | ---------------- |
 | EPS terem 15min pra discutir sobre como sera a próxima semana de cada um  | Machado, Fepas, Helena e Albino |
-| Idem | - |
-| Idem | - |
-| Não há | - |
 | Dar o Pull antes de começar a task para evitar conflitos e fadiga | Lyra, Duda, Mari, Rafa, Cristian e Cibele |
 | Avisar no grupo quando tivermos mudanças nos PRs  | Machado, Fepas, Helena e Albino |
 | Finalizar tarefas e rodar elas antes de abrir o PR | Lyra, Duda, Mari, Rafa, Cristian e Cibele |
 | Reverter alterações momentâneas | Todos |
 | Correr com o cronograma das próximas sprints para recuperar o tempo perdido  | Albino |
-| Não há |  |
 
 ## Quadro geral
 

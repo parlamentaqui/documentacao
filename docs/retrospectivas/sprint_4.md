@@ -16,21 +16,21 @@
 | Melhorar comunicação do time | Todos | Sim |
 | Melhorar a descrição das issues.<br>+ Adicionar print do protótipo<br>+ Adicionar micro-serviçõs utilizados<br>+ Adicionar JSON de retorno  | Albino | Sim |
 | Criar template de PR | Albino | Sim |
-| Responder o professor na hora que ele mandar msg | Todos | Sim |
+| Responder o professor na hora que ele mandar mensagem | Todos | Sim |
 
 
 ## Retrospectiva
 
 | **Pontos fracos** | **Pontos fortes** |
 | ------------- | ------------- |
-| Divergências de informações para as entregas da disciplina  | A gente não se odeia* [ainda] (Todos concordam) |
+| Divergências de informações para as entregas da disciplina  | A gente não se odeia [ainda] (Todos concordam) |
 | Dificuldade na comunicação para entrega da R1 (Helena) | Entregamos a R1! YAY!!! (Todos) |
 | Reviews estão demorando para serem feitos (Albino) | Trabalhamos muito na última sprint (Todos) |
 | Documentação deixou Helena e Machado menos focados em código até a entrega da R1 (Helena)  | As calls são produtivas e divertidas (Todos) |
 | Atualização do Kanban está em falta (Albino) | Temos um domínio na internet e o projeto pode ser visto através dele (Todos) |
-| Envio de dailies (Helena) | Albino ajudou muito os MDS (Mari, Cibele) |
-| Dificuldade em entender algumas issues e encontrar pré-requisitos delas [como as keys do twitter] (Cristian) (Lyra) |  |
-| Faltaram coisas do back para entregar algumas issues (Cibele) |  |
+| Envio de dailies está aquém, o grupo precisa se comprometer mais (Helena) | Albino ajudou muito os MDS nos últimos tempos (Mari, Cibele) |
+| Dificuldade em entender algumas issues e encontrar pré-requisitos delas [como as keys do twitter] (Cristian e Lyra) |  |
+| Faltaram itens do back para entregar algumas issues (Cibele) |  |
 | Deram o merge em uma atividade sem o PR dela (Cristian) |  |
 | Dívidas técnicas estão tomando muito tempo de vida (Helena) |  |
 | Falta de métricas das retrospectivas (Helena) |  |
@@ -68,7 +68,5 @@
 | US15  |5 |[issue #15](https://github.com/parlamentaqui/gateway/issues/15) |
 | US55  |5 |[issue #55](https://github.com/parlamentaqui/frontend/issues/55)|
 | Total |31  | |
-
-## Velocity
 
 

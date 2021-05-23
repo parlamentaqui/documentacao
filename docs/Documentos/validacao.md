@@ -10,7 +10,7 @@ A intenção deste documento é validar a hipótese do usuário. Dado que o lean
 
 ## Metodologia
 
-A coluna 6 do Lean Inception conta com jornadas de usuários, e essas jornadas representam fluxos do site. Sendo assim, retiramos algumas dessas jornadas e pedimos para usuários reais, amigos e familiares do grupo, que testassem o desempenho dessas jornadas e se o site está cumprindo com o proposto. É importante ressaltar que os testes foram ressaltados três semanas após o MVP, e algumas funcionalidades ainda não estavam disponíveis, como por exemplo a de conferir o alinhamento do deputado com o partido.
+A coluna 6 do Lean Inception conta com jornadas de usuários, e essas jornadas representam fluxos do site. Sendo assim, retiramos algumas dessas jornadas e pedimos para usuários reais, amigos e familiares do grupo, que testassem o desempenho dessas jornadas e avaliassem se o site está cumprindo com o proposto. É importante ressaltar que os testes foram realizados duas semanas após o MVP, e algumas funcionalidades ainda não estavam disponíveis, como por exemplo a de conferir o alinhamento do deputado com o partido, pois essa task é um complemento para o produto, e não uma estória para entrega do MVP.
 
 ## Quadro-resumo das jornadas
 
@@ -28,25 +28,25 @@ A coluna 6 do Lean Inception conta com jornadas de usuários, e essas jornadas r
 
 ### Usuário 1: Paulo Goulart, 64 anos 
 
-Paulo costuma ter dificuldades com tecnologias, mas validou que assim que abriu o site conseguiu encontrar os tweets que se encontravam na homepage. Teve dificuldade em encontrar a opção de rolar a seção para ver tweets de outros usuários e afirmou ser bastante interessante a opção de ver posicionamentos. 
+Paulo costuma ter dificuldades com tecnologias, mas afirmou que: assim que abriu o site conseguiu encontrar os tweets que se encontravam na homepage. Teve dificuldade em encontrar a opção de rolar a seção para ver tweets de outros usuários. Afirmou ser bastante interessante a opção de ver posicionamentos. 
 
 ### Uusário 2: Daniela Bretas, 45 anos
 
-Daniela disse achar interessante abrir o site e ver os tweets na página inicial. Aos descobrir que abrindo o perfil do deputado, era possível ver os tweets mais recentes daquela pessoa. 
+Daniela achou interessante abrir o site e ver os tweets na página inicial. Ao descobrir que abrindo o perfil do deputado era possível ver os tweets mais recentes daquela pessoa, achou melhor para ficar setorizado o que cada pessoa diz em sua própria aba. 
 
 ## Validação 2 
 
 | Objetivo    | Metodologia | 
 |------------|---------|
-| Procurar por projetos de políticos no site | Entregamos o site aberto na homepage e deixamos que buscassem por projetos de deputaods |
+| Procurar por projetos de políticos no site | Entregamos o site aberto na homepage e deixamos que buscassem por projetos de deputados |
 
 ### Usuário 3: Julia Moutinho, 23 anos
 
-Julia apontou que gostaria de abrir a aba de projetos e já encontrar uma lista de projetos, mas encontrou uma lista de anos para encontrar os projetos por ano. Ainda assim, disse que ficou satisfeita ao vê-los. Ressaltou que para leigos talvez seja difícil se orientar naquela página caso a pessoa não saiba o que estiver procurando - acredita ser uma página que só é legal de entrar com um objetivo em mente, como por exemplo "encontrar projetos sobre proteção de animais".
+Julia apontou que gostaria de abrir a aba de projetos e já encontrar uma lista pronta, mas encontrou uma lista de anos para encontrar os projetos por ano. Ainda assim, disse que ficou satisfeita ao vê-los. Ressaltou que para leigos talvez seja difícil se orientar naquela página caso a pessoa não saiba o que estiver procurando - acredita ser uma página que só é legal de entrar com um objetivo em mente, como por exemplo "encontrar projetos sobre proteção de animais".
 
 ### Usuário 4: Laís Marques, 20 anos
 
-Laís achou a página muito confusa, apontou que gostaria que fosse separado por temas para que ficasse mais fácil de se guiar dentro dela. Num geral, disse que gostou de ter a opção de propostas disponíveis ali. 
+Laís achou a página muito confusa, apontou que gostaria que fosse separado por temas para que ficasse mais fácil de se guiar dentro dela. Num geral, disse que gostou de ter a opção de propostas disponíveis ali, mas que a tela em si pode ser melhor.
 
 ## Validação 3 
 
@@ -56,7 +56,7 @@ Laís achou a página muito confusa, apontou que gostaria que fosse separado por
 
 ### Usuário 5: Miriam Souza, 49 anos
 
-Miriam ressaltou a importância de saber em quais projetos o deputado tem votado. Apontou não ter dificuldades em encontrar os votos do deputado dentro daquela página, mas que talvez se tivesse começado na homepage, não teria encontrado essa parte tão fácil.
+Miriam ressaltou a importância de saber em quais projetos o deputado tem votado. Apontou não ter dificuldades em encontrar os votos do deputado dentro daquela página, mas que talvez se tivesse começado na homepage, não teria encontrado essa parte tão facilmente.
 
 ### Usuário 6: Hugo Camelo, 31 anos
 
@@ -74,21 +74,21 @@ Fabiana assumiu que assim que abriu a homepage, clicou no perfil de um deputado 
 
 ### Usuário 8: Camila Albino, 30 anos
 
-Camila ao abrir o site, já pesquisou pelo nome "Erika Kokay". Afirmou encontrar com facilidade a política em questão e clicou no perfil. Não houveram muitas observações extras além da facilidade em encontrar alguém através da pesquisa. 
+Camila ao abrir o site, já pesquisou pelo nome "Erika Kokay". Afirmou encontrar com facilidade a pessoa em questão e clicou no perfil. Não houveram muitas observações extras além da facilidade em encontrar alguém através da pesquisa. 
 
 ## Validação 5
 
 | Objetivo    | Metodologia | 
 |------------|---------|
-| Compartilhar informações do deputado | Entregamos o link da página de notícias e pedimos que escolhessem uma notícia e compartilhassem no whatsapp |
+| Compartilhar informações do deputado | Entregamos o link da página de notícias e pedimos que escolhessem uma notícia e compartilhassem no facebook |
 
 ### Usuário 9: Pedro Albino, 29 anos
 
-Pedro afirmou que o ícones de compartilhamento está de fácil acesso, porém as redes em que o link poderia ser compartilhado estavam difíceis de enxergar.
+Pedro afirmou que o ícones de compartilhamento estão de fácil acesso, porém as redes em que o link poderia ser compartilhado estavam difíceis de enxergar (contraste verde claro com branco não ficou bom).
 
 ### Usuário 10: Natanny Campos, 29 anos
 
-Natanny teve dificuldade sem entender onde poderia compartilhar as notícias, mas logo viu a seta de ícone normalmente usada para tal função e realizou um compartilhamento no facebook. Afirmou que após achar o botão, tudo ficou muito fácil e gostou muito de encontrá-la.
+Natanny teve dificuldades em entender onde poderia compartilhar as notícias, mas logo viu a seta de ícone normalmente usada para tal função e realizou um compartilhamento no facebook. Afirmou que após achar o botão, tudo ficou muito fácil e gostou muito de encontrá-la.
 
 ## Conclusão 
 

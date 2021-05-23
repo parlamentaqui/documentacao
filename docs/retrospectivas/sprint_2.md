@@ -71,7 +71,3 @@
 | US52        | 5                              | 5                               |  [issue #5](https://github.com/parlamentaqui/gateway/issues/5)            |
 | US53        | 5                              | 5                               |     [issue #4](https://github.com/parlamentaqui/gateway/issues/4)         |
 | Total       | 32                             | 32                              |        -      |
-
-## Velocity
-
-Nessa sprint a equipe já havia mapeado a dificuldade em relação à falta de labels da ferramenta utilizada e resolveu o problema migrando o quadro de atividades para o Zenhub. Contudo, por ter sido feito no meio da sprit, a ferramenta não foi apta a gerar o quadro de Velocity.

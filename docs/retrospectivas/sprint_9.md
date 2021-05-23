@@ -17,9 +17,6 @@
 | Não planejar novas tasks até terminarmos todas as dívidas técnicas | Todos | Sim |
 | Não planejar novas tasks até terminarmos todas as dívidas técnicas | Todos | Parcialmente |
 | Atualizar na próxima sprint | Helena, Albino | Sim |
-|  | - | - |
-|  | - | - |
-|  | - | Não |
 | Colocar essa issue como parâmetro para issue que pontuamos errados, e considerar isso na hora de pontuar as próximas issues | Helena, Albino, Machado e Fepas | Sim |
 
 
@@ -40,11 +37,8 @@
 
 | **Action Points** | **Responsáveis** |
 | ----------------- | ---------------- |
-| Nao ha | - |
 | Atualizar a planilha de horas | TODOS |
-| Fazer dailys em dupla, a dupla que fizer menos tem que deixar o time todo decidir um post no instagram | EPS |
-| Nao ha |  |
-| Nao ha (f) |  |
+| Fazer dailys em dupla, a dupla que fizer menos tem que deixar o time todo decidir um post no instagram | EPS  |
 | Reuniao BugFix | TODOS |
 
 ## Quadro geral
@@ -54,7 +48,4 @@
 | US28   |2 |[issue #28](https://github.com/parlamentaqui/frontend/issues/28) |
 | US29   |3 |[issue #29](https://github.com/parlamentaqui/frontend/issues/29) |
 | Total |5  | |
-
-## Velocity
-
 
