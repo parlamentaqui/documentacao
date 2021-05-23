@@ -9,7 +9,8 @@
 | 19/03/2021 | 2.1   | Adicionando estórias de usuário levantadas durante a sprint 2| Gabriel Albino |
 | 22/03/2021 | 2.2   | Adicionando previsão da pontuação a nível de estória para a primeira release | Gabriel Albino |
 | 23/03/2021 | 2.3   | Corrigindo previsão de pontuação para estórias adicionadas durante as sprint | Gabriel Albino |
-| 02/04/2021 | 2.4   | Adicionando estória 54 | Gabriel Albino |
+| 02/04/2021 | 2.4   | Adicionando estória 54 E 55 | Gabriel Albino |
+| 12/04/2021 | 2.5   | Adicionando estória 56 | Gabriel Albino |
 
 
 ## Épicos
@@ -72,7 +73,8 @@ funcionalidades.
 |EP1|FE03|US51|Eu, Eren, desejo conseguir ver informações armazenadas sobre um deputado para ficar mais próximo da funcionalidade final.|
 |EP1|FE03|US37|Eu, Eren, desejo que o aplicativo busque informações do perfil de deputados periodicamente para que o site tenha informações relevantes|
 |EP1|FE03|US40|Eu, Eren, desejo que o aplicativo tenha um perfil dos deputados com informações estáticas para ver o comportamento da funcionalidade.|
-|EP1|FE04|US10|Eu, Juliana, desejo acessar uma preposição ou projeto de lei para ver suas informações básicas.|
+|EP1|FE04|US54|Eu, Juliana, desejo recuperar informações sobre proposições ou projetos de lei para salvar suas informações básicas.|
+|EP1|FE04|US10|Eu, Juliana, desejo acessar uma proposição ou projeto de lei para ver suas informações básicas.|
 |EP1|FE05|US11|Eu, Luiz, desejo conseguir compartilhar as notícias da home para envia-las aos meus amigos.|
 |EP1|FE05|US12|Eu, Luiz, desejo conseguir compartilhar a notícia que se encontra no perfil do deputado para envia-las aos meus amigos.|
 |EP1|FE05|US13|Eu, Luiz, desejo conseguir compartilhar informações gerais de gastos do deputado para envia-las aos meus amigos.|
@@ -81,6 +83,7 @@ funcionalidades.
 |EP1|FE05|US16|Eu, Armim, desejo conseguir compartilhar o voto de um deputado em uma proposição específica para envia-lo aos meus amigos.|
 |EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|
 |EP1|FE06|US18|Eu, Konan, desejo conseguir ver parlamentares relacionados ao parlamentar que eu desejar em seu perfil para ter uma navegação mais fluida no site.|
+|EP2|FE07|US56|Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|
 |EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|
 |EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
 |EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|
@@ -151,9 +154,9 @@ As estórias com "0" na pontuação estimada foram adicionadas durante as sprint
 |EP1|FE01|US53|Eu, Konan, desejo conseguir ver informações sobre os deputados armazenados ordenados por ultima atividade para ficar mais próximo da funcionalidade final.|0|[gateway #4](https://github.com/parlamentaqui/gateway/issues/4)|
 |EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|0|[frontend #41](https://github.com/parlamentaqui/frontend/issues/41)|
 |Total|||20 estórias|157 pontos|
-### Release 2
+### Incremento 2
 
-A Release 2 será composta pela onda 3 do [lean inception](./lean_inception.md)
+O Incremento 2 será composta pela onda 3 do [lean inception](./lean_inception.md)
 
 |Épico|Feature|Estória|Descrição|Pontuação estimada|
 |-|-|-|-|-|
@@ -165,10 +168,10 @@ A Release 2 será composta pela onda 3 do [lean inception](./lean_inception.md)
 |EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|-|
 |EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|-|
 |EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|-|
+|EP2|FE07|US56|Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|-|
+### Incremento 3
 
-### Release 3
-
-A Release 3 será composta pela onda 4 do [lean inception](./lean_inception.md)
+O Incremento 3 será composta pela onda 4 do [lean inception](./lean_inception.md)
 
 |Épico|Feature|Estória|Descrição|Pontuação estimada|
 |-|-|-|-|-|
@@ -177,9 +180,9 @@ A Release 3 será composta pela onda 4 do [lean inception](./lean_inception.md)
 |EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|-|
 |EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|-|
 
-### Release 4
+### Incremento 4
 
-A release 4 será composta pelas ondas 5 e 6 do [lean inception](./lean_inception.md)
+O Incremento 4 será composta pelas ondas 5 e 6 do [lean inception](./lean_inception.md)
 
 
 |Épico|Feature|Estória|Descrição|Pontuação estimada|
