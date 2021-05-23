@@ -9,6 +9,7 @@
 | 02/04/2021 | 1.3   | Adicionando estória 54 | Gabriel Albino |
 | 26/04/2021 | 1.4   | Atualizando planejamento para evidenciar atraso de 1 semana | Gabriel Albino |
 | 10/05/2021 | 1.5   | Atualizando planejamento ocorrido até o incremento 01 | Gabriel Albino |
+| 13/05/2021 | 1.6   | Atualizando planejamento ocorrido para adicionar as estorias 56 e 57 | Gabriel Albino |
 
 ## Descrição
 
@@ -223,10 +224,10 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
-|EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
-|EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|
 |EP2|FE13|US28|Eu, Amadeus, desejo ter acesso á curiosidades de um parlamentar eu seu perfil para facilitar minha analise. |
-|EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
+|EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|
+|EP1|FE01|US57|Eu, Juliana, desejo criar uma lista de projetos para a tela de projetos|
+|EP1|FE01|US58|Eu, Juliana, desejo criar uma lista de deputados para a tela de deputados.|
 
 ### Entrega do Incremento 2: 15/05/2020
 
@@ -244,5 +245,7 @@ O Incremento 3, composta pela ondas 5 e 6 do [lean inception](./lean_inception.m
 |EP2|FE08|US22|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado declarado no TSE para fazer seu acompanhamento financeiro|
 |EP2|FE08|US23|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado em forma de gráfico para ter uma visualização mais didática.|
 |EP2|FE12|US44|Eu, Juliana, desejo acesso ao campo de interesse do deputado em seu perfil para que eu saiba os seus campos de interesse.|
+|EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
+|EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
 
 ### Entrega do Incremento 3: 22/05/2020

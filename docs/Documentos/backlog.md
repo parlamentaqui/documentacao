@@ -11,6 +11,7 @@
 | 23/03/2021 | 2.3   | Corrigindo previsão de pontuação para estórias adicionadas durante as sprint | Gabriel Albino |
 | 02/04/2021 | 2.4   | Adicionando estória 54 E 55 | Gabriel Albino |
 | 12/04/2021 | 2.5   | Adicionando estória 56 | Gabriel Albino |
+| 13/05/2021 | 2.6   | Adicionando estória 57 e 58 | Gabriel Albino |
 
 
 ## Épicos
@@ -64,6 +65,8 @@ funcionalidades.
 |EP1|FE01|US03|Eu, Konan, desejo ter acesso ás notícias recentes de parlamentares na página inicial para que tenha acesso rápido a conteúdos relevantes.|
 |EP1|FE01|US04|Eu, Eren, desejo ter acesso a uma barra de navegação superior para conseguir navegar no site.|
 |EP1|FE01|US47|Eu, Amadeus, desejo ter acesso a um rodapé para ver informações relevantes do site.|
+|EP1|FE01|US57|Eu, Juliana, desejo criar uma lista de projetos para a tela de projetos|
+|EP1|FE01|US58|Eu, Juliana, desejo criar uma lista de deputados para a tela de deputados.|
 |EP1|FE02|US05|Eu, Armim, desejo acesso a uma barra de busca na página inicial para encontrar conteúdos que desejo facilmente|
 |EP1|FE02|US50|Eu, Armim, desejo conseguir ver informações armazenadas sobre os que foi buscado para ficar mais próximo da funcionalidade final.|
 |EP1|FE02|US06|Eu, Armim, desejo acesso a uma página de resultados de busca para ver os parlamentares relacionados ao que pesquisei.|
