@@ -1,0 +1,304 @@
+[
+    {
+        "number": "1",
+        "title": "Criar documento de arquitetura",
+        "labels": [
+            "ARQ",
+            "DOCS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T19:28:45Z",
+        "closed_at": "2021-03-20T18:38:21Z"
+    },
+    {
+        "number": "2",
+        "title": "Modelar banco de dados",
+        "labels": [
+            "ARQ",
+            "DOCS",
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T19:31:31Z",
+        "closed_at": "2021-03-17T02:31:09Z"
+    },
+    {
+        "number": "3",
+        "title": "Preparar ambiente docker",
+        "labels": [
+            "DEVOPS",
+            "EPS",
+            "FEATURE",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-06T19:33:05Z",
+        "closed_at": "2021-03-20T18:37:58Z"
+    },
+    {
+        "number": "4",
+        "title": "Criar endpoint para a retornar deputados da home",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T17:07:59Z",
+        "closed_at": "2021-04-11T13:12:47Z"
+    },
+    {
+        "number": "5",
+        "title": "Criar endpoint para a ultimas noticias da home",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T17:10:08Z",
+        "closed_at": "2021-03-27T17:26:03Z"
+    },
+    {
+        "number": "6",
+        "title": "Criar endpoint para trazer os tweets mais recentes dos deputados para a p\u00e1gina inicial",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T17:15:45Z",
+        "closed_at": "2021-04-11T13:12:51Z"
+    },
+    {
+        "number": "7",
+        "title": "Criar endpoint para pegar os dados de um deputado especifico",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T17:19:01Z",
+        "closed_at": "2021-04-11T13:12:58Z"
+    },
+    {
+        "number": "8",
+        "title": "Criar endpoint para resultados da busca",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-13T17:22:15Z",
+        "closed_at": "2021-03-22T17:22:41Z"
+    },
+    {
+        "number": "9",
+        "title": "Fix #5 Finalizando cria\u00e7\u00e3o de endpoint para not\u00edcias na home",
+        "labels": [
+            "FEATURE",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-18T23:23:14Z",
+        "closed_at": "2021-03-27T17:26:02Z"
+    },
+    {
+        "number": "10",
+        "title": "Fix #8 Resultado de busca conclu\u00eddo",
+        "labels": [
+            "FEATURE",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-19T23:34:20Z",
+        "closed_at": "2021-03-22T17:22:40Z"
+    },
+    {
+        "number": "11",
+        "title": "Criar logica para agendar atualiza\u00e7\u00e3o de informa\u00e7\u00f5es de deputados",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T14:44:03Z",
+        "closed_at": "2021-04-11T13:13:02Z"
+    },
+    {
+        "number": "12",
+        "title": "Criar logica para agendar atualiza\u00e7\u00e3o de tweets",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T14:48:50Z",
+        "closed_at": "2021-04-11T13:13:08Z"
+    },
+    {
+        "number": "13",
+        "title": "Criar logica para agendar atualiza\u00e7\u00e3o de informa\u00e7\u00f5es de not\u00edcias",
+        "labels": [
+            "FEATURE",
+            "HARD",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-20T14:53:38Z",
+        "closed_at": "2021-04-11T13:13:12Z"
+    },
+    {
+        "number": "14",
+        "title": "Orquestra\u00e7\u00e3o do pipeline de Devops",
+        "labels": [
+            "ANALYTICS",
+            "DEVOPS",
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T23:02:52Z",
+        "closed_at": "2021-04-11T14:15:11Z"
+    },
+    {
+        "number": "21",
+        "title": "Criar l\u00f3gica para recuperar dados de proposi\u00e7\u00f5es",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T13:08:49Z",
+        "closed_at": "2021-04-24T17:34:23Z"
+    },
+    {
+        "number": "22",
+        "title": "Criar l\u00f3gica para a agendar a chamada da atualiza\u00e7\u00e3o dos dados",
+        "labels": [
+            "EPS",
+            "FEATURE",
+            "HOTFIX",
+            "MEDIUM"
+        ],
+        "state": "open",
+        "created_at": "2021-04-11T13:15:34Z",
+        "closed_at": null
+    },
+    {
+        "number": "23",
+        "title": "Criar testes do backend",
+        "labels": [
+            "EPS",
+            "FEATURE",
+            "HARD"
+        ],
+        "state": "open",
+        "created_at": "2021-04-11T13:18:08Z",
+        "closed_at": null
+    },
+    {
+        "number": "24",
+        "title": "Fix #33 Projetos votados",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-13T00:30:08Z",
+        "closed_at": "2021-04-15T23:09:16Z"
+    },
+    {
+        "number": "26",
+        "title": "Fix #21 Recuperar dados de proposi\u00e7\u00e3o",
+        "labels": [
+            "FEATURE",
+            "MDS",
+            "MEDIUM",
+            "US"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-16T01:45:38Z",
+        "closed_at": "2021-04-20T18:30:49Z"
+    },
+    {
+        "number": "27",
+        "title": "Atualizar EVM",
+        "labels": [
+            "DOCS",
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T16:19:01Z",
+        "closed_at": "2021-04-17T16:19:37Z"
+    },
+    {
+        "number": "29",
+        "title": "Atualizar envs do ambiente",
+        "labels": [
+            "DEVOPS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T18:17:25Z",
+        "closed_at": "2021-04-24T17:34:06Z"
+    },
+    {
+        "number": "30",
+        "title": "Recuperar tema das proposi\u00e7oes",
+        "labels": [
+            "EASY",
+            "EPS",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T18:39:24Z",
+        "closed_at": "2021-04-24T17:35:01Z"
+    },
+    {
+        "number": "34",
+        "title": "[BUG] Trazer informa\u00e7\u00f5es do gabinete",
+        "labels": [
+            "EASY",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "open",
+        "created_at": "2021-05-06T01:52:09Z",
+        "closed_at": null
+    },
+    {
+        "number": "35",
+        "title": "[BUG] Tweets da home n\u00e3o s\u00e3o os mais recentes",
+        "labels": [
+            "EASY",
+            "HOTFIX",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-05-06T21:45:47Z",
+        "closed_at": "2021-05-12T18:51:19Z"
+    }
+]

@@ -11,6 +11,7 @@
 | 10/05/2021 | 1.5   | Atualizando planejamento ocorrido até o incremento 01 | Gabriel Albino |
 | 13/05/2021 | 1.6   | Atualizando planejamento ocorrido para adicionar as estorias 56 e 57 | Gabriel Albino |
 
+
 ## Descrição
 
 Esse documento tem como objetivo definir o cronograma inicial a nível de sprints para o produto Parlamentaqui
@@ -147,6 +148,16 @@ A equipe deu continuidade aos treinamentos para os desenvolvedores e também a c
 ### Sprint 9 (28/03/2020)
 **Estórias de usuário**
 
+**Nâo foi passada Estórias de usuário para foco nas dividas tecnicas.**
+
+Essa sprint foi destinada a resolver dividas tecnicas pelo fato que estamos atrasados com o cronograma por causa delas.
+
+Dojo de testes para aumentar a cobertura de testes do projeto.
+
+
+### Sprint 10 (28/03/2020)
+**Estórias de usuário**
+
 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
@@ -156,7 +167,7 @@ A equipe deu continuidade aos treinamentos para os desenvolvedores e também a c
 |EP1|FE05|US15|Eu, Eren, desejo conseguir compartilhar o perfil de um deputado para envia-lo aos meus amigos.|
 |EP3|FE15|US55|Eu, Juliana, desejo que o aplicativo busque informações de votos de deputados periodicamente para que o site tenha informações relevantes|
 
-### Sprint 10 (04/04/2020)
+### Sprint 11 (04/04/2020)
 **Estórias de usuário**
 
 
@@ -173,7 +184,7 @@ A equipe deu continuidade aos treinamentos para os desenvolvedores e também a c
 ### Backlog da release
 O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 2 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
-### Sprint 11 (11/04/2020)
+### Sprint 12 (11/04/2020)
 **Estórias de usuário**
 
 
@@ -183,7 +194,7 @@ O Incremento 1, composta pela onda 3 do [lean inception](./lean_inception.md) e 
 |EP1|FE04|US54|Eu, Juliana, desejo recuperar informações sobre proposições ou projetos de lei para salvar suas informações básicas.|
 |EP4|FE17|US33|Eu, Luiz, desejo ter acesso aos tweets recentes de um deputado em seu perfil para saber o que ele está pensando.|
 
-### Sprint 12 (18/04/2020)
+### Sprint 13 (18/04/2020)
 **Estórias de usuário**
 
 
@@ -236,7 +247,7 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 ### Backlog da release
 O Incremento 3, composta pela ondas 5 e 6 do [lean inception](./lean_inception.md) e com as estórias descritas no [detalhamento da Release 4 no backlog](./backlog.md#Detalhamento-por-Release), estando divididas de acordo com o cronograma abaixo:
 
-### Sprint 16 (16/05/2020)
+### Sprint 17 (16/05/2020)
 **Estórias de usuário**
 
 

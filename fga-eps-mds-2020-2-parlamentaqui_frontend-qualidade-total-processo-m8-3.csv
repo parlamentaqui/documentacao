@@ -1,0 +1,15 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+21,US01 | Conectar lista de deputados da home no backend,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-20 15:00:31+00:00,2021-04-16 01:01:04+00:00,26 days 10:00:33,frontend,3,6
+22,Conectar lista de tweets da home no backend ,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-20 15:02:04+00:00,2021-05-04 19:46:12+00:00,45 days 04:44:08,frontend,3,9
+23,Conectar notícias da home no backend ,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-20 15:03:17+00:00,2021-04-11 13:11:12+00:00,21 days 22:07:55,frontend,3,6
+24,Conectar perfil do deputado no backend,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-20 15:05:38+00:00,2021-04-11 13:10:56+00:00,21 days 22:05:18,frontend,3,6
+25,Conectar busca no backend,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-20 15:06:35+00:00,2021-03-30 04:08:44+00:00,9 days 13:02:09,frontend,3,4
+26,Corrigir fluxos do site,"['EASY', 'EPS', 'HOTFIX']",closed,2021-03-20 15:36:30+00:00,2021-04-16 01:01:07+00:00,26 days 09:24:37,frontend,3,6
+27,Criar documento explicando a metodologia do projeto e do produto,"['DOCS', 'EASY', 'EPS']",closed,2021-03-21 21:42:59+00:00,2021-04-11 14:15:13+00:00,20 days 16:32:14,frontend,3,6
+28,Criar barra de busca na página inicial,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-03-23 19:37:27+00:00,2021-04-16 01:01:11+00:00,23 days 05:23:44,frontend,3,6
+29,Criar botão de compartilhar as notícias da home,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-03-23 20:25:41+00:00,2021-04-14 22:21:58+00:00,22 days 01:56:17,frontend,3,6
+30,Criar botão de compartilhar as notícias do perfil do deputado,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-03-23 20:26:25+00:00,2021-04-24 02:41:16+00:00,31 days 06:14:51,frontend,3,7
+31,Criar botão de compartilhar perfil do deputado,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-03-23 20:28:17+00:00,2021-04-14 22:46:33+00:00,22 days 02:18:16,frontend,3,6
+32,Criar botão de compartilhar o voto de um deputado,"['EASY', 'FEATURE', 'MDS', 'US']",closed,2021-03-23 20:29:13+00:00,2021-04-21 22:29:36+00:00,29 days 02:00:23,frontend,3,7
+33,Criar projetos votados recentemente pelo parlamentar em seu perfil,"['FEATURE', 'HARD', 'MDS', 'US']",closed,2021-03-23 20:33:09+00:00,2021-04-24 17:26:13+00:00,31 days 20:53:04,frontend,3,7
+34,Criar noticias recentes do parlamentar em seu perfil,"['FEATURE', 'HARD', 'MEDIUM', 'US']",closed,2021-03-23 21:44:48+00:00,2021-04-20 18:27:32+00:00,27 days 20:42:44,frontend,3,7

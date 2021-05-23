@@ -1,0 +1,6 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+99,Fix #87 componente proposicao deputado,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-05-15 01:02:29+00:00,2021-05-19 02:21:03+00:00,4 days 01:18:34,frontend,11,11
+101,Criar estatisticas de alinhamento ao governo para a funcionalidade de curiosidade,"['FEATURE', 'MDS', 'MEDIUM', 'US']",open,2021-05-15 17:53:14+00:00,,,frontend,11,
+102,Criar estatisticas de alinhamento ao partido para a funcionalidade de curiosidade,"['FEATURE', 'MDS', 'MEDIUM', 'US']",open,2021-05-15 17:55:11+00:00,,,frontend,11,
+103,Criar componente de crescimento patrimonial para o perfil do deputado,"['FEATURE', 'HARD', 'MDS', 'US']",open,2021-05-15 17:59:13+00:00,,,frontend,11,
+104,Criar componente de grafico do crescimento patrimonial para o perfil do deputado,"['FEATURE', 'MDS', 'MEDIUM', 'US']",open,2021-05-15 17:59:54+00:00,,,frontend,11,

@@ -7,7 +7,9 @@
 | 13/03/2021 | 1.1    | Adicionando dicionário de dados                     |    Lucas Machado   |
 | 22/03/2021 | 1.2    | Atualiizando atributos                              |    Lucas Machado   |
 | 23/03/2021 | 1.3    | Atualizando arquitetura                             |    Lucas Machado   |
-| 23/03/2021 | 1.3    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
+| 23/03/2021 | 1.4    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
+| 12/04/2021 | 1.5    | Adicionando proposição  |    Lucas Machado   |
+| 22/05/2021 | 1.6    | Atualizando documento conforme entidades atuais  |    Lucas Machado   |
 
 
 ## 1. Introdução
@@ -108,23 +110,23 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 - **Twitter**
 
-O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Twitter**, tratamento e separação de dados relevantes, e carregamento no DB.
+O "twitter" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Twitter**, tratamento e separação de dados relevantes, e carregamento no DB.
 
 - **Noticias**
 
-O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Google News (Brasil) API**, tratamento e separação de dados relevantes, e carregamento no DB.
+O "noticias" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Google News (Brasil) API**, tratamento e separação de dados relevantes, e carregamento no DB.
 
 
 - **TSE**
 
-O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **TSE**, tratamento e separação de dados relevantes, e carregamento no DB.
+O "tse" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **TSE**, tratamento e separação de dados relevantes, e carregamento no DB.
 
 
 ## 5 Visão de dados
 
 ### 5.1 Dados abertos camara
 
-![Representação de Arquitetura](../img/dados/dados_abertos.png)
+![Representação de Arquitetura](../img/dados/dados_abertos2.png)
 
 ### 5.2 Twitter
 
@@ -135,7 +137,12 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 ![Noticias](../img/dados/noticias_v2.png)
 
-### 5.4 Dicionário de dados Cross Data
+### 5.4 TSE
+
+![TSE](../img/dados/tse.png)
+
+
+### 5.5 Dicionário de dados Cross Data
 
 **Entidade:** Deputado
 
@@ -221,6 +228,53 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 | name | string | Nome do deputado |  |
 | username | string | Username do deputado |  |
 | data | date | data do tweet |  |
+
+**Entidade:** Proposição
+
+| ***Atributo*** | **Dominio** | **Descrição** | **Restrição** |
+|-|-|-|-|
+| proposicao_id | integer | Primary key | Not null |
+| idDeputadoAutor | integer | Chave do deputado | |
+| uri | string | url da proposição | |
+| descricaoTipo   | string    | Descrição  do tipo de proposição  | |
+| ementa  | string    | Texto da ementa  | |
+| ementaDetalhada | string    | Texto detalhado da ementa  | |
+| keywords    | string    | Palavras chaves da proposição | |
+| dataApresentacao    | date  | data da proposição  | |
+| urlAutor    | string    | Url do autor | |
+| tipoAutor   | string    | Deputado  | |
+| nomeAutor   | string    | Nome do autor  | |
+| siglaUFAutor    | string    | Estado do autor | |
+| temaProposicao  | string    | Tema da proposição | |
+| status  | object | Objeto que contém dados detalhados da proposição | |
+|     siglaOrgao  | string    | Sigla do orgão  | |
+|     data_proposicao | date  | data da ultima alteração da proposição | |
+|     descricaoSituacao   | string    | Descrição da situação  | |
+|     despacho    | string    | Despacho | |
+|     uriRelator  | string    | Url para o relator | |
+
+
+**Entidade:** CsvDeputado
+
+| **Atributo** | **Dominio** | **Descrição** | **Restrição** |
+|-|-|-|-|
+| idDeputado | int | Primary key | Not null |
+| csv_id | string | link csv deputado | Not null |
+| nome_deputado | string | Nome do deputado |  |
+
+
+**Entidade:** CapitalDeputado
+
+| **Atributo** | **Dominio** | **Descrição** | **Restrição** |
+|-|-|-|-|
+| id | string | Primary key | Not null |
+| idDeputado | int | Primary key | Not null |
+| csv_id | string | link csv deputado | Not null |
+| nome_deputado | string | Nome do deputado |  |
+| valor | string | valor gastos |  |
+| descricao | string | Descrição dos gastos |  |
+| tipo_documento | string | Tipo do documento que mostra o gasto |  |
+| ano | integer | Ano do gasto |  |
 
 ### Referências Bibliográficas
 

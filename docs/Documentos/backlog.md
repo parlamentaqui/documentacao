@@ -90,6 +90,7 @@ funcionalidades.
 |EP1|FE06|US18|Eu, Konan, desejo conseguir ver parlamentares relacionados ao parlamentar que eu desejar em seu perfil para ter uma navegação mais fluida no site.|
 |EP2|FE07|US56|Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|
 |EP2|FE07|US19|Eu, Eren, desejo conseguir ver os gastos de um deputado em forma de tabela com filtro em seu perfil para que consiga acompanha-lo financeiramente|
+|EP2|FE07|US56 | Eu, Eren, desejo recuperar informações sobre gastos de deputados para salvar suas informações básicas.|
 |EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
 |EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|
 |EP2|FE08|US22|Eu, Eren, desejo conseguir ver o crescimento patrimonial de um deputado declarado no TSE para fazer seu acompanhamento financeiro|

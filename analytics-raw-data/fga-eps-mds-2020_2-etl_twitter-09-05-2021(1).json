@@ -1,0 +1,458 @@
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 500,
+        "total": 8
+    },
+    "baseComponent": {
+        "id": "AXg9IJlo6OMeYByot8ET",
+        "key": "parlamentaqui_etl_twitter",
+        "name": "etl_twitter",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "duplicated_lines_density",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "21"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "files",
+                "value": "5"
+            },
+            {
+                "metric": "complexity",
+                "value": "59"
+            },
+            {
+                "metric": "ncloc",
+                "value": "322"
+            },
+            {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "comment_lines_density",
+                "value": "12.7",
+                "bestValue": false
+            }
+        ]
+    },
+    "components": [
+        {
+            "id": "AXhiGUf1bAviczvnZ8D7",
+            "key": "parlamentaqui_etl_twitter:src/api/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/api/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8D_",
+            "key": "parlamentaqui_etl_twitter:src/etl/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "src/etl/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8D8",
+            "key": "parlamentaqui_etl_twitter:src/api",
+            "name": "api",
+            "qualifier": "DIR",
+            "path": "src/api",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "16"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "53"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "178"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "16.8",
+                    "bestValue": false
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8D6",
+            "key": "parlamentaqui_etl_twitter:src/api/api.py",
+            "name": "api.py",
+            "qualifier": "FIL",
+            "path": "src/api/api.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "functions",
+                    "value": "16"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "53"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "178"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "16.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8D9",
+            "key": "parlamentaqui_etl_twitter:src/app.py",
+            "name": "app.py",
+            "qualifier": "FIL",
+            "path": "src/app.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "20"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8EA",
+            "key": "parlamentaqui_etl_twitter:src/etl",
+            "name": "etl",
+            "qualifier": "DIR",
+            "path": "src/etl",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8D-",
+            "key": "parlamentaqui_etl_twitter:src/models.py",
+            "name": "models.py",
+            "qualifier": "FIL",
+            "path": "src/models.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "4"
+                },
+                {
+                    "metric": "functions",
+                    "value": "4"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "124"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "8.1",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXhiGUf1bAviczvnZ8EB",
+            "key": "parlamentaqui_etl_twitter:src",
+            "name": "src",
+            "qualifier": "DIR",
+            "path": "src",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "21"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "files",
+                    "value": "5"
+                },
+                {
+                    "metric": "complexity",
+                    "value": "59"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "322"
+                },
+                {
+                    "metric": "coverage",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "12.7",
+                    "bestValue": false
+                }
+            ]
+        }
+    ]
+}

@@ -5,8 +5,8 @@
 
 | Data       | Versão | Descrição                                           | Autor              |
 | ---------- | ------ | --------------------------------------------------- | ------------------ |
-| 06/03/2021 | 1.0    | Criação do documento                                |    Helena e Lucas Machado   |
-| 06/03/2021 | 1.0    | Inclusão da tabela de estimativa e entrega               |    Helena e Lucas Machado   |
+| 06/03/2021 | 1.0    | Criação do documento                                |    Helena </br> Lucas Machado   |
+| 06/03/2021 | 1.0    | Inclusão da tabela de estimativa e entrega               |    Helena </br> Lucas Machado   |
 
 
 ## Retrospectiva

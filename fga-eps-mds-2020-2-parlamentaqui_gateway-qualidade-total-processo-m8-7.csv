@@ -1,0 +1,4 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+27,Atualizar EVM,"['DOCS', 'EPS', 'MEDIUM']",closed,2021-04-17 16:19:01+00:00,2021-04-17 16:19:37+00:00,0 days 00:00:36,gateway,7,6
+29,Atualizar envs do ambiente,"['DEVOPS', 'EASY', 'EPS']",closed,2021-04-17 18:17:25+00:00,2021-04-24 17:34:06+00:00,6 days 23:16:41,gateway,7,7
+30,Recuperar tema das proposiçoes,"['EASY', 'EPS', 'HOTFIX', 'MDS']",closed,2021-04-17 18:39:24+00:00,2021-04-24 17:35:01+00:00,6 days 22:55:37,gateway,7,7

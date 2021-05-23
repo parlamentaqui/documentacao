@@ -1,0 +1,2 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+43,Fix #29 Botão de compartilhar noticias da home,"['EASY', 'HOTFIX', 'MDS']",closed,2021-04-08 03:26:40+00:00,2021-04-14 22:21:57+00:00,6 days 18:55:17,frontend,5,6

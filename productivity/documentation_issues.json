@@ -1,0 +1,153 @@
+[
+    {
+        "number": "2",
+        "title": "Colocar projeto de acordo com os padr\u00f5es de software livre",
+        "labels": [
+            "DOCS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T21:35:08Z",
+        "closed_at": "2021-03-24T00:48:11Z"
+    },
+    {
+        "number": "3",
+        "title": "V\u00eddeo da R1",
+        "labels": [
+            "DOCS",
+            "EASY",
+            "EPS",
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T21:44:54Z",
+        "closed_at": "2021-03-27T17:49:30Z"
+    },
+    {
+        "number": "4",
+        "title": "Criar documento explicando a metodologia do projeto e do produto",
+        "labels": [
+            "DOCS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T21:42:59Z",
+        "closed_at": "2021-04-11T14:15:13Z"
+    },
+    {
+        "number": "5",
+        "title": "Documento de elicita\u00e7\u00e3o de requisitos",
+        "labels": [
+            "DOCS",
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T21:51:18Z",
+        "closed_at": "2021-03-23T19:24:02Z"
+    },
+    {
+        "number": "6",
+        "title": "Documentar cronograma do projeto",
+        "labels": [
+            "DOCS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-21T21:58:07Z",
+        "closed_at": "2021-03-23T19:50:12Z"
+    },
+    {
+        "number": "9",
+        "title": "Fix #11 finalizando atividade para passar os documentos",
+        "labels": [
+            "DOCS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T16:54:51Z",
+        "closed_at": "2021-03-23T18:17:23Z"
+    },
+    {
+        "number": "11",
+        "title": "Passar documentos que n\u00e3o est\u00e3o na gh-pages",
+        "labels": [
+            "DOCS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-03-23T18:10:31Z",
+        "closed_at": "2021-03-23T18:17:24Z"
+    },
+    {
+        "number": "16",
+        "title": "Apagar branches antigas",
+        "labels": [
+            "MDS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T13:59:40Z",
+        "closed_at": "2021-04-24T17:38:20Z"
+    },
+    {
+        "number": "17",
+        "title": "Refatorar CI e politica de branches",
+        "labels": [
+            "DEVOPS",
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T14:03:55Z",
+        "closed_at": "2021-05-18T17:10:44Z"
+    },
+    {
+        "number": "18",
+        "title": "Rever issues do reposit\u00f3rio",
+        "labels": [
+            "EASY",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-11T14:19:00Z",
+        "closed_at": "2021-04-24T18:07:08Z"
+    },
+    {
+        "number": "20",
+        "title": "Atualizar EVM",
+        "labels": [
+            "DOCS",
+            "EPS",
+            "MEDIUM"
+        ],
+        "state": "open",
+        "created_at": "2021-04-17T16:20:18Z",
+        "closed_at": null
+    },
+    {
+        "number": "21",
+        "title": "Criar mirror na organiza\u00e7\u00e3o da disciplina",
+        "labels": [
+            "ARQ",
+            "EPS"
+        ],
+        "state": "closed",
+        "created_at": "2021-04-17T18:02:06Z",
+        "closed_at": "2021-04-24T17:35:52Z"
+    },
+    {
+        "number": "22",
+        "title": "Criar action para gerar json do sonarclould",
+        "labels": [
+            "DEVOPS",
+            "EASY",
+            "EPS"
+        ],
+        "state": "open",
+        "created_at": "2021-04-17T18:33:44Z",
+        "closed_at": null
+    }
+]

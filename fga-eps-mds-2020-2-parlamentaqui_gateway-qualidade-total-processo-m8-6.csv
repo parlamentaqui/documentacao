@@ -1,0 +1,6 @@
+number,title,labels,state,created_at,closed_at,time_open,repository,started_on_sprint,closed_on_sprint
+21,Criar lógica para recuperar dados de proposições,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-04-11 13:08:49+00:00,2021-04-24 17:34:23+00:00,13 days 04:25:34,gateway,6,7
+22,Criar lógica para a agendar a chamada da atualização dos dados,"['EPS', 'FEATURE', 'HOTFIX', 'MEDIUM']",open,2021-04-11 13:15:34+00:00,,,gateway,6,
+23,Criar testes do backend,"['EPS', 'FEATURE', 'HARD']",open,2021-04-11 13:18:08+00:00,,,gateway,6,
+24,Fix #33 Projetos votados,"['FEATURE', 'MDS', 'US']",closed,2021-04-13 00:30:08+00:00,2021-04-15 23:09:16+00:00,2 days 22:39:08,gateway,6,6
+26,Fix #21 Recuperar dados de proposição,"['FEATURE', 'MDS', 'MEDIUM', 'US']",closed,2021-04-16 01:45:38+00:00,2021-04-20 18:30:49+00:00,4 days 16:45:11,gateway,6,7
