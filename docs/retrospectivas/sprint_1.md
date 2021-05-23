@@ -9,6 +9,16 @@
 | 06/03/2021 | 1.0    | Inclusão da tabela de estimativa e entrega               |    Helena </br> Lucas Machado   |
 
 
+## Quantidade de horas gastas pelos MDS na sprint
+Esta métrica é coletada com a intenção de entendermos onde os desenvolvedores estão gastando mais tempo na disciplina afim de ajudá-los. A quantidade de horas gastas por eles é preenchida em uma planilha do drive, que pode ser encontrada [aqui](https://drive.google.com/drive/folders/1qbKIsqlnY7s33jziuN4mZ-z4Dm_bJ7nM?usp=sharing). O gráfico abaixo mostra o resultado final em quantas horas foram gastas para estudar, codar e debugar o código feito.
+
+- Estudar: 30h
+- Codar: 57h
+- Debugar: 47h
+
+![semana1](../img/semana1.PNG)
+
+
 ## Retrospectiva
 
 | **Pontos fracos** | **Pontos Fortes** |
@@ -25,11 +35,6 @@
 | Fepas se sentiu sobrecarregado ajudando os MDS's no final da semana<br>Dependência alta dos MDS's com o Devops (Fepas) | MDS's estão conseguindo se ajudar |
 | Albino acredita que poderíamos ter ensinado frontend antes do backend na reunião anterior | Equipe está acompromissada como um todo com o projeto |
 | Equipe calculou mal o prazo até a R1 |  |
-
-
-### Velocity
-A esta altura do projeto, a equipe estava fazendo uso da ferramenta de Projetos, dentro da organização no Github, para seguir com o Kanban. A intenção de usar essa ferramenta era sua integração com o andamento das *issues*: assim que uma *issue* fosse movida para revisão, o quadro atualizava automaticamente. Para conferir esse quadro basta [clicar aqui](https://github.com/orgs/parlamentaqui/projects/1).
-<br> Contudo, infelizmente não havíamos percebido que a ferramenta estava impossibilitando o uso de *labels* importantes como a pontuação e separação de sprints. Sendo assim, não foi possível gerar o gráfico de velocity dessa sprint. É importante reassaltar que o rastreamento, organização e documentação dos gestores permite saber quantos pontos foram planejados e entregues.
 
 ## Action points solicitados para próxima semana
 
