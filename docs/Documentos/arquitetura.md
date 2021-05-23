@@ -9,6 +9,7 @@
 | 23/03/2021 | 1.3    | Atualizando arquitetura                             |    Lucas Machado   |
 | 23/03/2021 | 1.4    | Adicionando referência sobre banco compartilhado entre microserviços |    Lucas Machado   |
 | 12/04/2021 | 1.5    | Adicionando proposição  |    Lucas Machado   |
+| 22/05/2021 | 1.6    | Atualizando documento conforme entidades atuais  |    Lucas Machado   |
 
 
 ## 1. Introdução
@@ -109,23 +110,23 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 - **Twitter**
 
-O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Twitter**, tratamento e separação de dados relevantes, e carregamento no DB.
+O "twitter" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Twitter**, tratamento e separação de dados relevantes, e carregamento no DB.
 
 - **Noticias**
 
-O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Google News (Brasil) API**, tratamento e separação de dados relevantes, e carregamento no DB.
+O "noticias" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **Google News (Brasil) API**, tratamento e separação de dados relevantes, e carregamento no DB.
 
 
 - **TSE**
 
-O "Dados abertura camara" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **TSE**, tratamento e separação de dados relevantes, e carregamento no DB.
+O "tse" é a fronteira responsável por realizar o processo de ETL, pela extração dos dados da API **TSE**, tratamento e separação de dados relevantes, e carregamento no DB.
 
 
 ## 5 Visão de dados
 
 ### 5.1 Dados abertos camara
 
-![Representação de Arquitetura](../img/dados/dados_abertos.png)
+![Representação de Arquitetura](../img/dados/dados_abertos2.png)
 
 ### 5.2 Twitter
 
@@ -136,9 +137,10 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 
 ![Noticias](../img/dados/noticias_v2.png)
 
-### 5.4 Proposições
+### 5.4 TSE
 
-![Proposições](../img/dados/proposicao.png)
+![TSE](../img/dados/tse.png)
+
 
 ### 5.5 Dicionário de dados Cross Data
 
@@ -251,6 +253,28 @@ O "Dados abertura camara" é a fronteira responsável por realizar o processo de
 |     despacho    | string    | Despacho | |
 |     uriRelator  | string    | Url para o relator | |
 
+
+**Entidade:** CsvDeputado
+
+| **Atributo** | **Dominio** | **Descrição** | **Restrição** |
+|-|-|-|-|
+| idDeputado | int | Primary key | Not null |
+| csv_id | string | link csv deputado | Not null |
+| nome_deputado | string | Nome do deputado |  |
+
+
+**Entidade:** CapitalDeputado
+
+| **Atributo** | **Dominio** | **Descrição** | **Restrição** |
+|-|-|-|-|
+| id | string | Primary key | Not null |
+| idDeputado | int | Primary key | Not null |
+| csv_id | string | link csv deputado | Not null |
+| nome_deputado | string | Nome do deputado |  |
+| valor | string | valor gastos |  |
+| descricao | string | Descrição dos gastos |  |
+| tipo_documento | string | Tipo do documento que mostra o gasto |  |
+| ano | integer | Ano do gasto |  |
 
 ### Referências Bibliográficas
 
