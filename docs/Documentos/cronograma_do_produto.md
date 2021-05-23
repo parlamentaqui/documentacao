@@ -8,6 +8,7 @@
 | 23/03/2021 | 1.2    | Adicionado atividades que ocorreram nas sprints | Lucas Machado |
 | 02/04/2021 | 1.3   | Adicionando estória 54 | Gabriel Albino |
 | 26/04/2021 | 1.4   | Atualizando planejamento para evidenciar atraso de 1 semana | Gabriel Albino |
+| 10/05/2021 | 1.5   | Atualizando planejamento ocorrido até o incremento 01 | Gabriel Albino |
 
 ## Descrição
 
@@ -203,13 +204,11 @@ Sprint atrasada em 1 semana para realização de dívidas técnicas.
 
 |Épico|Feature|Estória|Descrição|
 |-|-|-|-|
-|EP2|FE13|US28|Eu, Amadeus, desejo ter acesso á curiosidades de um parlamentar eu seu perfil para facilitar minha analise. |
-|EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
 |EP2|FE07|US21|Eu, Eren, desejo conseguir comparar o uso de cota de dois deputados para ter uma base de quanto meu deputado gasta em relação aos outros.|
-|EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|
 |EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
 |EP1|FE05|US17|Eu, Armim, desejo conseguir compartilhar uma proposição para envia-la aos meus amigos.|
-|EP2|FE07|US20|Eu, Eren, desejo conseguir ver os gastos em forma de gráficos quando desejar para conseguir ver a informação de maneira mais didática|
+|EP4|FE17|US43|Eu, Luiz, desejo ter acesso aos tweets de um deputado relacionado a uma proposição em seu perfil para saber o que ele está pensando.|
+
 
 ### Entrega do Incremento 1: 01/05/2020
 
@@ -226,6 +225,8 @@ O Incremento 2, composta pela onda 4 do [lean inception](./lean_inception.md) e 
 |-|-|-|-|
 |EP3|FE14|US30|Eu, Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra o posicionamento de sua bancada / partido para facilitar minha analise.|
 |EP2|FE12|US27|Eu, Juliana, desejo acesso aos projetos / proposições propostas pelo parlamentar em seu perfil para que eu saiba os seus campos de interesse.|
+|EP2|FE13|US28|Eu, Amadeus, desejo ter acesso á curiosidades de um parlamentar eu seu perfil para facilitar minha analise. |
+|EP3|FE14|US29|Eu, como Juliana, desejo ter acesso á informação de o deputado geralmente é a favor ou contra as propostas alinhadas ao governo federal para facilitar minha analise.|
 
 ### Entrega do Incremento 2: 15/05/2020
 
