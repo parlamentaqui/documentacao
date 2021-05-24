@@ -78,4 +78,17 @@ Esta métrica é coletada com a intenção de entendermos onde os desenvolvedore
 | US55  |5 |[issue #55](https://github.com/parlamentaqui/frontend/issues/55)|
 | Total |31  | |
 
+|US|Pontuação estimada pela equipe |Pontuação entregue|Rastreamento|
+|-|-|-|-|
+| US37  | 0 (dívida técnica)  | 8 |[gateway #11](https://github.com/parlamentaqui/gateway/issues/11)|
+| US9   | 0 (dívida técnica)  | 5 |[frontend #24](https://github.com/parlamentaqui/frontend/issues/24)|
+|US05|2|0|[frontend #28](https://github.com/parlamentaqui/frontend/issues/28)|
+|US11|3|0|[frontend #29](https://github.com/parlamentaqui/frontend/issues/29)|
+|US15|5|0|[frontend #31](https://github.com/parlamentaqui/frontend/issues/31)|
+|US34|8|0|[frontend #34](https://github.com/parlamentaqui/frontend/issues/34)|
+|US55|8|0|[frontend #41](https://github.com/parlamentaqui/frontend/issues/41)|
+|TOTAL|26|13|
+
+
+
 

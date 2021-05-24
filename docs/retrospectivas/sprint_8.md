@@ -53,12 +53,11 @@ Nesta sprint os gerentes optaram por não agendar novas issues para a semana e d
 
 ## Quadro geral
 
-| US    | Pontuação estimada pela equipe | Pontuação entregue              | 
-|-------|--------------------------------|---------------------------------|
-| US21   |5 |[issue #21](https://github.com/parlamentaqui/gateway/issues/21) |
-| US43   |8 |[issue #43](https://github.com/parlamentaqui/frontend/issues/43) |
-| US17  |5 |[issue #17](https://github.com/parlamentaqui/gateway/issues/17)|
-| US20  |8 |[issue #20](https://github.com/parlamentaqui/gateway/issues/20) |
-| Total |26  | |
+| US    | Pontuação estimada pela equipe | Pontuação entregue  | Rastreamento |
+|-------|----------------|--------|--|
+|US11|0 (dívida técnica)|3|[frontend #29](https://github.com/parlamentaqui/frontend/issues/29)| |
+|US19|0 (dívida técnica)|13| [frontend #60](https://github.com/parlamentaqui/frontend/issues/60) |
+| Total | 0  | 16 |
+
 
 

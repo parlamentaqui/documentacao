@@ -22,3 +22,21 @@ Os problemas foram mapeados conforme o quadro a seguir:
 | Cristian | Está com problemas em interpretar qual sua dificuldade técnica em entregar a issue de dívida que ele possui.  | Helena e Albino finalizarão a atividade.               |    
 | Rafael | Não possui conhecimentos técnicos o suficiente para finalizar a issue de dívida técnica | Helena e Albino finalizarão a atividade.
 | Duda   |  As dívidas técnicas viraram bolas de neve e está difícil conciliar as demais matérias da UnB com issues novas e antigas   | Helena e Albino finalizarão a atividade.
+
+## Quadro geral
+
+|US|Pontos estimados pela equipe|Pontuação entregue|Rastreamento|
+|-|-|-|-|
+|US33|0 (dívida técnica) |5|[frontend #45](https://github.com/parlamentaqui/frontend/issues/45)|
+|US10|0 (dívida técnica) |5|[frontend #59](https://github.com/parlamentaqui/frontend/issues/59)|
+|US20|0 (dívida técnica) |8|[frontend #72](https://github.com/parlamentaqui/frontend/issues/72)|
+|US27| 8|8|[frontend #87](https://github.com/parlamentaqui/frontend/issues/87)|
+|US28| 8|8|[frontend #84](https://github.com/parlamentaqui/frontend/issues/84)|
+|US57|8|8|[frontend #85](https://github.com/parlamentaqui/frontend/issues/85)|
+|US58|5|5|[frontend #86](https://github.com/parlamentaqui/frontend/issues/86)|
+| Total | 29 |47 |
+
+
+
+
+

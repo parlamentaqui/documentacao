@@ -62,15 +62,13 @@ Esta métrica é coletada com a intenção de entendermos onde os desenvolvedore
 
 ## Quadro geral
 
-| US    | Pontuação estimada pela equipe | Pontuação entregue              | 
-|-------|--------------------------------|---------------------------------|
+| US    | Pontuação estimada pela equipe | Pontuação entregue              | Rastreamento | 
+|-------|----------|-----|-----|
 | US40  | Dívida técnica                 | 0 - dívida técnica não entregue | 
-| US1   | 5   |[issue #1](https://github.com/parlamentaqui/gateway/issues/1) |
-| US2   | 5   |[issue #2](https://github.com/parlamentaqui/gateway/issues/1) |
-| US9   | 5   |[issue #9](https://github.com/parlamentaqui/gateway/issues/9) |
-| US3   | 5   |[issue #3](https://github.com/parlamentaqui/gateway/issues/3) |
-| US38  | 13  |[issue #38](https://github.com/parlamentaqui/frontend/issues/38) |
-| US37  | 8   |[issue #37](https://github.com/parlamentaqui/frontend/issues/37) |
-| US39  | 13  |[issue #39](https://github.com/parlamentaqui/frontend/issues/39) |
-| Total | 54  | |
-
+| US1   | 5  | 5|[frontend #21](https://github.com/parlamentaqui/frontend/issues/21)|
+| US2   | 5  | 0|[frontend #22](https://github.com/parlamentaqui/frontend/issues/22) |
+| US3   | 5  | 0|[frontend #23](https://github.com/parlamentaqui/frontend/issues/23)| US9   | 5  | 0|[frontend #24](https://github.com/parlamentaqui/frontend/issues/24)|
+| US37  | 8  | 0|[gateway #11](https://github.com/parlamentaqui/gateway/issues/11)|
+| US38  | 13 | 0|[gateway #1](https://github.com/parlamentaqui/gateway/issues/122)|
+| US39  | 13 | 0|[gateway #13](https://github.com/parlamentaqui/gateway/issues/13)|
+| Total | 57  | 5|

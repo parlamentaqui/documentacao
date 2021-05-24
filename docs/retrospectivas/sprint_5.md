@@ -61,11 +61,16 @@
 
 ## Quadro geral
 
-| US    | Pontuação estimada pela equipe | Pontuação entregue              | 
-|-------|--------------------------------|---------------------------------|
-| U31   |5 |[issue #31](https://github.com/parlamentaqui/frontend/issues/31) |
-| US16  |8 |[issue #34](https://github.com/parlamentaqui/gateway/issues/34)|
-| US12  |13 |[issue #12](https://github.com/parlamentaqui/gateway/issues/12) |
-| Total |26  | |
+|US|Pontos estimados pela equioe|Pontuação entregue|Rastreamento|
+|-|-|-|-|
+| US37  | 0 (dívida técnica)  | 8|[gateway #11](https://github.com/parlamentaqui/gateway/issues/11)|
+|US05|0 (dívida técnica) | 2 |[frontend #28](https://github.com/parlamentaqui/frontend/issues/28)|
+|US55|0 (dívida técnica) |8|[frontend #41](https://github.com/parlamentaqui/frontend/issues/41)|
+|US12|3|0|[frontend #30](https://github.com/parlamentaqui/frontend/issues/30)|
+|US16|3|0|[frontend #32](https://github.com/parlamentaqui/frontend/issues/32)|
+|US31|13|0|[frontend #33](https://github.com/parlamentaqui/frontend/issues/33)|
+|TOTAL|19|18|
+
+
 
 
