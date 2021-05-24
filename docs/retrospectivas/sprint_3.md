@@ -71,4 +71,4 @@ Esta métrica é coletada com a intenção de entendermos onde os desenvolvedore
 | US37  | 8  | 0|[gateway #11](https://github.com/parlamentaqui/gateway/issues/11)|
 | US38  | 13 | 0|[gateway #1](https://github.com/parlamentaqui/gateway/issues/122)|
 | US39  | 13 | 0|[gateway #13](https://github.com/parlamentaqui/gateway/issues/13)|
-| Total | 57  | 5|
+| Total | 57  | 5 |

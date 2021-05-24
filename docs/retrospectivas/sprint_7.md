@@ -10,7 +10,14 @@
 
 ![equipereunida](../img/printsprint.PNG)
 
+## Quantidade de horas gastas pelos MDS na sprint
+Esta métrica é coletada com a intenção de entendermos onde os desenvolvedores estão gastando mais tempo na disciplina afim de ajudá-los. A quantidade de horas gastas por eles é preenchida em uma planilha do drive, que pode ser encontrada [aqui](https://drive.google.com/drive/folders/1qbKIsqlnY7s33jziuN4mZ-z4Dm_bJ7nM?usp=sharing). O gráfico abaixo mostra o resultado final em quantas horas foram gastas para estudar, codar e debugar o código feito.
 
+- Estudar: 8h
+- Codar: 40h
+- Debugar: 22h
+
+![semana1](../img/sprint7.PNG)
 
 ## Action points solicitados para essa semana
 
